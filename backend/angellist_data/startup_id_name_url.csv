@@ -1,0 +1,994 @@
+startup_id,name,angellist_url
+44,Baydin,https://angel.co/baydin
+112,Graphicly,https://angel.co/graphicly
+119,Appstores,https://angel.co/appstores
+130,eVenues,https://angel.co/evenues
+160,Wowzer,https://angel.co/wowzer-1
+194,BackType,https://angel.co/backtype
+209,Stormpulse,https://angel.co/stormpulse
+238,Curios.me,https://angel.co/curios-me
+312,StyleSeat,https://angel.co/styleseat
+349,mygola.com,https://angel.co/mygola-com
+537,StepOut,https://angel.co/stepout
+630,Miso Media,https://angel.co/miso-media
+674,Gengo,https://angel.co/gengo-1
+684,Leftronic,https://angel.co/leftronic
+695,72Lux,https://angel.co/72lux
+720,CardMunch,https://angel.co/cardmunch
+787,BoostCTR,https://angel.co/boostctr
+813,Humanoid (Acquired by CloudFactory),https://angel.co/humanoid-acquired-by-cloudfactory
+815,StartupDigest,https://angel.co/startupdigest
+817,TeliportMe,https://angel.co/teliportme
+820,Breakthrough.com,https://angel.co/breakthrough-com
+826,DailyWorth,https://angel.co/dailyworth
+859,Relevvant,https://angel.co/relevvant
+915,FeeFighters,https://angel.co/feefighters
+917,InternMatch,https://angel.co/internmatch-2
+979,ScriptPad,https://angel.co/scriptpad
+1003,Crowdbooster,https://angel.co/crowdbooster
+1023,MindSnacks,https://angel.co/mindsnacks
+1074,AllTrails,https://angel.co/alltrails
+1124,500 Startups,https://angel.co/500startups
+1241,Vastrm,https://angel.co/vastrm
+1242,AwayFind,https://angel.co/awayfind
+1248,Bluefields,https://angel.co/bluefields
+1249,Forrst,https://angel.co/forrst
+1266,Influitive,https://angel.co/influitive
+1347,Listia,https://angel.co/listia
+1410,GinzaMetrics,https://angel.co/ginzametrics
+1464,Yobble,https://angel.co/yobble
+1484,9Slides,https://angel.co/9slides
+1541,Highlighter,https://angel.co/highlighter
+1566,Psykosoft,https://angel.co/psykosoft
+1639,BizeeBee,https://angel.co/bizeebee
+1675,Evo,https://angel.co/evo
+1680,Punchd,https://angel.co/punchd
+1682,Iconfinder ,https://angel.co/iconfinder
+1693,GoodPeople,https://angel.co/goodpeople
+1748,FullContact,https://angel.co/fullcontact
+1790,Quartzy,https://angel.co/quartzy
+1796,eSpark Learning,https://angel.co/espark-learning
+1812,Proven,https://angel.co/proven
+1856,Zagster,https://angel.co/zagster
+1997,Social Stork,https://angel.co/social-stork
+2032,Creative Market,https://angel.co/creative-market
+2106,Contently,https://angel.co/contently
+2197,Vayable,https://angel.co/vayable
+2269,Pick1,https://angel.co/pick1
+2276,Hipster,https://angel.co/hipster
+2484,Tip or Skip,https://angel.co/tip-or-skip
+2489,Rapportive,https://angel.co/rapportive
+2500,Bloodhound,https://angel.co/bloodhound
+2506,Binpress,https://angel.co/binpress
+2556,FastCall,https://angel.co/fastcall
+2744,Motion Math,https://angel.co/motion-math
+2752,Fileboard,https://angel.co/fileboard
+2787,Privy,https://angel.co/privy
+2831,Simple Energy,https://angel.co/simple-energy
+2854,Manpacks,https://angel.co/manpacks
+2917,LaunchRock,https://angel.co/launchrock
+3033,Chromatik,https://angel.co/chromatik
+3204,Toshl Finance,https://angel.co/toshl-finance
+3295,DISQUS,https://angel.co/disqus
+3296,Kibin,https://angel.co/kibin
+3336,Craft Coffee,https://angel.co/craftcoffee
+3463,MogoTix,https://angel.co/mogotix
+3473,drchrono,https://angel.co/drchrono
+3494,Nexercise,https://angel.co/nexercise
+3502,Tout,https://angel.co/tout
+3678,500friends,https://angel.co/500friends
+3733,Wishery,https://angel.co/wishery
+4041,Chute,https://angel.co/chute
+4064,PicCollage,https://angel.co/piccollage
+4081,BugHerd,https://angel.co/bugherd
+4312,The IdeaLists,https://angel.co/the-idealists
+4374,Zerply,https://angel.co/zerply
+4776,Groupiter,https://angel.co/groupiter
+4876,HiGear,https://angel.co/higear-1
+5580,LessThan3,https://angel.co/lessthan3
+5599,drumbi,https://angel.co/drumbi
+5980,PostRocket,https://angel.co/postrocket
+6028,Kicksend,https://angel.co/kicksend
+6328,LocBox,https://angel.co/locbox
+6398,RollSale,https://angel.co/rollsale
+6422,Crittercism,https://angel.co/crittercism
+6427,Kismet,https://angel.co/kismet
+6446,DailyCred,https://angel.co/dailycred
+6468,Welcu,https://angel.co/welcu
+6592,Wattvision,https://angel.co/wattvision
+6618,Mocavo,https://angel.co/mocavo
+6657,Days by Wander,https://angel.co/days-by-wander
+6662,Splash,https://angel.co/splash
+6702,AngelList,https://angel.co/angellist
+7332,tapviva,https://angel.co/tapviva
+7601,Torbit (acquired by WalmartLabs),https://angel.co/torbit-acquired-by-walmartlabs
+9434,Teamly,https://angel.co/teamly
+9580,NetPlenish,https://angel.co/netplenish
+9921,SimpleReach ,https://angel.co/simplereach
+10275,imgix,https://angel.co/imgix
+10310,Gizmo,https://angel.co/gizmo
+10855,Vungle,https://angel.co/vungle
+10908,GroupTalent,https://angel.co/grouptalent
+11369,Scaffold,https://angel.co/scaffold
+11888,Cloudability,https://angel.co/cloudability
+12106,Ambassador ,https://angel.co/ambassador
+12271,Saygent,https://angel.co/saygent
+12387,Postmates,https://angel.co/postmates
+12694,Wednesdays,https://angel.co/wednesdays
+12826,iDoneThis,https://angel.co/idonethis
+12882,Sidewalk,https://angel.co/sidewalk
+13076,Rewardli,https://angel.co/rewardli
+13090,Spoondate,https://angel.co/spoondate
+13097,Symphony,https://angel.co/symphony-3
+13152,Visually,https://angel.co/visually
+13274,Firebase,https://angel.co/firebase
+13309,Conductrics,https://angel.co/conductrics
+13320,SourceNinja,https://angel.co/sourceninja
+13844,PlayVox,https://angel.co/playvox-1
+13949,MinoMonsters,https://angel.co/minomonsters
+14239,Mixpanel,https://angel.co/mixpanel
+14263,Expresso,https://angel.co/expresso
+14700,Artsicle,https://angel.co/artsicle
+15077,SocialWire,https://angel.co/socialwire
+15481,OwnLocal,https://angel.co/ownlocal
+15762,WillCall,https://angel.co/willcall
+16385,Convore,https://angel.co/convore
+16683,YourMechanic,https://angel.co/yourmechanic
+16828,Farmeron,https://angel.co/farmeron
+16970,LawGives,https://angel.co/lawgives
+17068,Heyzap,https://angel.co/heyzap
+17609,Intercom,https://angel.co/intercom
+17973,Spill,https://angel.co/spill
+18138,MobileDevHQ,https://angel.co/mobiledevhq
+18275,Life360,https://angel.co/life360
+18618,Ribbon,https://angel.co/ribbon
+18863,Pipedrive,https://angel.co/pipedrive
+18869,LocalOn,https://angel.co/localon
+18918,Relevant,https://angel.co/relevant
+18937,Fitocracy,https://angel.co/fitocracy
+18966,Fetchnotes,https://angel.co/fetchnotes
+19037,Deep Fried Manna,https://angel.co/deep-fried-manna
+19119,ActivityHero,https://angel.co/activityhero
+19136,Appswell,https://angel.co/appswell
+19146,WakeMate,https://angel.co/wakemate
+19149,Divvyshot,https://angel.co/divvyshot
+19150,OtherInbox,https://angel.co/otherinbox
+19153,Foodspotting (Part of OpenTable),https://angel.co/foodspotting-part-of-opentable
+19154,Estately,https://angel.co/estately
+19159,Recurly,https://angel.co/recurly
+19168,Udemy,https://angel.co/udemy
+19184,Network,https://angel.co/network
+19185,UsingMiles,https://angel.co/usingmiles
+19194,Hunie,https://angel.co/hunie
+19239,Buyou,https://angel.co/buyou
+19331,LaunchBit,https://angel.co/launchbit
+19338,ShopWell (IDEO Spin-Out),https://angel.co/shopwell-ideo-spin-out
+19374,MentorMob,https://angel.co/mentormob
+19384,Votizen,https://angel.co/votizen
+19401,RoundPegg,https://angel.co/roundpegg
+19435,FastCustomer,https://angel.co/fastcustomer
+19563,9GAG,https://angel.co/9gag
+19612,Habit Labs,https://angel.co/habit-labs
+19671,Chartio,https://angel.co/chartio
+19672,Cognection,https://angel.co/cognection
+19755,The RealReal,https://angel.co/the-realreal
+19899,WeddingLovely,https://angel.co/weddinglovely
+19928,42Floors,https://angel.co/42floors
+19935,Xola,https://angel.co/xola
+19982,Ark,https://angel.co/ark
+20011,Libboo,https://angel.co/libboo
+20026,Hipset,https://angel.co/hipset
+20249,LookAcross,https://angel.co/lookacross
+20331,Amicus,https://angel.co/amicus
+20332,MediaSpike,https://angel.co/mediaspike
+20336,Mile High Organics,https://angel.co/mile-high-organics
+20520,Culture Kitchen,https://angel.co/culture-kitchen
+20524,Bia,https://angel.co/bia
+20637,Open Air Publishing,https://angel.co/open-air-publishing
+20715,Coderbuddy,https://angel.co/coderbuddy
+20788,oneforty,https://angel.co/oneforty
+20898,Loku,https://angel.co/loku
+20917,Promoboxx,https://angel.co/promoboxx
+20944,Tinfoil Security,https://angel.co/tinfoil-security
+21031,Chalkable,https://angel.co/chalkable
+21042,SendHub,https://angel.co/sendhub
+21047,Console.fm,https://angel.co/console-fm
+21048,Curebit,https://angel.co/curebit
+21073,Apptentive,https://angel.co/apptentive
+21199,Classtivity,https://angel.co/classtivity
+21211,MightBuy,https://angel.co/mightbuy
+21214,Babelverse,https://angel.co/babelverse
+21272,ShowMe,https://angel.co/showme
+21301,Appstack,https://angel.co/appstack
+21312,Cake Health,https://angel.co/cake-health
+21517,Ginger.io,https://angel.co/ginger-io
+21584,EveryMove,https://angel.co/everymove
+21594,Shopsy,https://angel.co/shopsy
+21604,Buffer,https://angel.co/buffer
+21618,SpotRight,https://angel.co/spotright
+21770,Cadee,https://angel.co/cadee
+21778,Geekatoo,https://angel.co/geekatoo
+21821,MeMeTales,https://angel.co/memetales
+21834,Bunndle,https://angel.co/bunndle
+21877,From.Us,https://angel.co/from-us
+21891,AppGrooves,https://angel.co/appgrooves
+21896,Glider,https://angel.co/glider
+21969,Senexx,https://angel.co/senexx
+22038,Rentlord,https://angel.co/rentlord
+22246,Everpix,https://angel.co/everpix
+22249,Flextrip,https://angel.co/flextrip
+22287,Crowdtilt,https://angel.co/crowdtilt
+22320,LVL6,https://angel.co/lvl6
+22458,HighScore House,https://angel.co/highscore-house
+22663,GazeHawk,https://angel.co/gazehawk
+22679,Stereotypes,https://angel.co/stereotypes
+22776,Unbounce,https://angel.co/unbounce
+22799,PayByGroup,https://angel.co/paybygroup
+22937,Lua ,https://angel.co/lua-1
+22940,Chorus,https://angel.co/chorus
+23064,Picplum,https://angel.co/picplum
+23102,Keen IO,https://angel.co/keen-io
+23140,Stupeflix,https://angel.co/stupeflix
+23157,simplehoney,https://angel.co/simplehoney
+23205,Empreware,https://angel.co/empreware
+23227,Jebbit,https://angel.co/jebbit
+23238,Eventup,https://angel.co/eventup
+23290,Mortar Data,https://angel.co/mortar-data
+23418,TouristEye,https://angel.co/touristeye
+23427,TurnStar,https://angel.co/turnstar
+23479,GoVoluntr,https://angel.co/govoluntr
+23577,CompStak,https://angel.co/compstak
+23761,Waygo,https://angel.co/waygo
+23792,EverTrue,https://angel.co/evertrue
+23877,Spinnakr,https://angel.co/spinnakr
+23914,Triptrotting,https://angel.co/triptrotting
+23967,viaCycle,https://angel.co/viacycle
+24067,Distil Networks,https://angel.co/distil-networks
+24069,Bench,https://angel.co/bench
+24153,GoSpotCheck,https://angel.co/gospotcheck
+24196,Ridejoy,https://angel.co/ridejoy
+24232,Hall,https://angel.co/hall
+24366,Chasm.io,https://angel.co/chasm-io
+24398,Issue,https://angel.co/issue
+24412,Tailored,https://angel.co/tailored
+24416,Vidmaker,https://angel.co/vidmaker
+24432,Marquee,https://angel.co/marquee
+24442,JyMob,https://angel.co/jymob
+24469,Tiny Post,https://angel.co/tiny-post
+24491,LinkCycle,https://angel.co/linkcycle
+24507,Codeship,https://angel.co/codeship
+24541,PageLever,https://angel.co/pagelever
+24583,Rapt Media,https://angel.co/rapt-media-1
+24587,Roobiq,https://angel.co/roobiq
+24678,MoPub,https://angel.co/mopub
+24738,Bespoke Post,https://angel.co/bespoke-post
+24856,GymPact,https://angel.co/gympact
+24944,ElasticBox,https://angel.co/elasticbox
+24963,SalesLoft,https://angel.co/salesloft
+25024,FaithStreet,https://angel.co/faithstreet
+25025,Talkdesk,https://angel.co/talkdesk
+25065,Retailigence,https://angel.co/retailigence
+25092,DataRank,https://angel.co/datarank
+25189,Safe Shepherd,https://angel.co/safe-shepherd
+25293,Authy,https://angel.co/authy
+25294,CoachUp,https://angel.co/coachup
+25306,Dashbell ,https://angel.co/dashbell
+25353,WhoAPI,https://angel.co/whoapi
+25359,Adioso,https://angel.co/adioso
+25441,Storie,https://angel.co/storie
+25497,Switchcam,https://angel.co/switchcam
+25513,Contactually,https://angel.co/contactually
+25518,Clipabout,https://angel.co/clipabout-1
+25519,LendFriend,https://angel.co/lendfriend
+25528,Heyo,https://angel.co/heyo
+25544,RolePoint,https://angel.co/rolepoint
+25577,ShopLogic,https://angel.co/shoplogic
+25635,Frugalo,https://angel.co/frugalo
+25717,MoPix,https://angel.co/mopix
+25954,Matterport,https://angel.co/matterport
+25976,Storypanda,https://angel.co/storypanda
+25989,BrandBoards,https://angel.co/brandboards
+26003,Smore,https://angel.co/smore
+26090,ContaAzul,https://angel.co/contaazul
+26102,LOOKK,https://angel.co/lookk
+26108,Rota dos Concursos,https://angel.co/rota-dos-concursos
+26118,Love With Food,https://angel.co/love-with-food
+26160,Koemei ,https://angel.co/koemei
+26167,Pocket Tales,https://angel.co/pocket-tales
+26179,Happy Inspector,https://angel.co/happy-inspector
+26190,MixRank,https://angel.co/mixrank
+26348,TapCanvas,https://angel.co/tapcanvas
+26394,Condition One,https://angel.co/condition-one
+26411,Club W,https://angel.co/club-w
+26432,Murfie,https://angel.co/murfie
+26523,Shareaholic,https://angel.co/shareaholic
+26683,ShuttleCloud,https://angel.co/shuttlecloud
+26775,Bondsy,https://angel.co/bondsy
+26883,Poptip,https://angel.co/poptip
+26942,Meal Ticket,https://angel.co/meal-ticket
+27033,Romotive,https://angel.co/romotive-2
+27048,Foodzie,https://angel.co/foodzie
+27096,Zeppelin,https://angel.co/zeppelin
+27175,The Muse,https://angel.co/the-muse-1
+27212,BISON,https://angel.co/bison
+27216,Hapyrus,https://angel.co/hapyrus
+27490,Fieldwire,https://angel.co/fieldwire
+27572,"Tello, creators of PassTools",https://angel.co/tello-creators-of-passtools
+27573,GeoPalz,https://angel.co/geopalz
+27830,Automatic,https://angel.co/automatic
+27869,Plivo,https://angel.co/plivo
+27942,Spotsetter,https://angel.co/spotsetter
+28064,TrustEgg,https://angel.co/trustegg
+28118,Pixowl,https://angel.co/pixowl
+28208,Tutorspree,https://angel.co/tutorspree
+28225,Microryza,https://angel.co/microryza
+28390,HD Trade Services,https://angel.co/hd-trade-services
+28471,SocialPandas,https://angel.co/socialpandas
+28474,Frame,https://angel.co/frame
+28625,Soldsie,https://angel.co/soldsie
+28824,Circl,https://angel.co/circl
+29008,Circle,https://angel.co/circle
+29047,DoubleRecall,https://angel.co/doublerecall
+29049,Grove,https://angel.co/grove
+29096,DealAngel,https://angel.co/dealangel
+29295,Mimoona (Dreamit S2013),https://angel.co/mimoona-dreamit-s2013
+29381,Geckoboard,https://angel.co/geckoboard
+29398,alex+von,https://angel.co/alex-von
+29428,Tie Society,https://angel.co/tie-society
+29586,Diffbot,https://angel.co/diffbot
+29741,Karma,https://angel.co/karma
+29798,CallGrader,https://angel.co/callgrader
+29984,Spotivate,https://angel.co/spotivate-1
+30009,Kwelia,https://angel.co/kwelia
+30069,SnowShoe Stamp,https://angel.co/snowshoe-stamp
+30459,TwitMusic,https://angel.co/twitmusic
+30468,LeanMarket,https://angel.co/leanmarket
+30557,Chewse,https://angel.co/chewse
+30626,Uvize,https://angel.co/uvize
+30767,Moveline,https://angel.co/moveline
+31113,ROXIMITY,https://angel.co/roximity
+31196,Nveloped,https://angel.co/nveloped
+31319,Eligible,https://angel.co/eligible
+31409,Vanilla Forums,https://angel.co/vanilla-forums
+31417,Rewind.Me,https://angel.co/rewind-me
+31465,Scoutzie,https://angel.co/scoutzie
+31581,HaveMyShift,https://angel.co/havemyshift
+31606,DermLink,https://angel.co/dermlink
+31626,Like.fm,https://angel.co/like-fm
+31676,MyHealthTeams,https://angel.co/myhealthteams
+31762,Bridge,https://angel.co/bridge-2
+31803,Doccaster,https://angel.co/doccaster-1
+31833,Dabee,https://angel.co/dabee
+31846,BrightNest,https://angel.co/brightnest
+31850,Rezora,https://angel.co/rezora
+31917,Timbuktu Labs,https://angel.co/timbuktu-labs
+31948,Pickie,https://angel.co/pickie
+32023,280 North,https://angel.co/280-north
+32042,Appbistro,https://angel.co/appbistro
+32043,Appjet,https://angel.co/appjet
+32090,Epic Playground,https://angel.co/epic-playground
+32106,Clickpass,https://angel.co/clickpass
+32122,Dailybooth,https://angel.co/dailybooth
+32123,DailyBurn,https://angel.co/dailyburn
+32137,Devver,https://angel.co/devver
+32170,FanBridge,https://angel.co/fanbridge
+32177,Filtrbox,https://angel.co/filtrbox
+32216,Hello Chair,https://angel.co/hello-chair
+32217,Heroku,https://angel.co/heroku
+32225,Hug Energy,https://angel.co/hug-energy
+32233,Intense Debate,https://angel.co/intense-debate
+32244,Justin.tv,https://angel.co/justin-tv
+32318,Next Big Sound,https://angel.co/next-big-sound
+32327,Omnisio,https://angel.co/omnisio
+32328,OneSpot,https://angel.co/onespot
+32364,Poll Everywhere,https://angel.co/poll-everywhere
+32366,Posterous,https://angel.co/posterous
+32392,RethinkDB,https://angel.co/rethinkdb
+32403,Scribd,https://angel.co/scribd
+32409,SendGrid,https://angel.co/sendgrid-1
+32435,Smule,https://angel.co/smule
+32437,Sniply,https://angel.co/sniply
+32452,Songkick,https://angel.co/songkick
+32477,TaskRabbit,https://angel.co/taskrabbit
+32502,Tsumobi,https://angel.co/tsumobi
+32509,Twilio,https://angel.co/twilio
+32543,Xobni,https://angel.co/xobni
+32566,CardPool,https://angel.co/cardpool
+32572,Simple,https://angel.co/simple
+32579,Hipmunk,https://angel.co/hipmunk
+32588,ADstruc,https://angel.co/adstruc
+32589,Kapost,https://angel.co/kapost
+32603,1000Memories,https://angel.co/1000memories
+32606,PagerDuty,https://angel.co/pagerduty
+32616,Bump Technologies,https://angel.co/bump-technologies
+32631,Etacts,https://angel.co/etacts
+32654,Crocodoc,https://angel.co/crocodoc
+32655,Nowmov,https://angel.co/nowmov
+32665,Medialets,https://angel.co/medialets
+32667,Dropbox,https://angel.co/dropbox
+32677,Airbnb,https://angel.co/airbnb
+32683,Zencoder,https://angel.co/zencoder
+32694,Wildfire Interactive,https://angel.co/wildfire-interactive
+32695,Flowtown,https://angel.co/flowtown
+32717,Marginize,https://angel.co/marginize
+32743,AccelGolf,https://angel.co/accelgolf
+32748,Cloudant,https://angel.co/cloudant
+32756,RescueTime,https://angel.co/rescuetime
+32771,WePay,https://angel.co/wepay
+32877,CrowdTwist,https://angel.co/crowdtwist
+32934,Opzi,https://angel.co/opzi
+33100,GroupSpaces,https://angel.co/groupspaces
+33237,Fanvibe,https://angel.co/fanvibe
+33397,ZOZI,https://angel.co/zozi
+33521,Brainient,https://angel.co/brainient
+33550,Brightkite,https://angel.co/brightkite
+33687,Payvment,https://angel.co/payvment
+33930,GrabCAD,https://angel.co/grabcad
+33942,Zecter,https://angel.co/zecter
+33952,Weebly,https://angel.co/weebly
+34057,Clustrix,https://angel.co/clustrix
+34097,E la Carte,https://angel.co/e-la-carte
+34103,Simperium,https://angel.co/simperium
+34351,Lightbox,https://angel.co/lightbox
+35009,Deal Co-op,https://angel.co/deal-co-op
+35670,Futureadvisor,https://angel.co/futureadvisor
+35767,Nestio,https://angel.co/nestio
+35849,Aerofs,https://angel.co/aerofs
+35897,Makerbot,https://angel.co/makerbot
+36033,Ninite,https://angel.co/ninite
+36035,Blue Frog Gaming,https://angel.co/blue-frog-gaming
+36036,Bountii,https://angel.co/bountii
+36038,Fathomdb,https://angel.co/fathomdb
+36039,Anywhere.fm,https://angel.co/anywhere-fm
+36040,Draftmix,https://angel.co/draftmix
+36041,Foodoro,https://angel.co/foodoro
+36044,Tipjoy,https://angel.co/tipjoy
+36193,Loopt,https://angel.co/loopt
+36399,Jobaphiles,https://angel.co/jobaphiles
+36406,Tapinko,https://angel.co/tapinko
+36407,Three Screen Games,https://angel.co/three-screen-games
+36408,Vuzit,https://angel.co/vuzit
+36651,Socialsci,https://angel.co/socialsci
+36705,Republic Project,https://angel.co/republic-project
+36765,410 Labs,https://angel.co/410-labs
+36817,Onswipe,https://angel.co/onswipe
+37323,ZeroCater,https://angel.co/zerocater
+37483,Venuetastic,https://angel.co/venuetastic
+37522,Inporia,https://angel.co/inporia
+37549,Backyard,https://angel.co/backyard
+37918,Sitejabber,https://angel.co/sitejabber
+38003,Venuetastic.com,https://angel.co/venuetastic-com
+38027,Frogmetrics,https://angel.co/frogmetrics
+38073,Apsalar,https://angel.co/apsalar
+38752,Socialthing,https://angel.co/socialthing
+39027,Apportable,https://angel.co/apportable
+39284,Aslan Computing,https://angel.co/aslan-computing
+39581,Catchfree,https://angel.co/catchfree
+39946,140Fire,https://angel.co/140fire
+40356,OneTrueFan,https://angel.co/onetruefan
+40446,IntenseDebate,https://angel.co/intensedebate
+40574,MemSQL,https://angel.co/memsql
+40934,ThinkNear,https://angel.co/thinknear
+41094,Buxfer,https://angel.co/buxfer
+41324,eLacarte,https://angel.co/elacarte
+42274,Kinvey,https://angel.co/kinvey
+42511,Help Scout,https://angel.co/help-scout
+43503,Reddit,https://angel.co/reddit
+43617,Shelby.TV,https://angel.co/shelby-tv
+43664,Affinity China,https://angel.co/affinity-china
+44559,15Five,https://angel.co/15five
+44849,Placester,https://angel.co/placester
+45495,Grubwithus,https://angel.co/grubwithus
+45978,FiveStars,https://angel.co/fivestars
+46361,Kiwi Crate,https://angel.co/kiwi-crate
+47730,Appstores.com,https://angel.co/appstores-com
+48212,Ordr.In,https://angel.co/ordr-in
+49455,Occipital,https://angel.co/occipital
+49456,Parse,https://angel.co/parse
+49704,EventVue,https://angel.co/eventvue
+49773,Brightwurks,https://angel.co/brightwurks
+50462,Anyvite,https://angel.co/anyvite
+50647,reMail,https://angel.co/remail
+51231,MarketBrief,https://angel.co/marketbrief
+51405,Auctomatic,https://angel.co/auctomatic
+51504,HyperInk,https://angel.co/hyperink
+51645,Jeeran,https://angel.co/jeeran
+51938,MessageParty,https://angel.co/messageparty
+52123,ReTel Technologies,https://angel.co/retel-technologies
+52538,AgileMD,https://angel.co/agilemd
+52573,Game Closure,https://angel.co/game-closure
+52721,Science Exchange,https://angel.co/science-exchange
+52745,Tagstand,https://angel.co/tagstand
+53145,Snapjoy,https://angel.co/snapjoy
+53353,Aisle50,https://angel.co/aisle50
+53538,VivaReal,https://angel.co/vivareal
+53964,Rollcall,https://angel.co/rollcall
+54099,Gizmo.com,https://angel.co/gizmo-com
+54146,Connected,https://angel.co/connected
+54155,ChompOn,https://angel.co/chompon
+54312,Sift Science,https://angel.co/sift-science
+54420,Favo.rs,https://angel.co/favo-rs
+54786,AKSEL PARIS,https://angel.co/aksel-paris
+55100,Visual.ly,https://angel.co/visual-ly
+55797,Olark,https://angel.co/olark
+56239,SocialEngine,https://angel.co/socialengine
+57028,Codecademy,https://angel.co/codecademy
+57227,HeyKiki,https://angel.co/heykiki
+57911,GraffitiGeo,https://angel.co/graffitigeo
+58059,Kippt,https://angel.co/kippt
+58611,Yogome,https://angel.co/yogome
+58819,Dispatch,https://angel.co/dispatch
+58919,Lumatic,https://angel.co/lumatic
+60577,lark technologies,https://angel.co/lark-technologies
+61157,Mertado,https://angel.co/mertado
+61232,InboxQ,https://angel.co/inboxq
+61263,Ubersense,https://angel.co/ubersense
+61444,Mogotest,https://angel.co/mogotest
+62150,Mobileworks,https://angel.co/mobileworks
+62234,ZipDial,https://angel.co/zipdial
+62639,Chirpme.com,https://angel.co/chirpme-com
+64214,GetGoing,https://angel.co/getgoing
+64339,Cashie Commerce,https://angel.co/cashie-commerce
+64430,Curious Hat,https://angel.co/curious-hat
+64574,madKast,https://angel.co/madkast
+64699,PayrollHero,https://angel.co/payrollhero
+64807,Peatix,https://angel.co/peatix
+64924,Runnable,https://angel.co/runnable
+65209,Academize,https://angel.co/academize
+65382,Cambrian Genomics,https://angel.co/cambrian-genomics
+65563,gazeMetrix ,https://angel.co/gazemetrix-1
+65593,Zenter,https://angel.co/zenter
+65640,Fontacto,https://angel.co/fontacto
+65735,A Thinking Ape,https://angel.co/a-thinking-ape
+65781,Boosted Boards,https://angel.co/boosted-boards
+66253,LaunchGram,https://angel.co/launchgram
+66690,Motives,https://angel.co/motives
+66827,LE TOTE,https://angel.co/le-tote
+67109,Sverve,https://angel.co/sverve
+67354,peerTransfer,https://angel.co/peertransfer
+67548,BuildZoom,https://angel.co/buildzoom
+67672,Markupwand,https://angel.co/markupwand
+68919,RentHop,https://angel.co/renthop
+69281,mor.sl,https://angel.co/mor-sl
+69595,ShareBloc,https://angel.co/sharebloc
+69763,Priceonomics,https://angel.co/priceonomics
+69943,Tomo,https://angel.co/tomo
+70379,Mayvenn,https://angel.co/mayvenn
+70538,BufferBox,https://angel.co/bufferbox
+70816,AirPR,https://angel.co/airpr
+70849,Ad Hoc Labs,https://angel.co/ad-hoc-labs
+71006,Wanderable,https://angel.co/wanderable
+71558,mom trusted ,https://angel.co/mom-trusted
+71679,tic,https://angel.co/tic
+71892,CarWoo!,https://angel.co/carwoo-2
+71895,Simple Finance Technology Corp,https://angel.co/simple-finance-technology-corp
+71900,Ignighter,https://angel.co/ignighter
+71939,Nowbox,https://angel.co/nowbox
+71989,AdGrok,https://angel.co/adgrok
+71990,Versly,https://angel.co/versly
+72022,webmynd,https://angel.co/webmynd
+72047,Enernetics,https://angel.co/enernetics
+72048,Voxli,https://angel.co/voxli
+72109,GoChime,https://angel.co/gochime
+72121,Infinity Box,https://angel.co/infinity-box
+72168,AppSocially,https://angel.co/appsocially
+72266,Sandglaz,https://angel.co/sandglaz
+72414,Regalii,https://angel.co/regalii
+72989,Verdigris Technologies,https://angel.co/verdigris-technologies
+73215,Lexity,https://angel.co/lexity
+73437,FanChatter,https://angel.co/fanchatter
+74754,Instamojo,https://angel.co/instamojo-1
+74990,userfox,https://angel.co/userfox
+75737,ReelSurfer,https://angel.co/reelsurfer
+75887,Reesio,https://angel.co/reesio
+75920,UpCounsel,https://angel.co/upcounsel
+76047,Transcriptic,https://angel.co/transcriptic
+76083,Flightfox,https://angel.co/flightfox
+76155,Precog,https://angel.co/precog
+76252,Ubooly,https://angel.co/ubooly
+76269,Mailgun,https://angel.co/mailgun
+76533,AnyPerk,https://angel.co/anyperk
+76536,MedWhat,https://angel.co/medwhat
+76705,Klooff,https://angel.co/klooff
+76997,PayDragon,https://angel.co/paydragon
+77179,ImpulseSave,https://angel.co/impulsesave
+77235,Flomio,https://angel.co/flomio
+77419,Rise Robotics,https://angel.co/rise-robotics
+77492,Piictu,https://angel.co/piictu-2
+77589,Medigram,https://angel.co/medigram
+77762,AnyVivo,https://angel.co/anyvivo
+77770,Couple,https://angel.co/couple
+78224,FamilyLeaf,https://angel.co/familyleaf
+78493,Sketchfab,https://angel.co/sketchfab
+78563,Zapier,https://angel.co/zapier
+78671,Carsabi,https://angel.co/carsabi
+78690,Vacation Rental Partner,https://angel.co/vacation-rental-partner-2
+78720,ZenPayroll,https://angel.co/zenpayroll
+78781,Cloudsnap,https://angel.co/cloudsnap
+78782,HireArt,https://angel.co/hireart
+78903,Watchup,https://angel.co/watchup
+78959,Appsembler,https://angel.co/appsembler
+79123,Emergent One,https://angel.co/emergent-one
+79259,iCracked  ,https://angel.co/icracked
+79275,Hipmob,https://angel.co/hipmob
+79297,EveryArt,https://angel.co/everyart
+79393,TempoDB,https://angel.co/tempodb
+79556,99dresses,https://angel.co/99dresses
+79622,Lendup,https://angel.co/lendup
+79624,Swiftype,https://angel.co/swiftype
+79741,Thinkfuse,https://angel.co/thinkfuse
+79796,Reclip.It,https://angel.co/reclip-it
+79828,TenderTree,https://angel.co/tendertree
+79849,Credii,https://angel.co/credii
+79961,Screenleap,https://angel.co/screenleap
+79981,WireOver,https://angel.co/wireover
+79995,NBD Nanotechnologies,https://angel.co/nbd-nanotechnologies-1
+80042,Shoptouch,https://angel.co/shoptouch
+80054,Zillabyte,https://angel.co/zillabyte
+80126,PublikDemand,https://angel.co/publikdemand
+80305,Umba,https://angel.co/umba
+80314,Bombfell,https://angel.co/bombfell
+80321,Tuckernuck,https://angel.co/tuckernuck
+80503,Rescale,https://angel.co/rescale
+80977,Ingresse,https://angel.co/ingresse
+80986,Tokyo Otaku Mode,https://angel.co/tokyo-otaku-mode
+81354,Bankons,https://angel.co/bankons
+81396,Leaky,https://angel.co/leaky
+81433,Monogram,https://angel.co/monogram
+81471,Manifold Studios,https://angel.co/manifold-studios
+81494,Traity,https://angel.co/traity-1
+81705,Sonalight,https://angel.co/sonalight
+81853,MarketVibe,https://angel.co/marketvibe
+82190,Social Tables,https://angel.co/social-tables
+82357,wedgies,https://angel.co/wedgies
+82552,Submittable,https://angel.co/submittable
+82610,Morpheus Medical,https://angel.co/morpheus-medical
+82817,SocialCrunch,https://angel.co/socialcrunch
+83129,SlidePay,https://angel.co/slidepay
+83136,Mattermark,https://angel.co/mattermark
+83184,Freight Farms,https://angel.co/freight-farms
+83404,Tray,https://angel.co/tray
+83651,Osito,https://angel.co/osito
+83689,Cubie,https://angel.co/cubie
+83791,Pogoseat,https://angel.co/pogoseat
+84209,Mobile Captain,https://angel.co/mobile-captain
+84315,PICT,https://angel.co/pict
+84445,Insynctive,https://angel.co/insynctive
+84663,NudgePad,https://angel.co/nudgepad
+84745,Red Rover,https://angel.co/red-rover
+85108,Lore,https://angel.co/lore-1
+85122,SmartAsset,https://angel.co/smartasset
+85255,Veebot,https://angel.co/veebot
+85372,Audiodraft,https://angel.co/audiodraft
+85483,boomtrain,https://angel.co/boomtrain
+85497,Humanvest ,https://angel.co/humanvest
+85525,JobSpice,https://angel.co/jobspice
+85837,Etherpad,https://angel.co/etherpad
+85839,Plangrid,https://angel.co/plangrid
+86331,Strohl Medical,https://angel.co/strohl-medical
+87273,Nitrous.IO,https://angel.co/nitrous-io
+87703,Juntos Finanzas,https://angel.co/juntos-finanzas
+88077,Streak,https://angel.co/streak
+88078,KiteReaders,https://angel.co/kitereaders-1
+88346,Kidblog,https://angel.co/kidblog
+88378,AdStage,https://angel.co/adstage
+88695,Knotch,https://angel.co/knotch
+88990,Cinemacraft,https://angel.co/cinemacraft
+89090,Chec,https://angel.co/chec
+89862,DigitalOcean,https://angel.co/digitalocean
+90089,Ballers Bridge,https://angel.co/ballers-bridge-1
+90241,Markerly,https://angel.co/markerly
+90464,Canary,https://angel.co/canary-4
+90720,WeDidIt ,https://angel.co/wedidit
+91049,MyVR,https://angel.co/myvr
+91255,Smallknot,https://angel.co/smallknot
+91665,Nomiku,https://angel.co/nomiku
+91921,Seer,https://angel.co/seer
+91940,HighFive,https://angel.co/highfive
+91973,Delight,https://angel.co/delight
+94672,Ube,https://angel.co/ube
+94814,YEVVO,https://angel.co/yevvo
+94949,Lookmark,https://angel.co/lookmark
+95009,SkyGiraffe,https://angel.co/skygiraffe
+95146,Caviar,https://angel.co/caviar
+95163,InstantCab,https://angel.co/instantcab
+95288,Teamalaya,https://angel.co/teamalaya
+96232,Tred,https://angel.co/tred
+96497,Kinnek,https://angel.co/kinnek
+97116,Cucumbertown,https://angel.co/cucumbertown
+97349,Addy,https://angel.co/addy
+97716,Import2,https://angel.co/import2
+98033,Manicube,https://angel.co/manicube
+98097,Flinja,https://angel.co/flinja
+98151,Machine Zone,https://angel.co/machine-zone
+98319,wireLawyer,https://angel.co/wirelawyer
+98861,Glider,https://angel.co/glider-1
+99018,FullCourt,https://angel.co/fullcourt
+99336,Lawdingo,https://angel.co/lawdingo
+99359,Freak'n Genius,https://angel.co/freak-n-genius
+100100,Balanced,https://angel.co/balanced
+101112,Cubiez,https://angel.co/cubiez
+101246,VerbalizeIt,https://angel.co/verbalizeit
+101493,Fancred,https://angel.co/fancred
+101592,Virool,https://angel.co/virool
+102051,App.io,https://angel.co/app-io
+103032,Elastic,https://angel.co/elastic
+103572,Tealet,https://angel.co/tealet
+103843,HighlightCam,https://angel.co/highlightcam
+104394,License Buddy,https://angel.co/license-buddy
+104422,Modern Guild,https://angel.co/modern-guild-1
+104469,Tradesy,https://angel.co/tradesy
+104489,Dealflicks,https://angel.co/dealflicks
+105732,Language Cloud,https://angel.co/language-cloud
+106017,Arc,https://angel.co/arc-1
+106355,Storefront,https://angel.co/storefront
+106374,Meldium,https://angel.co/meldium
+106978,Boxbee ,https://angel.co/boxbee
+107217,BabyList,https://angel.co/babylist
+107277,Birdbox,https://angel.co/birdbox
+107294,Filepicker.io,https://angel.co/filepicker-io
+108003,Hiptype,https://angel.co/hiptype
+108312,FundersClub,https://angel.co/fundersclub
+108348,BitNami,https://angel.co/bitnami
+108524,Partnered,https://angel.co/partnered
+108780,Appfluence,https://angel.co/appfluence
+109204,hull,https://angel.co/hull
+109363,NewsCastic,https://angel.co/newscastic
+109557,Coinbase,https://angel.co/coinbase
+110951,FarmLogs,https://angel.co/farmlogs
+111423,Meetings.io,https://angel.co/meetings-io
+112248,Peerby,https://angel.co/peerby
+112523,TRDATA,https://angel.co/trdata
+112846,Strikingly,https://angel.co/strikingly
+112849,TasteSpace,https://angel.co/tastespace
+113107,Cargo Networks,https://angel.co/cargo-networks
+113221,Voicegem,https://angel.co/voicegem
+113386,Tastemaker,https://angel.co/tastemaker
+114142,Twitch,https://angel.co/twitch
+114180,Statwing,https://angel.co/statwing
+114426,Clever,https://angel.co/clever
+114442,MicroEval,https://angel.co/microeval
+114450,Airbrite,https://angel.co/airbrite
+115146,Kamcord,https://angel.co/kamcord
+115616,NoRedink,https://angel.co/noredink
+116218,Boletia,https://angel.co/boletia
+116369,Flyer,https://angel.co/flyer
+116466,dakwak,https://angel.co/dakwak
+117016,neoDigital,https://angel.co/neodigital-1
+117187,FlightCar,https://angel.co/flightcar
+117264,SpotHero,https://angel.co/spothero
+117448,Saverr Mobile,https://angel.co/saverr-mobile
+117469,Double Robotics,https://angel.co/double-robotics
+117512,cisimple,https://angel.co/cisimple
+117515,Conspire,https://angel.co/conspire
+118873,Wufoo,https://angel.co/wufoo
+119359,Sqord,https://angel.co/sqord
+119844,Estimote,https://angel.co/estimote
+120160,PlayCanvas,https://angel.co/playcanvas
+120382,Hackpad,https://angel.co/hackpad
+120862,Kalibrr,https://angel.co/kalibrr
+121591,Winston Network Inc.,https://angel.co/winston-network-inc
+121593,Makeably,https://angel.co/makeably
+121839,Given Goods Company,https://angel.co/given-goods-company-1
+121846,Charlie,https://angel.co/charlie-2
+122184,iDreamBooks,https://angel.co/idreambooks
+122262,wideo,https://angel.co/wideo
+122276,Nuzzel,https://angel.co/nuzzel
+122277,Light Table,https://angel.co/light-table
+122313,TriggerMail,https://angel.co/triggermail
+122331,Brideside,https://angel.co/brideside
+122444,Webflow,https://angel.co/webflow
+122512,BabyJunk,https://angel.co/babyjunk
+122643,everbill,https://angel.co/everbill
+122672,Eversnap,https://angel.co/eversnap
+122888,Padlet,https://angel.co/padlet
+123324,"Tapshot, Makers of Videokits",https://angel.co/tapshot-makers-of-videokits
+124164,Nurep,https://angel.co/nurep
+124303,E&M Labs,https://angel.co/e-m-labs
+124490,Semantics3,https://angel.co/semantics3
+124619,TrendKite,https://angel.co/trendkite
+124892,Uwisio,https://angel.co/uwisio
+124939,WalletKit,https://angel.co/walletkit
+125045,AdsNative,https://angel.co/adsnative
+125280,SupplyHog,https://angel.co/supplyhog
+125344,TradeBriefs,https://angel.co/tradebriefs
+125348,Spottly,https://angel.co/spottly
+126175,SpotOn,https://angel.co/spoton-1
+126464,AuManil,https://angel.co/aumanil
+126514,Floqq,https://angel.co/floqq
+126579,Circle,https://angel.co/circle-3
+127378,Goldbely,https://angel.co/goldbely-2
+127406,ConnectBright,https://angel.co/connectbright
+127575,Cuponomia,https://angel.co/cuponomia
+127726,femeninas,https://angel.co/femeninas
+127729,PriceBaba,https://angel.co/pricebaba
+127821,UniPay,https://angel.co/unipay
+127824,Qual Canal,https://angel.co/qual-canal
+127905,Dash,https://angel.co/dash
+129175,Toutpost,https://angel.co/toutpost
+129930,Selligy,https://angel.co/selligy
+129941,CrowdMed,https://angel.co/crowdmed
+130174,MyPermissions,https://angel.co/mypermissions
+130304,Placemeter,https://angel.co/placemeter
+130560,Glassmap,https://angel.co/glassmap
+130937,Careport Health,https://angel.co/careport-health
+131028,Synata,https://angel.co/synata
+131153,Cloudadmin,https://angel.co/cloudadmin
+131299,EasyPost,https://angel.co/easypost
+131716,Instacart,https://angel.co/instacart
+132065,GreenGar,https://angel.co/greengar
+132132,YaSabe,https://angel.co/yasabe
+132224,Wymsee,https://angel.co/wymsee
+132880,Artivest,https://angel.co/artivest
+133918,Instart Logic,https://angel.co/instart-logic
+133961,Swish,https://angel.co/swish
+134201,Leanplum,https://angel.co/leanplum
+134409,BetterFit Technologies,https://angel.co/betterfit-technologies
+135064,TackTile,https://angel.co/tacktile
+135869,Periscope,https://angel.co/periscope
+136219,Neurala,https://angel.co/neurala
+136404,Amulyte,https://angel.co/amulyte
+136933,ServerPilot,https://angel.co/serverpilot
+137045,Fashion Project,https://angel.co/fashion-project
+137602,ScaleGrid,https://angel.co/scalegrid
+137994,POPAPP,https://angel.co/popapp
+138363,Teespring,https://angel.co/teespring-1
+138507,Strategic Blue - Cloud Options,https://angel.co/strategic-blue-cloud-options
+138735,Testlio,https://angel.co/testlio
+139057,TheShelf,https://angel.co/theshelf
+139092,mojio,https://angel.co/mojio
+140117,Kivo,https://angel.co/kivo
+141016,Audience.fm,https://angel.co/audience-fm-1
+142230,PivotDesk,https://angel.co/pivotdesk-1
+142882,SensorTower,https://angel.co/sensortower
+142940,Good.Co,https://angel.co/good-co
+144006,MexicoDestinos,https://angel.co/mexicodestinos
+145187,Reebee,https://angel.co/reebee
+146025,Boatbound,https://angel.co/boatbound
+149282,Eventava,https://angel.co/eventava
+149285,Kidaptive,https://angel.co/kidaptive
+149361,SKIPO,https://angel.co/skipo
+149377,Proxino,https://angel.co/proxino
+149486,Boxella,https://angel.co/boxella
+149576,RentMetrics,https://angel.co/rentmetrics
+149591,FlameStower,https://angel.co/flamestower
+150268,tushky.com,https://angel.co/tushky-com
+150305,WHILL,https://angel.co/whill
+150765,dashboard.io,https://angel.co/dashboard-io
+150892,Chatous,https://angel.co/chatous
+152115,Plated,https://angel.co/plated
+152635,HumanAPI,https://angel.co/humanapi
+153114,Docmunch,https://angel.co/docmunch
+153921,inDinero,https://angel.co/indinero
+154195,Versus,https://angel.co/versus
+155311,Heap,https://angel.co/heap
+155782,Crowdery,https://angel.co/crowdery-1
+156064,weeSpring,https://angel.co/weespring
+156924,Brandfolder,https://angel.co/brandfolder-1
+157106,SearchMan,https://angel.co/searchman
+157687,Keychain Logistics,https://angel.co/keychain-logistics
+158596,Tylr Mobile,https://angel.co/tylr-mobile
+158725,Shopular,https://angel.co/shopular
+159247,SendTask,https://angel.co/sendtask
+159454,Pistol Lake,https://angel.co/pistol-lake
+159561,GamePress,https://angel.co/gamepress
+160382,Feast,https://angel.co/feast
+160521,BrightFunnel ,https://angel.co/brightfunnel
+160775,Linknovate,https://angel.co/linknovate
+161453,Stat,https://angel.co/stat-2
+163009,FastFig,https://angel.co/fastfig
+163519,RealCrowd,https://angel.co/realcrowd
+164277,Kato,https://angel.co/kato
+165758,MyTime,https://angel.co/mytime
+165778,Tamatem,https://angel.co/tamatem
+166756,ProductGram,https://angel.co/productgram
+167051,Lob,https://angel.co/lob
+167413,CompactCath,https://angel.co/compactcath
+167795,Prediculous,https://angel.co/prediculous
+168431,SchoolAdmissions,https://angel.co/schooladmissions
+168693,InstaGIS ,https://angel.co/instagis
+168993,7 Cups of Tea,https://angel.co/7-cups-of-tea
+169368,First Opinion,https://angel.co/first-opinion
+169996,Central Mayoreo,https://angel.co/central-mayoreo
+170659,Wishbird Experiences,https://angel.co/wishbird-experiences
+170885,captureproof,https://angel.co/captureproof
+172453,Snapsheet,https://angel.co/snapsheet-1
+172493,Apptimize,https://angel.co/apptimize
+172821,Asseta ,https://angel.co/asseta-1
+174290,Sightly,https://angel.co/sightly
+174323,GoodApril,https://angel.co/goodapril
+175020,Streem,https://angel.co/streem
+175062,SoundFocus,https://angel.co/soundfocus
+175330,BloomThat,https://angel.co/bloomthat
+175447,Sunrise,https://angel.co/sunrise
+175496,BOXC,https://angel.co/boxc
+176085,Grand Round Table,https://angel.co/grand-round-table
+176530,Augur,https://angel.co/augur
+177001,Serviceful,https://angel.co/serviceful
+177433,Synack,https://angel.co/synack
+178766,Clerky,https://angel.co/clerky-1
+181117,Regresa Pronto ,https://angel.co/regresa-pronto
+181525,ZenKars,https://angel.co/zenkars
+182252,Spire,https://angel.co/spire
+182277,Survata,https://angel.co/survata
+182290,Skit!,https://angel.co/skit
+183758,Moni Technologies,https://angel.co/moni-technologies-1
+184205,Trippin' in,https://angel.co/trippin-in
+184377,ELIHUU,https://angel.co/elihuu
+184903,Iterable,https://angel.co/iterable
+185024,Azuqua,https://angel.co/azuqua
+185256,PinMyPet,https://angel.co/pinmypet
+185339,Filament Labs,https://angel.co/filament-labs
+186314,Accountable,https://angel.co/accountable
+186432,Fosbury,https://angel.co/fosbury
+187017,Chronon Systems,https://angel.co/chronon-systems
+187172,AirCare,https://angel.co/aircare
+187546,Binary Thumb,https://angel.co/binary-thumb
+189481,ProtoExchange,https://angel.co/protoexchange
+189559,Seratis,https://angel.co/seratis
+190642,MyCoffeeBox,https://angel.co/mycoffeebox
+190752,Swapbox,https://angel.co/swapbox
+191559,ShopGo,https://angel.co/shopgo
+191861,Screenhero,https://angel.co/screenhero
+192205,Lollipuff,https://angel.co/lollipuff
+192241,Purple,https://angel.co/purple
+192826,Stratio,https://angel.co/stratio
+193505,Shiftr,https://angel.co/shiftr
+194524,Graft Concepts,https://angel.co/graft-concepts
+195195,Dropifi,https://angel.co/dropifi
+195722,QuanTemplate,https://angel.co/quantemplate
+195754,Memoir,https://angel.co/memoir
+196042,Shoe Lovers,https://angel.co/shoe-lovers
+196051,AppArchitect,https://angel.co/apparchitect
+196627,Zaranga,https://angel.co/zaranga
+198768,Errplane,https://angel.co/errplane
+198837,sprout,https://angel.co/sprout-1
+198969,PillPack,https://angel.co/pillpack
+198978,coUrbanize,https://angel.co/courbanize
+199193,PayTango,https://angel.co/paytango
+200284,Seat 14A,https://angel.co/seat-14a
+200444,Favoritoys,https://angel.co/favoritoys
+200720,Seva Coffee,https://angel.co/seva-coffee
+201133,View The Space,https://angel.co/view-the-space
+203104,Miner,https://angel.co/miner
+204827,TrulyWireless,https://angel.co/trulywireless
+204855,DroneDeploy,https://angel.co/dronedeploy
+207748,unda,https://angel.co/unda
+207971,Roominate,https://angel.co/roominate
+207988,NativeAD,https://angel.co/nativead
+209376,Atlas,https://angel.co/atlas-1
+210519,Shopeando,https://angel.co/shopeando
+211872,LinkerFriend,https://angel.co/linkerfriend
+212713,Beatdeck,https://angel.co/beatdeck
+213107,nextstep.io,https://angel.co/nextstep-io
+219524,GigaBryte (formerly TinkerTags),https://angel.co/gigabryte-formerly-tinkertags
+221934,ShopBevel,https://angel.co/shopbevel
+221975,Heroic.ly,https://angel.co/heroic-ly
+223875,Shopventory,https://angel.co/shopventory
+223912,Club Guaf,https://angel.co/club-guaf
+224452,Ranku,https://angel.co/ranku-2
+225535,Synch,https://angel.co/synch-2
+228456,DataFox,https://angel.co/datafox
+230842,TouchBase Technologies,https://angel.co/touchbase-technologies
+232108,StatusPage.io,https://angel.co/statuspage-io
+236486,Clinkle,https://angel.co/clinkle
+241523,True Link Financial,https://angel.co/true-link-financial
+242543,SimplyInsured,https://angel.co/simplyinsured
+243902,CodeHS,https://angel.co/codehs
+244099,Butter Systems,https://angel.co/butter-systems
+245489,Skip,https://angel.co/skip-3
+245814,Amplitude,https://angel.co/amplitude-1
+248798,SimpleLegal,https://angel.co/simplelegal
+249500,Watchsend,https://angel.co/watchsend
+250086,Project Fixup,https://angel.co/project-fixup
+250677,Hackermeter,https://angel.co/hackermeter
+252764,Standard Treasury,https://angel.co/standard-treasury
+253962,One Month Rails,https://angel.co/one-month-rails-1
+254795,GoComm,https://angel.co/gocomm
+257250,Constant Insight,https://angel.co/constant-insight
+257975,ixi-play by WittyWorX,https://angel.co/ixi-play-by-wittyworx
+258348,Casetext,https://angel.co/casetext
+258816,SoniTrack Systems,https://angel.co/sonitrack-systems
+261880,MXD3D,https://angel.co/mxd3d
+262984,panOpen,https://angel.co/panopen
+267654,Chalk Schools,https://angel.co/chalk-schools-1
