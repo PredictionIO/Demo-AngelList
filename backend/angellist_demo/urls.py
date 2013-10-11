@@ -6,7 +6,7 @@ from startups import views
 # from django.contrib import admin
 # admin.autodiscover()
 
-urlpatterns = patterns('',
+urlpatterns = patterns('startups.views',
     # Examples:
     # url(r'^$', 'angellist_demo.views.home', name='home'),
     # url(r'^angellist_demo/', include('angellist_demo.foo.urls')),
@@ -16,8 +16,8 @@ urlpatterns = patterns('',
 
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
-    url(r'^startups$', views.StartupList.as_view()),
-    url(r'^startups/(?P<pk>[0-9]+)$', views.StartupDetail.as_view()),
+    url(r'^startups$', 'startup_list'),
+    url(r'^startups/(?P<pk>[0-9]+)$', 'startup_detail'),
 )
 
 urlpatterns = format_suffix_patterns(urlpatterns)

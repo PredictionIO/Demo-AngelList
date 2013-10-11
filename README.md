@@ -67,5 +67,5 @@ Start Django
 Simple test 
 ------------
 
-	$ curl localhost:8000/startups.json
-	$ curl localhost:8000/startups/190752.json
+	$ curl localhost:8000/startups.json -H 'Accept: application/json' 
+	$ curl localhost:8000/startups/190752.json -H 'Accept: application/json' 
