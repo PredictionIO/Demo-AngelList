@@ -4,7 +4,7 @@ Import data into MongoDB for Django
 from startups.models import Startup
 import csv
 
-ITEMS_FILE = "../angellist_data/startup_id_name_url.csv"
+ITEMS_FILE = "../angellist_data/startup_id_name_url_incubator.csv"
 
 print 'Importing items...'
 with open(ITEMS_FILE, 'r') as f:
@@ -14,5 +14,5 @@ with open(ITEMS_FILE, 'r') as f:
 		if firstline:
 			firstline = False
 		else:
-			Startup.objects.create(id=line[0], name=line[1], url=line[2])
+			Startup.objects.create(id=line[0], name=line[1], url=line[2], incubator=line[3])
 print 'Done.'
