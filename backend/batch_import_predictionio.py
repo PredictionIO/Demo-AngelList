@@ -6,7 +6,7 @@ import Queue
 import csv
 
 USERS_FILE = "angellist_data/users.csv"
-ITEMS_FILE = "angellist_data/startup_id_name_url.csv"
+ITEMS_FILE = "angellist_data/startup_id_name_url_incubator.csv"
 FOLLOW_ACTIONS_FILE = "angellist_data/follows.csv"
 
 APP_KEY = "vCHDz4B6GDXSgRwuLcJ6BdElM0yWf65NqTAfJ3v4caVuRj42CjbrfqNAD5nQ8nWp"
