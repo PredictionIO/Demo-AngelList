@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en" ng-app="pioALDemo">
+<head>
+  <meta charset="utf-8">
+  <title>PredictionIO Sample: Public AngelList Data</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/app.css"/>
+  <link rel="stylesheet" href="css/angular-busy.min.css"/>
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" media="screen"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0-rc.2/angular.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0-rc.2/angular-resource.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0-rc.2/angular-animate.min.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/services.js"></script>
+  <script src="js/controllers.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/directives.js"></script>
+  <script src="js/ui-bootstrap-0.6.0.min.js"></script>
+  <script src="js/promise-tracker.js"></script>
+  <script src="js/angular-busy.min.js"></script>
+</head>
+<body ng-controller="StartupCtrl">
+  <div class="container">
+
+    <div class="page-header">
+      <h1>PredictionIO Sample Project with Public AngelList Data</h1>
+      <p class="lead">A showcase on how to use PredictionIO to generate predictions and display them.</p>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">Select a Startup</h3>
+          </div>
+          <div class="panel-body" cg-busy="'startups'">
+            <ul class="list-unstyled get-similar-startups">
+              <li ng-repeat="startup in startups | orderBy: 'name' | startFrom: (currentPage-1)*20 | limitTo: 20">
+                <a ng-click="getSimilarStartups(startup.id)">{{startup.name}}</a> (<a href="{{startup.url}}">AL</a>)
+              </li>
+            </ul>
+            <p class="text-center">
+              <pagination total-items="totalItems" page="currentPage" boundary-links="true" max-size=5 items-per-page=20></pagination>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">Similar Startup(s)</h3>
+          </div>
+          <div class="panel-body" cg-busy="'similarStartups'">
+            <ul class="list-unstyled">
+              <li ng-repeat="similarStartup in similarStartups"><a href="{{similarStartup.url}}">{{similarStartup.name}}</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>

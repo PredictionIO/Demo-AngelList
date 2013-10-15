@@ -1,0 +1,11 @@
+{
+  "name": "predictionio-demo-angellist",
+  "description": "A PredictionIO Demo with Public AngelList Data",
+  "devDependencies": {
+        "phantomjs" : "*",
+        "karma" : "*",
+        "karma-junit-reporter" : "*",
+        "karma-jasmine" : "*",
+        "karma-ng-scenario" : "*"
+    }
+}
