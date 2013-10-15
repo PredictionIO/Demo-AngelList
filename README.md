@@ -64,8 +64,8 @@ Start Django
 	(angellist_demo_env)$ cd backend/angellist_demo
 	(angellist_demo_env)$ python manage.py runserver [::]:8000
 
-Sipmle test if server running
-------------------------------
+Simple test 
+------------
 
-	$ curl localhost:8000/startups.json
-	$ curl localhost:8000/startups/190752.json
+	$ curl localhost:8000/startups.json -H 'Accept: application/json' 
+	$ curl localhost:8000/startups/190752.json -H 'Accept: application/json' 

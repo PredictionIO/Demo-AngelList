@@ -3,9 +3,10 @@ Import data into PredictionIO
 """
 import predictionio
 import Queue
+import csv
 
 USERS_FILE = "angellist_data/users.csv"
-ITEMS_FILE = "angellist_data/startup_id_name_url.csv"
+ITEMS_FILE = "angellist_data/startup_id_name_url_incubator.csv"
 FOLLOW_ACTIONS_FILE = "angellist_data/follows.csv"
 
 APP_KEY = "vCHDz4B6GDXSgRwuLcJ6BdElM0yWf65NqTAfJ3v4caVuRj42CjbrfqNAD5nQ8nWp"
@@ -16,45 +17,43 @@ REQUEST_QSIZE = 500
 client = predictionio.Client(APP_KEY, THREADS, API_URL, qsize=REQUEST_QSIZE)
 
 print 'Importing users...'
-f = open(USERS_FILE, 'r')
-firstline = True
-for line in f:
-	if firstline:
-		firstline = False
-	else:
-		data = line.rstrip('\r\n')
-		client.acreate_user(data)
-f.close()
+with open(USERS_FILE, 'r') as f:
+	reader = csv.reader(f)
+	firstline = True
+	for line in reader:
+		if firstline:
+			firstline = False
+		else:
+			client.acreate_user(line[0])
 print 'Done.'
 
 print 'Importing items...'
-f = open(ITEMS_FILE, 'r')
-firstline = True
-for line in f:
-	if firstline:
-		firstline = False
-	else:
-		data = line.rstrip('\r\n').split(',')
-		client.acreate_item(data[0], ('startup',))
-f.close()
+with open(ITEMS_FILE, 'r') as f:
+	reader = csv.reader(f)
+	firstline = True
+	for line in reader:
+		if firstline:
+			firstline = False
+		else:
+			client.acreate_item(line[0], ('startup',))
 print 'Done.'
 
 print 'Importing actions...'
-f = open(FOLLOW_ACTIONS_FILE, 'r')
-firstline = True
-for line in f:
-	if firstline:
-		firstline = False
-	else:
-		data = line.rstrip('\r\n').split(',')
-		iid = data[0]
-		uid = data[1]
-		client.identify(uid)
-		client.arecord_action_on_item("like", iid)
-f.close()
+with open(FOLLOW_ACTIONS_FILE, 'r') as f:
+	reader = csv.reader(f)
+	firstline = True
+	for line in reader:
+		if firstline:
+			firstline = False
+		else:
+			iid = line[0]
+			uid = line[1]
+			client.identify(uid)
+			client.arecord_action_on_item("like", iid) # use built-in "like" action to represent "follow"
 print 'Done.'
 
 client.close()
+
 
 
 
