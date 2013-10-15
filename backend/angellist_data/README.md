@@ -26,7 +26,7 @@ Files
 All files are comma-delimited .csv files.
 
 * follows.csv - list of ids for startups and users who follow the startup
-* startup_id_name_url.csv - list of startups with ids, names and AngelList URL
+* startup_id_name_url_incubator.csv - list of startups with ids, names, AngelList URL and incubators
 * startups.csv - list of unique startup ids
 * users.csv - list of unique user ids
 
