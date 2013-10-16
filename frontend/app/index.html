@@ -7,9 +7,12 @@
   <link rel="stylesheet" href="css/app.css"/>
   <link rel="stylesheet" href="css/angular-busy.min.css"/>
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" media="screen"/>
-  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0-rc.2/angular.min.js"></script>
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0-rc.2/angular.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0-rc.2/angular-resource.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0-rc.2/angular-animate.min.js"></script>
+  <script src="//code.jquery.com/jquery.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
   <script src="js/app.js"></script>
   <script src="js/services.js"></script>
   <script src="js/controllers.js"></script>
@@ -25,22 +28,37 @@
     <div class="page-header">
       <h1>PredictionIO Sample Project with Public AngelList Data</h1>
       <p class="lead">A showcase on how to use PredictionIO to generate predictions and display them.</p>
+      <p>Visit <a href="http://prediction.io">http://prediction.io</a> for more information on PredictionIO.</p>
     </div>
 
     <div class="row">
       <div class="col-md-6">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">Select a Startup</h3>
+            <h3 class="panel-title">If you follow...</h3>
           </div>
           <div class="panel-body" cg-busy="'startups'">
+            <div class="form-group">
+              <input ng-model="query" class="form-control input-sm" placeholder="Filter by startup name"/>
+            </div>
+            Filter by incubators:
+            <ul class="nav nav-pills">
+              <li class="active"><a ng-click="setIncubator('')" data-toggle="pill"><div style="height: 50px">All</div></a></li>
+              <li><a ng-click="setIncubator('500startups')" data-toggle="pill"><img src="img/500co.png" class="img-responsive"/></a></li>
+              <li><a ng-click="setIncubator('alchemist-accelerator')" data-toggle="pill"><img src="img/alchemist_acclerator_logo.gif" class="img-responsive"/></a></li>
+              <li><a ng-click="setIncubator('AngelPad')" data-toggle="pill"><img src="img/angelpad.png" class="img-responsive"/></a></li>
+              <li><a ng-click="setIncubator('dreamit-ventures')" data-toggle="pill"><img src="img/dreamit.png" class="img-responsive"/></a></li>
+              <li><a ng-click="setIncubator('startx')" data-toggle="pill"><img src="img/startx.png" class="img-responsive"/></a></li>
+              <li><a ng-click="setIncubator('techstars')" data-toggle="pill"><img src="img/techstars.png" class="img-responsive"/></a></li>
+              <li><a ng-click="setIncubator('y-combinator')" data-toggle="pill"><img src="img/yc500.gif" class="img-responsive"/></a></li>
+            </ul>
             <ul class="list-unstyled get-similar-startups">
-              <li ng-repeat="startup in startups | orderBy: 'name' | startFrom: (currentPage-1)*20 | limitTo: 20">
-                <a ng-click="getSimilarStartups(startup.id)">{{startup.name}}</a> (<a href="{{startup.url}}">AL</a>)
+              <li ng-repeat="startup in startups | orderBy: 'name' | startFrom: (currentPage-1)*10 | limitTo: 10">
+                <a ng-click="getSimilarStartups(startup.id)">{{startup.name}}</a> (<a href="{{startup.url}}">AngelList</a>)
               </li>
             </ul>
             <p class="text-center">
-              <pagination total-items="totalItems" page="currentPage" boundary-links="true" max-size=5 items-per-page=20></pagination>
+              <pagination total-items="totalItems" page="currentPage" boundary-links="true" max-size="5" items-per-page="10"></pagination>
             </p>
           </div>
         </div>
@@ -48,11 +66,11 @@
       <div class="col-md-6">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">Similar Startup(s)</h3>
+            <h3 class="panel-title">You may also follow...</h3>
           </div>
           <div class="panel-body" cg-busy="'similarStartups'">
             <ul class="list-unstyled">
-              <li ng-repeat="similarStartup in similarStartups"><a href="{{similarStartup.url}}">{{similarStartup.name}}</a></li>
+              <li ng-repeat="similarStartup in similarStartups">{{similarStartup.name}} (<a href="{{similarStartup.url}}">AngelList</a>)</li>
             </ul>
           </div>
         </div>

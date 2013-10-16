@@ -3,7 +3,7 @@
 /* Controllers */
 
 angular.module('pioALDemo.controllers', []).
-  controller('StartupCtrl', ['$scope', 'Startup', 'SimilarStartups', function($scope, Startup, SimilarStartups) {
+  controller('StartupCtrl', ['$scope', '$filter', 'Startup', 'SimilarStartups', function($scope, $filter, Startup, SimilarStartups) {
     var startupsHash = new Object();
     var startups = Startup.query(function() {
       for (var i = 0; i < startups.length; i++) {
@@ -13,6 +13,8 @@ angular.module('pioALDemo.controllers', []).
         startupsHash[id] = {name: name, url: url};
       }
       $scope.totalItems = startups.length;
+      $scope.query = "";
+      $scope.incubator = "";
     });
 
     $scope.startups = startups;
@@ -22,7 +24,7 @@ angular.module('pioALDemo.controllers', []).
     $scope.getSimilarStartups = function(startupId) {
       var similarStartupResult = SimilarStartups.get({
         pio_iid: startupId,
-        pio_appkey: 'QOxO1EGRYzfmTROjKFpkVVHLxy13EOak7GSfDdvcwxR2ukc8UuvrH3u5GWJS07er',
+        pio_appkey: 'DsutdlQe8wYUmYpdyAIkI1YKxCHehUTkRPDN3SyTYPBRtjzbfeqCAgoSao8pLBJA',
         pio_n: 10
       }, function() {
         var similarStartupIds = similarStartupResult["pio_iids"];
@@ -33,4 +35,17 @@ angular.module('pioALDemo.controllers', []).
         $scope.similarStartups = similarStartups;
       });
     }
+
+    $scope.setIncubator = function(incubator) {
+      $scope.incubator = incubator;
+    }
+
+    var filterChanged = function(newQuery) {
+      $scope.startups = $filter('filter')(startups, {name: $scope.query, incubator: $scope.incubator});
+      $scope.currentPage = 1;
+      $scope.totalItems = $scope.startups.length;
+    };
+
+    $scope.$watch('query', filterChanged);
+    $scope.$watch('incubator', filterChanged);
   }]);

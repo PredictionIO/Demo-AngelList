@@ -8,9 +8,4 @@ angular.module('pioALDemo.filters', []).
       start = +start; //parse to int
       return input.slice(start);
     }
-  }]).
-  filter('interpolate', ['version', function(version) {
-    return function(text) {
-      return String(text).replace(/\%VERSION\%/mg, version);
-    }
   }]);
