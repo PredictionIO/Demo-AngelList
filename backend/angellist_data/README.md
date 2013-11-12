@@ -29,6 +29,7 @@ All files are comma-delimited .csv files.
 * startup_id_name_url_incubator.csv - list of startups with ids, names, AngelList URL and incubators
 * startups.csv - list of unique startup ids
 * users.csv - list of unique user ids
+* markets.csv - list of market tags for each startup
 
 License
 ---------------------
