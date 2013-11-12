@@ -10,7 +10,8 @@ angular.module('pioALDemo.controllers', []).
         var id = startups[i].id;
         var name = startups[i].name;
         var url = startups[i].url;
-        startupsHash[id] = {name: name, url: url};
+        var markets = startups[i].markets;
+        startupsHash[id] = {name: name, url: url, markets: markets};
       }
       $scope.totalItems = startups.length;
       $scope.query = "";
@@ -25,7 +26,8 @@ angular.module('pioALDemo.controllers', []).
       var similarStartupResult = SimilarStartups.get({
         pio_iid: startupId,
         pio_appkey: 'DsutdlQe8wYUmYpdyAIkI1YKxCHehUTkRPDN3SyTYPBRtjzbfeqCAgoSao8pLBJA',
-        pio_n: 10
+        pio_n: 10,
+        pio_itypes: startupsHash[startupId].markets.join()
       }, function() {
         var similarStartupIds = similarStartupResult["pio_iids"];
         var similarStartups = new Array();
