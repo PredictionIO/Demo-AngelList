@@ -6,10 +6,10 @@ import Queue
 import csv
 
 USERS_FILE = "angellist_data/users.csv"
-ITEMS_FILE = "angellist_data/startup_id_name_url_incubator.csv"
+ITEMS_FILE = "angellist_data/startup_id_name_url_incubator_markets.csv"
 FOLLOW_ACTIONS_FILE = "angellist_data/follows.csv"
 
-APP_KEY = "vCHDz4B6GDXSgRwuLcJ6BdElM0yWf65NqTAfJ3v4caVuRj42CjbrfqNAD5nQ8nWp"
+APP_KEY = "Xk28xvHUjkMKzRY3ZuNzKmJ9XQmx18FwHgBku7PxeXlMnENJ3mXxYTYhB0b8Heyh"
 API_URL = "http://localhost:8000"
 THREADS = 25
 REQUEST_QSIZE = 500
@@ -27,6 +27,7 @@ with open(USERS_FILE, 'r') as f:
 			client.acreate_user(line[0])
 print 'Done.'
 
+# startup_id,name,url,incubator,markets
 print 'Importing items...'
 with open(ITEMS_FILE, 'r') as f:
 	reader = csv.reader(f)
@@ -35,7 +36,13 @@ with open(ITEMS_FILE, 'r') as f:
 		if firstline:
 			firstline = False
 		else:
-			client.acreate_item(line[0], ('startup',))
+			if line[4]:
+				market_ids = tuple(line[4].split(','))
+			else:
+				market_ids = tuple()
+				
+			itypes = ('startup',) + market_ids
+			client.acreate_item(line[0], itypes)
 print 'Done.'
 
 print 'Importing actions...'

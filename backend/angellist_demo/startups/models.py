@@ -1,4 +1,5 @@
 from django.db import models
+from djangotoolbox.fields import ListField
 
 # Create your models here.
 class Startup(models.Model):
@@ -6,3 +7,4 @@ class Startup(models.Model):
 	name = models.TextField()
 	url = models.TextField()
 	incubator = models.TextField()
+	markets = ListField()

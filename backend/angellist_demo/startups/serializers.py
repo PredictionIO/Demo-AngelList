@@ -10,4 +10,4 @@ class StartupIdSerializer(serializers.ModelSerializer):
 class StartupSerializer(serializers.ModelSerializer):
 	class Meta:
 		model = Startup
-		fields = ('id', 'name', 'url', 'incubator',) # note: tuple
+		fields = ('id', 'name', 'url', 'incubator', 'markets') # note: tuple
