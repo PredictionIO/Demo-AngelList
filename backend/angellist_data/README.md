@@ -4,7 +4,7 @@ AngelList Dataset for PredictionIO Sample Project
 What is this?
 ---------------------
 
-This dataset contains data collected from the public AngelList API on September 25th, 2013.
+This dataset contains data collected from the public AngelList API on May, 2014.
 
 The demo illustrates the use of PredictionIO's Item Similarity engine to generate predictions for "If you follow this startup, you may also want to follow these X, Y and Z startups".
 
@@ -12,10 +12,6 @@ Using the AngelList API we retrieved all startups belonging to the following acc
 
 * https://angel.co/500startups
 * https://angel.co/y-combinator
-* https://angel.co/AngelPad
-* https://angel.co/startx
-* https://angel.co/alchemist-accelerator
-* https://angel.co/dreamit-ventures
 * https://angel.co/techstars
 
 With duplicates removed we then retrieved all users following these startups. This dataset then provided the users, items (i.e., startups) and interactions (i.e., follows) to build an Item Similarity model in PredictionIO.

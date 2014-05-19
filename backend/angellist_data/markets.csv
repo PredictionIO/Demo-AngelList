@@ -1,2972 +1,1 @@
-startup_id,market_id,market_name
-44,632,email
-44,376,productivity software
-112,14224,content creators
-112,87,publishing
-112,53,entertainment
-112,4,digital media
-119,1893,distribution
-119,1146,app stores
-119,10,SaaS
-119,3,mobile
-130,194,hospitality
-130,162,marketplaces
-130,16,real estate
-160,468,recruiting
-160,42,B2B
-160,12,enterprise software
-160,10,SaaS
-209,1925,risk management
-209,367,supply chain management
-209,198,big data
-209,10,SaaS
-238,2613,university students
-238,490,mobile games
-238,349,college campuses
-238,205,mobile advertising
-312,435,beauty
-312,308,online reservations
-312,162,marketplaces
-312,50,lead generation
-349,1161,travel
-349,78,online travel
-537,8604,indians
-537,1067,online dating
-630,646,musical instruments
-630,408,ios
-630,43,education
-630,3,mobile
-674,1352,translation
-674,302,developer apis
-674,246,crowdsourcing
-684,13197,big data analytics
-684,2800,business analytics
-684,97,business intelligence
-695,34,advertising
-695,32,retail
-695,29,e-commerce
-695,10,SaaS
-720,340,small and medium businesses
-720,246,crowdsourcing
-720,3,mobile
-787,246,crowdsourcing
-787,162,marketplaces
-787,34,advertising
-813,246,crowdsourcing
-813,200,artificial intelligence
-813,42,B2B
-813,38,cloud computing
-815,1181,professional networking
-815,87,publishing
-815,43,education
-815,4,digital media
-817,1076,social travel
-817,416,android
-817,130,photography
-820,1103,health and wellness
-820,175,health care information technology
-820,162,marketplaces
-820,13,health care
-859,686,brand marketing
-859,205,mobile advertising
-859,198,big data
-859,6,social media
-915,340,small and medium businesses
-915,71,payments
-915,29,e-commerce
-917,515,college recruiting
-917,468,recruiting
-917,431,social recruiting
-917,43,education
-979,175,health care information technology
-979,13,health care
-1003,198,big data
-1003,52,analytics
-1003,6,social media
-1003,4,digital media
-1023,9912,educational games
-1023,269,social media platforms
-1023,43,education
-1023,41,social games
-1023,3,mobile
-1074,772,outdoors
-1074,230,social commerce
-1074,94,mobile commerce
-1074,3,mobile
-1124,856,venture capital
-1241,671,mass customization
-1241,305,custom retail
-1241,93,fashion
-1241,29,e-commerce
-1242,1341,google apps
-1242,632,email
-1242,113,business productivity
-1242,3,mobile
-1248,73,sports
-1248,6,social media
-1248,3,mobile
-1249,332,web design
-1249,181,communities
-1249,6,social media
-1266,1295,gamification
-1266,450,social media marketing
-1266,181,communities
-1266,99,performance marketing
-1347,366,auctions
-1347,162,marketplaces
-1347,29,e-commerce
-1410,51,sales and marketing
-1410,34,advertising
-1410,10,SaaS
-1464,1237,sensors
-1464,286,consumer electronics
-1464,277,iphone
-1464,47,music
-1484,360,ipad
-1484,333,presentations
-1484,10,SaaS
-1484,3,mobile
-1541,43,education
-1566,1414,creative
-1566,464,photo editing
-1566,6,social media
-1566,4,digital media
-1639,340,small and medium businesses
-1639,113,business productivity
-1639,107,fitness
-1639,45,business services
-1675,198,big data
-1675,57,location based services
-1675,38,cloud computing
-1675,3,mobile
-1680,443,mobile coupons
-1680,388,qr codes
-1680,379,retail technology
-1680,224,loyalty programs
-1682,332,web design
-1682,246,crowdsourcing
-1682,8,internet
-1693,16414,active lifestyle
-1693,419,bridging online and offline
-1693,230,social commerce
-1693,6,social media
-1748,663,contact management
-1748,302,developer apis
-1748,6,social media
-1790,162,marketplaces
-1790,12,enterprise software
-1790,9,life sciences
-1796,1469,k 12 education
-1796,360,ipad
-1796,10,SaaS
-1796,3,mobile
-1812,641,human resources
-1812,468,recruiting
-1812,162,marketplaces
-1812,3,mobile
-1856,1218,bicycles
-1856,631,transportation
-1856,26,clean technology
-1997,837,babies
-1997,314,families
-1997,229,facebook applications
-2032,386,design
-2032,181,communities
-2032,162,marketplaces
-2032,29,e-commerce
-2106,956,content
-2106,162,marketplaces
-2106,45,business services
-2106,4,digital media
-2197,230,social commerce
-2197,162,marketplaces
-2197,78,online travel
-2197,29,e-commerce
-2269,450,social media marketing
-2269,342,market research
-2269,198,big data
-2269,37,ad targeting
-2276,414,q&a
-2276,57,location based services
-2276,6,social media
-2276,3,mobile
-2484,230,social commerce
-2484,94,mobile commerce
-2484,29,e-commerce
-2484,3,mobile
-2489,1980,social crm
-2489,632,email
-2500,9557,lead management
-2500,309,sales automation
-2500,42,B2B
-2500,3,mobile
-2506,1132,developer tools
-2506,348,e commerce platforms
-2506,162,marketplaces
-2506,59,open source
-2556,309,sales automation
-2556,51,sales and marketing
-2556,42,B2B
-2556,12,enterprise software
-2744,320,parenting
-2744,43,education
-2744,14,games
-2744,3,mobile
-2752,309,sales automation
-2752,83,CRM
-2752,10,SaaS
-2752,3,mobile
-2787,673,local advertising
-2787,419,bridging online and offline
-2787,340,small and medium businesses
-2787,10,SaaS
-2831,1172,utilities
-2831,90,energy efficiency
-2831,41,social games
-2831,26,clean technology
-2854,93,fashion
-2854,32,retail
-2854,31,consumer goods
-2854,29,e-commerce
-2917,51,sales and marketing
-2917,10,SaaS
-2917,6,social media
-2917,1,consumer internet
-3033,419,bridging online and offline
-3033,47,music
-3033,43,education
-3033,3,mobile
-3204,2947,finance technology
-3204,374,personal finance
-3204,17,financial services
-3204,3,mobile
-3295,269,social media platforms
-3295,181,communities
-3295,6,social media
-3295,4,digital media
-3296,419,bridging online and offline
-3296,246,crowdsourcing
-3296,43,education
-3336,1891,subscription businesses
-3336,1445,specialty foods
-3336,31,consumer goods
-3336,29,e-commerce
-3463,604,ticketing
-3463,388,qr codes
-3463,3,mobile
-3473,1258,mobile health
-3473,360,ipad
-3473,277,iphone
-3473,19,medical
-3494,1295,gamification
-3494,1258,mobile health
-3494,418,personal health
-3494,3,mobile
-3502,632,email
-3502,340,small and medium businesses
-3502,113,business productivity
-3502,51,sales and marketing
-3678,224,loyalty programs
-3678,29,e-commerce
-3678,12,enterprise software
-3678,10,SaaS
-3733,340,small and medium businesses
-3733,97,business intelligence
-3733,83,CRM
-3733,42,B2B
-4041,448,startups
-4041,88,mobile infrastructure
-4041,42,B2B
-4041,3,mobile
-4064,372,photo sharing
-4064,360,ipad
-4064,277,iphone
-4064,130,photography
-4081,3127,web development
-4081,1132,developer tools
-4081,332,web design
-4081,10,SaaS
-4312,468,recruiting
-4312,181,communities
-4312,34,advertising
-4312,6,social media
-4374,2812,entertainment industry
-4374,2572,personal branding
-4374,1414,creative
-4374,468,recruiting
-4776,1262,creative industries
-4776,1000,private social networking
-4776,386,design
-4776,372,photo sharing
-4876,230,social commerce
-4876,10,SaaS
-5580,290,video streaming
-5580,230,social commerce
-5580,41,social games
-5580,4,digital media
-5599,49,telecommunications
-5599,12,enterprise software
-5599,10,SaaS
-5599,3,mobile
-5980,450,social media marketing
-5980,52,analytics
-5980,10,SaaS
-5980,6,social media
-6028,948,printing
-6028,372,photo sharing
-6028,24,consumers
-6028,3,mobile
-6328,419,bridging online and offline
-6328,340,small and medium businesses
-6328,228,local
-6328,10,SaaS
-6398,2999,disruptive models
-6398,419,bridging online and offline
-6398,162,marketplaces
-6398,69,automotive
-6422,11700,it management
-6422,1132,developer tools
-6422,12,enterprise software
-6422,3,mobile
-6427,1000,private social networking
-6427,157,messaging
-6427,6,social media
-6427,3,mobile
-6446,629,identity management
-6446,198,big data
-6446,52,analytics
-6468,16089,event management
-6468,556,events
-6468,42,B2B
-6468,10,SaaS
-6592,2678,green building
-6592,198,big data
-6592,90,energy efficiency
-6592,52,analytics
-6618,198,big data
-6618,67,search
-6618,6,social media
-6618,1,consumer internet
-6657,372,photo sharing
-6657,6,social media
-6657,3,mobile
-6662,1076,social travel
-6662,372,photo sharing
-6662,277,iphone
-6662,228,local
-6702,15805,angel investing
-6702,856,venture capital
-6702,468,recruiting
-6702,448,startups
-7332,1321,point of sale
-7332,473,mobile payments
-7332,72,food and beverages
-7332,71,payments
-7601,13197,big data analytics
-7601,198,big data
-7601,123,internet infrastructure
-7601,54,infrastructure
-9434,641,human resources
-9434,12,enterprise software
-9434,10,SaaS
-9580,639,browser extensions
-9580,31,consumer goods
-9580,29,e-commerce
-9921,956,content
-9921,34,advertising
-9921,6,social media
-9921,4,digital media
-10275,8962,content delivery
-10275,3127,web development
-10275,123,internet infrastructure
-10310,686,brand marketing
-10310,12,enterprise software
-10310,10,SaaS
-10310,3,mobile
-10855,339,advertising platforms
-10855,205,mobile advertising
-10855,34,advertising
-10855,3,mobile
-10908,841,software
-10908,601,virtual workforces
-10908,468,recruiting
-10908,162,marketplaces
-11369,12991,collaborative consumption
-11369,926,reputation
-11369,162,marketplaces
-11369,134,peer-to-peer
-11888,2009,cloud data services
-11888,306,cloud management
-11888,38,cloud computing
-11888,10,SaaS
-12106,450,social media marketing
-12106,230,social commerce
-12106,99,performance marketing
-12106,29,e-commerce
-12271,246,crowdsourcing
-12271,10,SaaS
-12271,3,mobile
-12387,3107,local based services
-12387,631,transportation
-12387,323,postal and courier services
-12387,162,marketplaces
-12694,1567,online scheduling
-12694,72,food and beverages
-12694,45,business services
-12694,6,social media
-12826,376,productivity software
-12826,311,collaboration
-12826,12,enterprise software
-12826,10,SaaS
-12882,340,small and medium businesses
-12882,309,sales automation
-12882,198,big data
-12882,50,lead generation
-13076,340,small and medium businesses
-13076,162,marketplaces
-13076,29,e-commerce
-13076,10,SaaS
-13090,419,bridging online and offline
-13090,57,location based services
-13090,3,mobile
-13090,1,consumer internet
-13097,450,social media marketing
-13097,340,small and medium businesses
-13097,10,SaaS
-13097,6,social media
-13152,241,visualization
-13152,198,big data
-13152,162,marketplaces
-13152,51,sales and marketing
-13274,11940,paas
-13274,1132,developer tools
-13274,149,real time
-13274,123,internet infrastructure
-13309,449,application platforms
-13309,302,developer apis
-13309,198,big data
-13309,52,analytics
-13320,62,security
-13320,59,open source
-13320,12,enterprise software
-13320,10,SaaS
-13844,13197,big data analytics
-13844,1295,gamification
-13844,12,enterprise software
-13844,10,SaaS
-13949,490,mobile games
-13949,408,ios
-14239,2776,mobile analytics
-14239,198,big data
-14239,52,analytics
-14239,3,mobile
-14263,234,deep information technology
-14263,198,big data
-14263,38,cloud computing
-14263,10,SaaS
-14700,407,art
-14700,340,small and medium businesses
-14700,29,e-commerce
-14700,1,consumer internet
-15077,230,social commerce
-15077,229,facebook applications
-15077,34,advertising
-15077,29,e-commerce
-15481,673,local advertising
-15481,389,local coupons
-15481,339,advertising platforms
-15481,228,local
-15762,3068,theatre
-15762,2812,entertainment industry
-15762,47,music
-16385,760,chat
-16385,502,forums
-16385,181,communities
-16385,3,mobile
-16683,162,marketplaces
-16683,69,automotive
-16683,29,e-commerce
-16828,2898,farming
-16828,702,agriculture
-16828,10,SaaS
-16970,2613,university students
-16970,1474,entrepreneur
-16970,1145,legal
-16970,1000,private social networking
-17068,490,mobile games
-17068,205,mobile advertising
-17068,3,mobile
-17609,1331,customer support tools
-17609,657,email marketing
-17609,83,CRM
-17609,12,enterprise software
-17973,1000,private social networking
-17973,208,ventures for good
-17973,6,social media
-17973,3,mobile
-18138,836,apps
-18138,138,search marketing
-18138,3,mobile
-18275,416,android
-18275,408,ios
-18275,314,families
-18275,3,mobile
-18618,230,social commerce
-18618,94,mobile commerce
-18618,71,payments
-18618,29,e-commerce
-18863,376,productivity software
-18863,309,sales automation
-18863,83,CRM
-18863,10,SaaS
-18869,673,local advertising
-18869,450,social media marketing
-18869,340,small and medium businesses
-18869,10,SaaS
-18918,379,retail technology
-18918,263,restaurants
-18918,3,mobile
-18918,1,consumer internet
-18937,2540,quantified self
-18937,1295,gamification
-18937,1103,health and wellness
-18937,3,mobile
-18966,376,productivity software
-18966,311,collaboration
-18966,198,big data
-18966,3,mobile
-19037,490,mobile games
-19037,238,religion
-19037,14,games
-19037,4,digital media
-19119,529,local services
-19119,340,small and medium businesses
-19119,320,parenting
-19119,162,marketplaces
-19136,450,social media marketing
-19136,246,crowdsourcing
-19136,6,social media
-19136,3,mobile
-19146,52,analytics
-19146,3,mobile
-19149,130,photography
-19150,632,email
-19153,263,restaurants
-19153,228,local
-19153,57,location based services
-19153,6,social media
-19154,16,real estate
-19159,16090,billing
-19159,71,payments
-19168,2805,technical continuing education
-19168,43,education
-19168,4,digital media
-19184,1181,professional networking
-19184,1000,private social networking
-19184,376,productivity software
-19184,3,mobile
-19185,11557,credit cards
-19185,355,hotels
-19185,224,loyalty programs
-19185,78,online travel
-19194,12991,collaborative consumption
-19194,386,design
-19194,181,communities
-19194,43,education
-19239,360,ipad
-19239,94,mobile commerce
-19239,29,e-commerce
-19239,3,mobile
-19331,632,email
-19331,339,advertising platforms
-19331,51,sales and marketing
-19331,34,advertising
-19338,1103,health and wellness
-19338,418,personal health
-19338,72,food and beverages
-19374,246,crowdsourcing
-19374,208,ventures for good
-19374,43,education
-19374,4,digital media
-19384,373,politics
-19384,269,social media platforms
-19401,641,human resources
-19401,587,data mining
-19401,42,B2B
-19401,10,SaaS
-19435,836,apps
-19435,277,iphone
-19435,198,big data
-19435,3,mobile
-19563,1262,creative industries
-19563,956,content
-19563,6,social media
-19612,1103,health and wellness
-19612,418,personal health
-19612,41,social games
-19612,3,mobile
-19671,45,business services
-19671,42,B2B
-19671,12,enterprise software
-19671,10,SaaS
-19672,635,consumer behavior
-19672,410,reviews and recommendations
-19672,226,optimization
-19672,29,e-commerce
-19755,553,women
-19755,334,green
-19755,93,fashion
-19755,29,e-commerce
-19899,11774,personalization
-19899,555,weddings
-19899,553,women
-19899,386,design
-19928,9708,commercial real estate
-19928,162,marketplaces
-19928,16,real estate
-19928,1,consumer internet
-19935,348,e commerce platforms
-19935,308,online reservations
-19935,83,CRM
-19935,10,SaaS
-19982,668,mobile search
-19982,269,social media platforms
-19982,67,search
-19982,6,social media
-20011,450,social media marketing
-20011,87,publishing
-20011,6,social media
-20011,4,digital media
-20026,11146,celebrity
-20026,1325,online video advertising
-20026,339,advertising platforms
-20026,11,media
-20249,340,small and medium businesses
-20249,309,sales automation
-20249,51,sales and marketing
-20249,12,enterprise software
-20331,427,social fundraising
-20331,324,nonprofits
-20331,208,ventures for good
-20331,10,SaaS
-20332,490,mobile games
-20332,339,advertising platforms
-20332,205,mobile advertising
-20332,41,social games
-20336,1103,health and wellness
-20336,419,bridging online and offline
-20336,72,food and beverages
-20336,29,e-commerce
-20520,12991,collaborative consumption
-20520,12088,cooking
-20520,1891,subscription businesses
-20520,4,digital media
-20524,553,women
-20524,286,consumer electronics
-20524,107,fitness
-20524,93,fashion
-20637,1884,ebooks
-20637,956,content
-20637,360,ipad
-20637,43,education
-20715,3127,web development
-20715,1132,developer tools
-20715,409,development platforms
-20715,38,cloud computing
-20788,269,social media platforms
-20788,12,enterprise software
-20788,10,SaaS
-20788,6,social media
-20898,228,local
-20898,57,location based services
-20898,52,analytics
-20898,3,mobile
-20917,686,brand marketing
-20917,450,social media marketing
-20917,379,retail technology
-20917,81,content syndication
-20944,340,small and medium businesses
-20944,123,internet infrastructure
-20944,62,security
-20944,10,SaaS
-21031,9600,high school students
-21031,1469,k 12 education
-21031,449,application platforms
-21042,340,small and medium businesses
-21047,47,music
-21047,6,social media
-21048,230,social commerce
-21048,29,e-commerce
-21048,12,enterprise software
-21073,836,apps
-21073,449,application platforms
-21073,10,SaaS
-21073,3,mobile
-21199,1103,health and wellness
-21199,419,bridging online and offline
-21199,162,marketplaces
-21199,107,fitness
-21211,82755,social media management
-21211,1980,social crm
-21211,686,brand marketing
-21211,419,bridging online and offline
-21214,1352,translation
-21214,246,crowdsourcing
-21214,162,marketplaces
-21214,149,real time
-21272,43,education
-21272,3,mobile
-21272,1,consumer internet
-21301,340,small and medium businesses
-21301,228,local
-21301,205,mobile advertising
-21301,3,mobile
-21312,1103,health and wellness
-21312,418,personal health
-21312,13,health care
-21517,13197,big data analytics
-21517,1258,mobile health
-21517,418,personal health
-21517,175,health care information technology
-21584,2540,quantified self
-21584,208,ventures for good
-21584,175,health care information technology
-21584,1,consumer internet
-21594,282,semantic search
-21594,230,social commerce
-21594,198,big data
-21594,29,e-commerce
-21604,376,productivity software
-21604,207,freemium
-21604,6,social media
-21618,657,email marketing
-21618,587,data mining
-21618,198,big data
-21618,82,direct marketing
-21770,340,small and medium businesses
-21770,73,sports
-21770,6,social media
-21770,3,mobile
-21778,529,local services
-21778,419,bridging online and offline
-21778,230,social commerce
-21778,162,marketplaces
-21821,9912,educational games
-21821,481,kids
-21821,87,publishing
-21821,3,mobile
-21834,205,mobile advertising
-21834,36,advertising networks
-21877,12043,gift exchange
-21877,10483,gift card
-21877,230,social commerce
-21877,29,e-commerce
-21891,2743,app discovery
-21891,277,iphone
-21891,3,mobile
-21896,632,email
-21896,376,productivity software
-21896,157,messaging
-21969,13197,big data analytics
-21969,2050,social business
-21969,521,knowledge management
-21969,283,natural language processing
-22038,2613,university students
-22038,269,social media platforms
-22038,230,social commerce
-22038,16,real estate
-22246,372,photo sharing
-22246,130,photography
-22246,3,mobile
-22249,11774,personalization
-22249,9100,travel & tourism
-22249,1161,travel
-22249,78,online travel
-22287,3010,crowdfunding
-22287,427,social fundraising
-22287,230,social commerce
-22320,490,mobile games
-22320,41,social games
-22458,481,kids
-22458,314,families
-22458,29,e-commerce
-22458,14,games
-22663,1183,computer vision
-22663,400,usability
-22663,342,market research
-22663,34,advertising
-22679,1429,digital entertainment
-22679,33,video
-22679,4,digital media
-22679,3,mobile
-22776,450,social media marketing
-22776,51,sales and marketing
-22776,34,advertising
-22799,918,group buying
-22799,230,social commerce
-22799,71,payments
-22799,29,e-commerce
-22937,370,mobile enterprise
-22937,311,collaboration
-22937,12,enterprise software
-22937,10,SaaS
-22940,1331,customer support tools
-22940,52,analytics
-22940,51,sales and marketing
-22940,10,SaaS
-23064,948,printing
-23064,372,photo sharing
-23064,33,video
-23064,3,mobile
-23102,1132,developer tools
-23102,302,developer apis
-23102,52,analytics
-23102,38,cloud computing
-23140,409,development platforms
-23140,33,video
-23140,3,mobile
-23157,230,social commerce
-23157,94,mobile commerce
-23157,29,e-commerce
-23205,2947,finance technology
-23205,841,software
-23205,340,small and medium businesses
-23205,10,SaaS
-23227,1325,online video advertising
-23227,36,advertising networks
-23227,34,advertising
-23227,4,digital media
-23238,1567,online scheduling
-23238,556,events
-23238,419,bridging online and offline
-23238,162,marketplaces
-23290,409,development platforms
-23290,198,big data
-23290,38,cloud computing
-23290,12,enterprise software
-23418,1076,social travel
-23418,836,apps
-23418,78,online travel
-23418,3,mobile
-23427,263,restaurants
-23427,224,loyalty programs
-23427,83,CRM
-23427,3,mobile
-23479,1582,cause marketing
-23479,1103,health and wellness
-23479,269,social media platforms
-23479,208,ventures for good
-23577,9708,commercial real estate
-23577,198,big data
-23577,162,marketplaces
-23577,12,enterprise software
-23761,1352,translation
-23761,1161,travel
-23761,1054,augmented reality
-23761,3,mobile
-23792,1226,universities
-23792,43,education
-23792,10,SaaS
-23792,3,mobile
-23877,13197,big data analytics
-23877,52,analytics
-23877,51,sales and marketing
-23877,42,B2B
-23914,1161,travel
-23914,162,marketplaces
-23967,12991,collaborative consumption
-23967,1218,bicycles
-23967,419,bridging online and offline
-23967,134,peer-to-peer
-24067,14791,cloud security
-24067,8962,content delivery
-24067,628,data security
-24067,38,cloud computing
-24069,585,accounting
-24069,340,small and medium businesses
-24069,17,financial services
-24069,10,SaaS
-24153,379,retail technology
-24153,52,analytics
-24153,12,enterprise software
-24153,3,mobile
-24196,12991,collaborative consumption
-24196,631,transportation
-24196,419,bridging online and offline
-24196,162,marketplaces
-24232,370,mobile enterprise
-24232,311,collaboration
-24232,38,cloud computing
-24232,12,enterprise software
-24366,8962,content delivery
-24366,1259,content discovery
-24366,450,social media marketing
-24366,339,advertising platforms
-24398,94,mobile commerce
-24398,93,fashion
-24398,87,publishing
-24398,29,e-commerce
-24412,1432,online shopping
-24412,1259,content discovery
-24412,587,data mining
-24412,553,women
-24416,311,collaboration
-24416,293,video editing
-24416,33,video
-24432,8962,content delivery
-24432,230,social commerce
-24432,87,publishing
-24432,4,digital media
-24442,641,human resources
-24442,468,recruiting
-24442,12,enterprise software
-24442,10,SaaS
-24469,57,location based services
-24469,6,social media
-24469,3,mobile
-24491,2800,business analytics
-24491,773,energy management
-24491,48,manufacturing
-24491,12,enterprise software
-24507,1132,developer tools
-24507,10,SaaS
-24541,52,analytics
-24541,51,sales and marketing
-24541,10,SaaS
-24541,6,social media
-24583,33,video
-24583,4,digital media
-24583,3,mobile
-24587,370,mobile enterprise
-24587,309,sales automation
-24587,83,CRM
-24587,3,mobile
-24678,205,mobile advertising
-24738,1891,subscription businesses
-24738,93,fashion
-24738,32,retail
-24738,29,e-commerce
-24856,1258,mobile health
-24856,1103,health and wellness
-24856,107,fitness
-24856,3,mobile
-24944,10494,cloud infrastructure
-24944,306,cloud management
-24944,38,cloud computing
-24944,12,enterprise software
-24963,1107,high tech
-24963,309,sales automation
-24963,42,B2B
-24963,10,SaaS
-25024,1000,private social networking
-25024,473,mobile payments
-25024,324,nonprofits
-25024,238,religion
-25025,1331,customer support tools
-25025,710,customer service
-25025,340,small and medium businesses
-25025,10,SaaS
-25065,13197,big data analytics
-25065,673,local advertising
-25065,32,retail
-25065,12,enterprise software
-25092,342,market research
-25092,198,big data
-25092,97,business intelligence
-25189,926,reputation
-25189,712,privacy
-25189,629,identity management
-25189,460,personal data
-25293,2596,online identity
-25293,798,identity
-25293,62,security
-25293,3,mobile
-25294,162,marketplaces
-25294,73,sports
-25294,43,education
-25306,409,development platforms
-25306,348,e commerce platforms
-25306,78,online travel
-25306,10,SaaS
-25353,13332,corporate it
-25353,11048,web hosting
-25353,415,domains
-25353,302,developer apis
-25359,1161,travel
-25359,78,online travel
-25441,3092,lifestyle
-25441,552,blogging platforms
-25441,269,social media platforms
-25441,3,mobile
-25497,556,events
-25497,246,crowdsourcing
-25497,52,analytics
-25497,33,video
-25513,632,email
-25513,113,business productivity
-25513,83,CRM
-25513,51,sales and marketing
-25518,230,social commerce
-25518,33,video
-25518,29,e-commerce
-25518,6,social media
-25519,2947,finance technology
-25519,321,finance
-25519,230,social commerce
-25519,17,financial services
-25528,450,social media marketing
-25528,269,social media platforms
-25528,10,SaaS
-25528,6,social media
-25544,468,recruiting
-25544,431,social recruiting
-25544,10,SaaS
-25544,6,social media
-25577,198,big data
-25577,34,advertising
-25577,29,e-commerce
-25577,12,enterprise software
-25635,424,deals
-25635,230,social commerce
-25635,174,coupons
-25635,94,mobile commerce
-25717,1893,distribution
-25717,85,film
-25717,53,entertainment
-25717,33,video
-25954,15540,3d technology
-25954,1183,computer vision
-25954,680,construction
-25954,595,maps
-25976,87,publishing
-25976,43,education
-25976,4,digital media
-25989,3117,sports stadiums
-25989,339,advertising platforms
-25989,162,marketplaces
-25989,34,advertising
-26003,3127,web development
-26003,332,web design
-26003,51,sales and marketing
-26003,1,consumer internet
-26090,585,accounting
-26090,340,small and medium businesses
-26090,321,finance
-26090,10,SaaS
-26102,348,e commerce platforms
-26102,230,social commerce
-26102,93,fashion
-26102,29,e-commerce
-26108,43,education
-26118,419,bridging online and offline
-26118,342,market research
-26118,208,ventures for good
-26118,29,e-commerce
-26160,67,search
-26160,43,education
-26160,33,video
-26167,11537,reading apps
-26167,9912,educational games
-26167,1469,k 12 education
-26167,721,edutainment
-26179,1506,rental housing
-26179,615,tablets
-26179,16,real estate
-26179,3,mobile
-26190,198,big data
-26190,34,advertising
-26190,10,SaaS
-26190,4,digital media
-26348,836,apps
-26348,94,mobile commerce
-26348,3,mobile
-26394,836,apps
-26394,360,ipad
-26394,33,video
-26394,3,mobile
-26411,1891,subscription businesses
-26411,162,marketplaces
-26411,132,wine and spirits
-26411,29,e-commerce
-26432,419,bridging online and offline
-26432,162,marketplaces
-26432,47,music
-26432,4,digital media
-26523,376,productivity software
-26523,87,publishing
-26523,34,advertising
-26523,6,social media
-26683,2009,cloud data services
-26683,632,email
-26683,306,cloud management
-26683,198,big data
-26775,12991,collaborative consumption
-26775,1000,private social networking
-26775,230,social commerce
-26775,94,mobile commerce
-26883,450,social media marketing
-26883,269,social media platforms
-26883,198,big data
-26883,52,analytics
-26942,263,restaurants
-26942,72,food and beverages
-26942,51,sales and marketing
-26942,10,SaaS
-27033,9912,educational games
-27033,449,application platforms
-27033,91,robotics
-27048,1891,subscription businesses
-27048,72,food and beverages
-27048,29,e-commerce
-27048,1,consumer internet
-27096,2800,business analytics
-27096,42,B2B
-27096,10,SaaS
-27096,3,mobile
-27175,1543,career management
-27175,468,recruiting
-27175,410,reviews and recommendations
-27175,4,digital media
-27212,856,venture capital
-27212,42,B2B
-27212,17,financial services
-27212,4,digital media
-27216,2009,cloud data services
-27216,198,big data
-27216,38,cloud computing
-27216,12,enterprise software
-27490,982,task management
-27490,680,construction
-27490,370,mobile enterprise
-27490,10,SaaS
-27572,443,mobile coupons
-27572,224,loyalty programs
-27572,205,mobile advertising
-27572,3,mobile
-27573,1295,gamification
-27573,481,kids
-27573,277,iphone
-27573,107,fitness
-27830,11826,user experience design
-27830,198,big data
-27830,69,automotive
-27830,3,mobile
-27869,10494,cloud infrastructure
-27869,901,voip
-27869,302,developer apis
-27869,49,telecommunications
-27942,105365,google glass
-27942,668,mobile search
-27942,460,personal data
-27942,198,big data
-28064,1468,banking
-28064,321,finance
-28064,320,parenting
-28064,17,financial services
-28118,590,casual games
-28118,490,mobile games
-28118,100,video games
-28118,41,social games
-28208,2012,tutoring
-28208,162,marketplaces
-28208,43,education
-28225,3010,crowdfunding
-28225,208,ventures for good
-28390,1545,logistics
-28390,29,e-commerce
-28390,12,enterprise software
-28471,1980,social crm
-28471,309,sales automation
-28471,12,enterprise software
-28471,10,SaaS
-28474,615,tablets
-28474,360,ipad
-28474,94,mobile commerce
-28474,29,e-commerce
-28625,32,retail
-28625,29,e-commerce
-28625,6,social media
-28625,3,mobile
-28824,673,local advertising
-28824,419,bridging online and offline
-28824,10,SaaS
-29008,11940,paas
-29008,1132,developer tools
-29008,38,cloud computing
-29008,10,SaaS
-29047,686,brand marketing
-29047,339,advertising platforms
-29047,205,mobile advertising
-29047,87,publishing
-29049,760,chat
-29049,311,collaboration
-29049,149,real time
-29049,59,open source
-29096,13197,big data analytics
-29096,424,deals
-29096,355,hotels
-29096,78,online travel
-29295,246,crowdsourcing
-29295,93,fashion
-29295,42,B2B
-29295,29,e-commerce
-29381,149,real time
-29381,52,analytics
-29381,42,B2B
-29381,10,SaaS
-29398,553,women
-29398,419,bridging online and offline
-29398,230,social commerce
-29398,29,e-commerce
-29428,101078,shared economy
-29428,13104,mens specific
-29428,13081,online rental
-29428,93,fashion
-29428,32,retail
-29428,29,e-commerce
-29586,1183,computer vision
-29586,668,mobile search
-29586,449,application platforms
-29586,302,developer apis
-29741,494,internet service providers
-29741,49,telecommunications
-29741,3,mobile
-29798,340,small and medium businesses
-29798,97,business intelligence
-29798,10,SaaS
-29798,1,consumer internet
-29984,481,kids
-29984,419,bridging online and offline
-29984,320,parenting
-29984,314,families
-30009,13197,big data analytics
-30009,1506,rental housing
-30009,1470,predictive analytics
-30009,226,optimization
-30069,2554,mobile security
-30069,1132,developer tools
-30069,94,mobile commerce
-30069,7,hardware
-30459,269,social media platforms
-30459,52,analytics
-30459,47,music
-30459,10,SaaS
-30468,339,advertising platforms
-30468,205,mobile advertising
-30468,35,advertising exchanges
-30468,34,advertising
-30557,419,bridging online and offline
-30557,162,marketplaces
-30557,29,e-commerce
-30626,1056,technology
-30626,895,colleges
-30626,43,education
-30767,2484,price comparison
-30767,529,local services
-30767,410,reviews and recommendations
-30767,50,lead generation
-31113,228,local
-31113,198,big data
-31113,57,location based services
-31113,3,mobile
-31196,632,email
-31196,175,health care information technology
-31196,62,security
-31196,17,financial services
-31319,1132,developer tools
-31319,449,application platforms
-31319,302,developer apis
-31319,175,health care information technology
-31409,269,social media platforms
-31409,181,communities
-31409,6,social media
-31417,2800,business analytics
-31417,460,personal data
-31417,339,advertising platforms
-31417,198,big data
-31465,386,design
-31465,162,marketplaces
-31465,67,search
-31465,3,mobile
-31581,1567,online scheduling
-31581,57,location based services
-31606,43668,practice management
-31606,1258,mobile health
-31606,418,personal health
-31606,175,health care information technology
-31626,47,music
-31676,13,health care
-31676,6,social media
-31676,1,consumer internet
-31762,157,messaging
-31762,149,real time
-31762,12,enterprise software
-31803,556,events
-31803,198,big data
-31803,52,analytics
-31803,50,lead generation
-31833,230,social commerce
-31833,29,e-commerce
-31846,9002,home & garden
-31846,1720,home owners
-31846,16,real estate
-31850,657,email marketing
-31850,430,email newsletters
-31850,16,real estate
-31917,481,kids
-31917,43,education
-31917,4,digital media
-31917,3,mobile
-31948,360,ipad
-31948,94,mobile commerce
-31948,29,e-commerce
-31948,4,digital media
-32090,157,messaging
-32090,149,real time
-32090,52,analytics
-32090,4,digital media
-32170,1980,social crm
-32170,657,email marketing
-32170,450,social media marketing
-32170,83,CRM
-32318,198,big data
-32318,52,analytics
-32318,47,music
-32364,761,sms
-32364,333,presentations
-32364,149,real time
-32364,3,mobile
-32409,10494,cloud infrastructure
-32409,10,SaaS
-32452,47,music
-32509,302,developer apis
-32509,103,telephony
-32566,10483,gift card
-32572,2947,finance technology
-32572,1468,banking
-32572,374,personal finance
-32572,321,finance
-32588,2507,outdoor advertising
-32588,34,advertising
-32606,11700,it management
-32606,12,enterprise software
-32606,10,SaaS
-32654,11317,document management
-32654,302,developer apis
-32654,12,enterprise software
-32665,205,mobile advertising
-32667,471,file sharing
-32677,162,marketplaces
-32677,78,online travel
-32717,124087,curated web
-32717,8962,content delivery
-32717,1259,content discovery
-32717,956,content
-32748,3127,web development
-32748,252,databases
-32748,198,big data
-32748,38,cloud computing
-32771,11557,credit cards
-32771,71,payments
-32877,224,loyalty programs
-33100,16089,event management
-33100,11390,group email
-33100,430,email newsletters
-33930,57277,cad
-33930,311,collaboration
-33930,181,communities
-33952,2548,web tools
-36705,686,brand marketing
-36705,205,mobile advertising
-36705,10,SaaS
-36705,3,mobile
-36765,632,email
-36765,414,q&a
-36765,157,messaging
-37323,340,small and medium businesses
-37323,263,restaurants
-37323,51,sales and marketing
-37323,12,enterprise software
-39027,1132,developer tools
-39027,490,mobile games
-39027,416,android
-39027,409,development platforms
-40574,252,databases
-40574,12,enterprise software
-42274,10494,cloud infrastructure
-42274,1132,developer tools
-42274,10,SaaS
-42274,3,mobile
-42511,11390,group email
-42511,1331,customer support tools
-42511,710,customer service
-42511,83,CRM
-43503,1556,social news
-43664,16423,china internet
-43664,9100,travel & tourism
-43664,1000,private social networking
-43664,29,e-commerce
-44559,641,human resources
-44559,468,recruiting
-44559,311,collaboration
-44559,12,enterprise software
-44849,16,real estate
-45978,340,small and medium businesses
-45978,224,loyalty programs
-49455,4,digital media
-49455,3,mobile
-51645,410,reviews and recommendations
-51645,246,crowdsourcing
-51645,228,local
-51645,3,mobile
-51938,157,messaging
-51938,57,location based services
-51938,3,mobile
-52538,175,health care information technology
-52721,581,outsourcing
-52721,162,marketplaces
-52745,2414,nfc
-52745,416,android
-52745,376,productivity software
-52745,3,mobile
-53145,372,photo sharing
-53145,130,photography
-54146,663,contact management
-54312,570,fraud detection
-54312,198,big data
-54312,92,machine learning
-54312,10,SaaS
-58059,376,productivity software
-58059,337,social bookmarking
-58059,311,collaboration
-58059,302,developer apis
-58611,1469,k 12 education
-58611,490,mobile games
-58611,481,kids
-58611,43,education
-60577,13764,hardware + software
-60577,1258,mobile health
-60577,1103,health and wellness
-60577,286,consumer electronics
-61263,1103,health and wellness
-61263,73,sports
-61263,4,digital media
-61263,3,mobile
-62150,601,virtual workforces
-62150,340,small and medium businesses
-62150,208,ventures for good
-62150,12,enterprise software
-62234,8604,indians
-62234,1968,south east asia
-62234,634,emerging markets
-64214,78,online travel
-64339,340,small and medium businesses
-64339,29,e-commerce
-64339,10,SaaS
-64430,9912,educational games
-64430,1469,k 12 education
-64430,43,education
-64430,3,mobile
-64699,340,small and medium businesses
-64699,42,B2B
-64699,10,SaaS
-64924,3127,web development
-64924,1132,developer tools
-64924,836,apps
-64924,302,developer apis
-65209,11600,all students
-65209,43,education
-65209,33,video
-65382,13764,hardware + software
-65382,2389,3d printing
-65382,95,synthetic biology
-65382,2,biotechnology
-65563,2800,business analytics
-65563,686,brand marketing
-65563,52,analytics
-65563,6,social media
-65640,340,small and medium businesses
-65640,103,telephony
-65640,49,telecommunications
-65640,10,SaaS
-65735,490,mobile games
-65735,41,social games
-65735,3,mobile
-65781,399,electric vehicles
-65781,287,sporting goods
-65781,286,consumer electronics
-66253,1556,social news
-66253,1033,public relations
-66690,407,art
-66690,230,social commerce
-66690,181,communities
-66827,12991,collaborative consumption
-66827,230,social commerce
-66827,93,fashion
-66827,29,e-commerce
-67109,450,social media marketing
-67109,162,marketplaces
-67109,34,advertising
-67109,10,SaaS
-67354,2813,p2p money transfer
-67354,71,payments
-67354,43,education
-67548,1720,home owners
-67548,1280,home renovation
-67548,228,local
-67548,162,marketplaces
-67672,3127,web development
-67672,332,web design
-68919,13081,online rental
-68919,10167,real estate investors
-68919,1506,rental housing
-68919,16,real estate
-69281,29,e-commerce
-69281,4,digital media
-69281,1,consumer internet
-69595,1259,content discovery
-69595,50,lead generation
-69595,42,B2B
-69595,12,enterprise software
-69763,587,data mining
-69763,230,social commerce
-69763,198,big data
-69763,1,consumer internet
-69943,416,android
-69943,277,iphone
-69943,78,online travel
-69943,3,mobile
-70379,435,beauty
-70379,230,social commerce
-70379,94,mobile commerce
-70379,29,e-commerce
-70538,1545,logistics
-70538,29,e-commerce
-70816,1033,public relations
-70849,663,contact management
-70849,277,iphone
-70849,103,telephony
-70849,3,mobile
-71006,3010,crowdfunding
-71006,1076,social travel
-71006,555,weddings
-71006,230,social commerce
-71558,12703,child care
-71558,529,local services
-71558,320,parenting
-71558,162,marketplaces
-71679,2811,classifieds
-71679,673,local advertising
-71679,230,social commerce
-71679,94,mobile commerce
-72109,2581,social media advertising
-72168,450,social media marketing
-72168,52,analytics
-72168,3,mobile
-72266,982,task management
-72266,376,productivity software
-72266,10,SaaS
-72414,634,emerging markets
-72414,473,mobile payments
-72414,208,ventures for good
-72989,13197,big data analytics
-72989,90,energy efficiency
-72989,26,clean technology
-72989,12,enterprise software
-73215,340,small and medium businesses
-73215,138,search marketing
-73215,34,advertising
-73215,29,e-commerce
-73437,3117,sports stadiums
-73437,73,sports
-73437,53,entertainment
-73437,6,social media
-74754,230,social commerce
-74754,71,payments
-74754,29,e-commerce
-74990,2429,enterprise 2.0
-74990,657,email marketing
-74990,198,big data
-74990,10,SaaS
-75887,13197,big data analytics
-75887,198,big data
-75887,16,real estate
-75887,10,SaaS
-75920,1145,legal
-75920,340,small and medium businesses
-75920,162,marketplaces
-75920,42,B2B
-76047,95,synthetic biology
-76047,25,information technology
-76047,2,biotechnology
-76083,246,crowdsourcing
-76083,230,social commerce
-76083,162,marketplaces
-76083,78,online travel
-76155,13197,big data analytics
-76155,1470,predictive analytics
-76155,587,data mining
-76155,302,developer apis
-76252,3065,toys
-76252,490,mobile games
-76252,481,kids
-76252,14,games
-76269,9734,early stage it
-76269,1132,developer tools
-76269,632,email
-76269,302,developer apis
-76533,14095,employer benefits programs
-76533,1891,subscription businesses
-76533,441,discounts
-76533,224,loyalty programs
-76536,182,bioinformatics
-76536,175,health care information technology
-76536,13,health care
-76536,1,consumer internet
-76705,675,pets
-76705,269,social media platforms
-76705,6,social media
-76705,3,mobile
-76997,11557,credit cards
-76997,473,mobile payments
-76997,340,small and medium businesses
-76997,263,restaurants
-77179,1468,banking
-77179,374,personal finance
-77179,321,finance
-77179,17,financial services
-77235,11940,paas
-77235,2414,nfc
-77235,942,embedded hardware and software
-77235,409,development platforms
-77419,1107,high tech
-77419,91,robotics
-77419,48,manufacturing
-77419,7,hardware
-77492,1896,mobile social
-77492,269,social media platforms
-77492,6,social media
-77492,3,mobile
-77589,1258,mobile health
-77589,408,ios
-77589,338,group sms
-77589,175,health care information technology
-77762,675,pets
-77762,29,e-commerce
-77770,761,sms
-77770,277,iphone
-77770,6,social media
-77770,3,mobile
-78224,1000,private social networking
-78224,663,contact management
-78224,372,photo sharing
-78224,314,families
-78493,57277,cad
-78493,15540,3d technology
-78493,1183,computer vision
-78493,1129,3d
-78563,10494,cloud infrastructure
-78563,1313,data integration
-78563,302,developer apis
-78563,10,SaaS
-78671,406,product search
-78671,301,visual search
-78671,69,automotive
-78690,1161,travel
-78690,1075,vacation rentals
-78690,78,online travel
-78690,16,real estate
-78720,641,human resources
-78720,340,small and medium businesses
-78720,12,enterprise software
-78720,10,SaaS
-78781,1313,data integration
-78782,9848,employment
-78782,468,recruiting
-78782,43,education
-78903,201,news
-78903,33,video
-78903,3,mobile
-78903,1,consumer internet
-78959,11940,paas
-78959,409,development platforms
-78959,59,open source
-78959,10,SaaS
-79123,10494,cloud infrastructure
-79123,449,application platforms
-79123,302,developer apis
-79259,340,small and medium businesses
-79259,57,location based services
-79259,29,e-commerce
-79259,3,mobile
-79275,1132,developer tools
-79275,83,CRM
-79275,10,SaaS
-79275,3,mobile
-79393,2462,internet of things
-79393,252,databases
-79393,198,big data
-79393,52,analytics
-79556,162,marketplaces
-79556,93,fashion
-79622,2795,consumer lending
-79624,94,mobile commerce
-79624,87,publishing
-79624,29,e-commerce
-79624,3,mobile
-79741,11390,group email
-79741,311,collaboration
-79741,12,enterprise software
-79741,10,SaaS
-79796,230,social commerce
-79796,174,coupons
-79796,92,machine learning
-79796,4,digital media
-79828,2909,elder care
-79828,162,marketplaces
-79828,134,peer-to-peer
-79828,13,health care
-79849,410,reviews and recommendations
-79849,162,marketplaces
-79849,50,lead generation
-79849,42,B2B
-79961,311,collaboration
-79961,12,enterprise software
-79961,10,SaaS
-79981,628,data security
-79981,471,file sharing
-79995,889,water
-79995,105,nanotechnology
-79995,26,clean technology
-80042,379,retail technology
-80042,132,wine and spirits
-80042,94,mobile commerce
-80042,24,consumers
-80054,449,application platforms
-80054,50,lead generation
-80054,42,B2B
-80054,12,enterprise software
-80126,230,social commerce
-80126,50,lead generation
-80126,12,enterprise software
-80126,1,consumer internet
-80305,81663,handmade
-80305,230,social commerce
-80305,29,e-commerce
-80314,93,fashion
-80314,29,e-commerce
-80314,1,consumer internet
-80321,419,bridging online and offline
-80321,230,social commerce
-80321,93,fashion
-80321,29,e-commerce
-80503,10494,cloud infrastructure
-80503,449,application platforms
-80503,198,big data
-80503,12,enterprise software
-80977,3165,performing arts
-80977,607,concerts
-80977,604,ticketing
-80977,556,events
-80986,229,facebook applications
-80986,41,social games
-80986,29,e-commerce
-80986,6,social media
-81354,2947,finance technology
-81354,42,B2B
-81354,10,SaaS
-81396,2484,price comparison
-81396,383,insurance
-81396,198,big data
-81396,80,comparison shopping
-81433,360,ipad
-81433,277,iphone
-81433,93,fashion
-81433,29,e-commerce
-81471,490,mobile games
-81471,100,video games
-81471,14,games
-81471,3,mobile
-81494,1470,predictive analytics
-81494,1221,psychology
-81494,1181,professional networking
-81494,198,big data
-81705,761,sms
-81705,432,speech recognition
-81705,416,android
-81705,3,mobile
-81853,1259,content discovery
-81853,956,content
-81853,51,sales and marketing
-81853,10,SaaS
-82190,16089,event management
-82190,556,events
-82190,42,B2B
-82190,10,SaaS
-82357,450,social media marketing
-82357,414,q&a
-82357,269,social media platforms
-82357,241,visualization
-82552,311,collaboration
-82552,87,publishing
-82552,12,enterprise software
-82552,4,digital media
-82610,19,medical
-82610,13,health care
-82817,460,personal data
-82817,342,market research
-82817,198,big data
-82817,41,social games
-83129,473,mobile payments
-83129,419,bridging online and offline
-83129,94,mobile commerce
-83129,71,payments
-83136,856,venture capital
-83136,342,market research
-83136,321,finance
-83136,198,big data
-83184,702,agriculture
-83184,97,business intelligence
-83184,42,B2B
-83184,26,clean technology
-83404,2009,cloud data services
-83404,97,business intelligence
-83404,52,analytics
-83404,1,consumer internet
-83651,11774,personalization
-83651,94,mobile commerce
-83651,3,mobile
-83689,760,chat
-83689,157,messaging
-83689,3,mobile
-83791,604,ticketing
-83791,29,e-commerce
-83791,12,enterprise software
-83791,10,SaaS
-84209,205,mobile advertising
-84209,94,mobile commerce
-84209,3,mobile
-84315,372,photo sharing
-84315,230,social commerce
-84315,42,B2B
-84315,29,e-commerce
-84445,641,human resources
-84445,38,cloud computing
-84445,12,enterprise software
-84663,1132,developer tools
-84663,409,development platforms
-85108,43,education
-85122,460,personal data
-85122,374,personal finance
-85122,17,financial services
-85255,30,medical devices
-85255,19,medical
-85255,13,health care
-85372,246,crowdsourcing
-85372,96,audio
-85483,13197,big data analytics
-85483,11774,personalization
-85483,198,big data
-85483,10,SaaS
-85497,92,machine learning
-85497,52,analytics
-85497,12,enterprise software
-85497,6,social media
-85839,680,construction
-85839,12,enterprise software
-85839,3,mobile
-86331,30,medical devices
-86331,13,health care
-87273,11940,paas
-87273,43,education
-87273,38,cloud computing
-87273,12,enterprise software
-87703,634,emerging markets
-87703,374,personal finance
-87703,208,ventures for good
-87703,3,mobile
-88077,1331,customer support tools
-88077,632,email
-88077,309,sales automation
-88077,83,CRM
-88078,1884,ebooks
-88078,1469,k 12 education
-88078,481,kids
-88078,3,mobile
-88346,1469,k 12 education
-88346,481,kids
-88346,314,families
-88378,339,advertising platforms
-88378,138,search marketing
-88378,34,advertising
-88378,4,digital media
-88695,52,analytics
-88695,6,social media
-88990,1898,mobile video
-88990,1259,content discovery
-88990,33,video
-88990,4,digital media
-89090,2947,finance technology
-89090,94,mobile commerce
-89090,71,payments
-89090,29,e-commerce
-89862,10494,cloud infrastructure
-89862,38,cloud computing
-90089,431,social recruiting
-90089,181,communities
-90089,73,sports
-90241,198,big data
-90241,34,advertising
-90241,6,social media
-90464,1567,online scheduling
-90464,376,productivity software
-90464,311,collaboration
-90464,3,mobile
-90720,3010,crowdfunding
-90720,324,nonprofits
-90720,94,mobile commerce
-90720,10,SaaS
-91049,1075,vacation rentals
-91049,584,shared services
-91049,78,online travel
-91049,50,lead generation
-91255,12991,collaborative consumption
-91255,10341,local businesses
-91255,3010,crowdfunding
-91255,321,finance
-91665,12088,cooking
-91665,1445,specialty foods
-91665,286,consumer electronics
-91665,72,food and beverages
-91921,340,small and medium businesses
-91921,38,cloud computing
-91921,10,SaaS
-91940,339,advertising platforms
-91940,205,mobile advertising
-91940,12,enterprise software
-91940,3,mobile
-91973,11826,user experience design
-91973,2776,mobile analytics
-91973,400,usability
-91973,358,user testing
-94672,2462,internet of things
-94672,286,consumer electronics
-94672,10,SaaS
-94672,3,mobile
-94814,290,video streaming
-94814,269,social media platforms
-94814,4,digital media
-94814,3,mobile
-94949,1556,social news
-94949,269,social media platforms
-94949,201,news
-94949,6,social media
-95009,13332,corporate it
-95009,376,productivity software
-95009,12,enterprise software
-95009,3,mobile
-95146,631,transportation
-95146,529,local services
-95146,323,postal and courier services
-95146,72,food and beverages
-95288,14095,employer benefits programs
-95288,1103,health and wellness
-95288,641,human resources
-95288,12,enterprise software
-96232,230,social commerce
-96232,162,marketplaces
-96232,69,automotive
-96232,29,e-commerce
-96497,340,small and medium businesses
-96497,162,marketplaces
-96497,42,B2B
-96497,12,enterprise software
-97116,12088,cooking
-97116,814,recipes
-97116,6,social media
-97349,2992,geospatial
-97349,57,location based services
-97349,3,mobile
-97716,2009,cloud data services
-97716,12,enterprise software
-97716,10,SaaS
-98097,3076,alumni
-98097,2613,university students
-98097,740,service providers
-98097,162,marketplaces
-98319,1181,professional networking
-98319,1145,legal
-98319,1000,private social networking
-98319,50,lead generation
-98861,309,sales automation
-98861,97,business intelligence
-98861,12,enterprise software
-98861,10,SaaS
-99018,103,telephony
-99018,49,telecommunications
-99018,3,mobile
-99336,1181,professional networking
-99336,1145,legal
-99336,162,marketplaces
-99336,103,telephony
-99359,1262,creative industries
-99359,956,content
-99359,269,social media platforms
-99359,3,mobile
-100100,3010,crowdfunding
-100100,302,developer apis
-100100,162,marketplaces
-100100,71,payments
-101112,1259,content discovery
-101112,841,software
-101112,449,application platforms
-101112,409,development platforms
-101246,1352,translation
-101493,228,local
-101493,181,communities
-101493,73,sports
-101493,6,social media
-101592,1325,online video advertising
-101592,339,advertising platforms
-101592,205,mobile advertising
-101592,34,advertising
-102051,1132,developer tools
-102051,836,apps
-102051,408,ios
-102051,51,sales and marketing
-103032,309,sales automation
-103032,83,CRM
-103032,51,sales and marketing
-103032,10,SaaS
-103572,83982,tea
-103572,1445,specialty foods
-103572,162,marketplaces
-103572,72,food and beverages
-103843,3127,web development
-103843,416,android
-103843,408,ios
-103843,302,developer apis
-104394,2805,technical continuing education
-104394,162,marketplaces
-104394,43,education
-104394,12,enterprise software
-104422,2433,career planning
-104422,515,college recruiting
-104422,43,education
-104469,12991,collaborative consumption
-104469,134,peer-to-peer
-104469,93,fashion
-104469,29,e-commerce
-104489,2812,entertainment industry
-104489,424,deals
-104489,85,film
-104489,29,e-commerce
-105732,1469,k 12 education
-105732,449,application platforms
-105732,111,language learning
-105732,43,education
-106017,286,consumer electronics
-106017,91,robotics
-106017,33,video
-106017,7,hardware
-106355,9708,commercial real estate
-106355,162,marketplaces
-106355,32,retail
-106355,16,real estate
-106374,340,small and medium businesses
-106978,1545,logistics
-106978,529,local services
-106978,483,self storage
-106978,70,storage
-107217,837,babies
-107217,553,women
-107217,314,families
-107217,29,e-commerce
-107277,372,photo sharing
-107277,130,photography
-108003,205,mobile advertising
-108003,87,publishing
-108003,52,analytics
-108003,34,advertising
-108312,374,personal finance
-108312,363,financial exchanges
-108312,162,marketplaces
-108312,17,financial services
-108348,10494,cloud infrastructure
-108348,449,application platforms
-108348,38,cloud computing
-108524,11126,sponsorship
-108524,686,brand marketing
-108524,448,startups
-108524,339,advertising platforms
-108780,1475,mac
-108780,841,software
-108780,360,ipad
-108780,277,iphone
-109204,3127,web development
-109204,409,development platforms
-109204,269,social media platforms
-109204,38,cloud computing
-109363,1556,social news
-109363,246,crowdsourcing
-109363,201,news
-109363,162,marketplaces
-109557,93839,bitcoin
-109557,2777,virtual currency
-109557,473,mobile payments
-109557,71,payments
-110951,702,agriculture
-110951,198,big data
-110951,10,SaaS
-110951,3,mobile
-111423,894,video chat
-111423,311,collaboration
-111423,291,meeting software
-112248,13081,online rental
-112248,12991,collaborative consumption
-112248,162,marketplaces
-112248,134,peer-to-peer
-112523,634,emerging markets
-112523,162,marketplaces
-112523,149,real time
-112523,17,financial services
-112846,9540,web cms
-112846,332,web design
-112846,136,web presence management
-112846,3,mobile
-112849,263,restaurants
-112849,162,marketplaces
-112849,72,food and beverages
-112849,3,mobile
-113107,435,beauty
-113107,32,retail
-113107,29,e-commerce
-113221,901,voip
-113221,157,messaging
-113221,6,social media
-113386,10969,home decor
-113386,472,interior design
-113386,162,marketplaces
-113386,29,e-commerce
-114142,290,video streaming
-114142,100,video games
-114180,2800,business analytics
-114180,2009,cloud data services
-114180,1470,predictive analytics
-114180,52,analytics
-114426,1469,k 12 education
-114426,587,data mining
-114426,449,application platforms
-114426,43,education
-114442,641,human resources
-114442,42,B2B
-114442,12,enterprise software
-114442,10,SaaS
-114450,3010,crowdfunding
-114450,348,e commerce platforms
-114450,29,e-commerce
-114450,3,mobile
-115146,2743,app discovery
-115146,1325,online video advertising
-115146,490,mobile games
-115146,33,video
-115616,1469,k 12 education
-115616,43,education
-116218,556,events
-116218,51,sales and marketing
-116218,29,e-commerce
-116218,10,SaaS
-116369,9708,commercial real estate
-116369,16,real estate
-116466,1352,translation
-116466,1056,technology
-116466,340,small and medium businesses
-116466,10,SaaS
-117016,13197,big data analytics
-117016,205,mobile advertising
-117016,52,analytics
-117016,34,advertising
-117016,10,SaaS
-117187,2999,disruptive models
-117187,1161,travel
-117187,584,shared services
-117187,134,peer-to-peer
-117448,2484,price comparison
-117448,1474,entrepreneur
-117448,1432,online shopping
-117448,3,mobile
-117469,286,consumer electronics
-117469,262,communications hardware
-117469,91,robotics
-117469,7,hardware
-117512,1132,developer tools
-117512,10,SaaS
-117512,3,mobile
-117515,1181,professional networking
-117515,632,email
-117515,52,analytics
-117515,10,SaaS
-118873,340,small and medium businesses
-118873,51,sales and marketing
-118873,43,education
-118873,29,e-commerce
-119359,13764,hardware + software
-119359,2540,quantified self
-119359,1103,health and wellness
-119359,269,social media platforms
-119844,1237,sensors
-119844,379,retail technology
-119844,198,big data
-119844,57,location based services
-120160,409,development platforms
-120160,100,video games
-120160,41,social games
-120160,4,digital media
-120382,11317,document management
-120382,376,productivity software
-120382,149,real time
-120382,113,business productivity
-120862,9848,employment
-120862,468,recruiting
-120862,43,education
-121593,348,e commerce platforms
-121593,305,custom retail
-121593,162,marketplaces
-121593,29,e-commerce
-121839,230,social commerce
-121839,94,mobile commerce
-121839,93,fashion
-121839,29,e-commerce
-121846,309,sales automation
-121846,113,business productivity
-121846,97,business intelligence
-121846,83,CRM
-122184,498,e books
-122184,410,reviews and recommendations
-122184,29,e-commerce
-122262,1325,online video advertising
-122262,34,advertising
-122262,33,video
-122262,4,digital media
-122276,1556,social news
-122276,269,social media platforms
-122276,181,communities
-122276,6,social media
-122277,1132,developer tools
-122277,841,software
-122277,409,development platforms
-122313,657,email marketing
-122313,29,e-commerce
-122313,10,SaaS
-122331,379,retail technology
-122331,230,social commerce
-122331,94,mobile commerce
-122331,4,digital media
-122444,9540,web cms
-122444,3127,web development
-122444,332,web design
-122444,10,SaaS
-122512,553,women
-122512,481,kids
-122512,419,bridging online and offline
-122512,320,parenting
-122643,585,accounting
-122643,340,small and medium businesses
-122643,89,enterprise resource planning
-122643,10,SaaS
-122672,556,events
-122672,555,weddings
-122672,246,crowdsourcing
-122672,3,mobile
-122888,14224,content creators
-122888,43,education
-122888,29,e-commerce
-122888,10,SaaS
-123324,314,families
-123324,33,video
-123324,6,social media
-123324,3,mobile
-124164,8956,physicians
-124164,175,health care information technology
-124164,30,medical devices
-124164,3,mobile
-124303,9912,educational games
-124303,3065,toys
-124303,1262,creative industries
-124490,302,developer apis
-124490,198,big data
-124490,52,analytics
-124490,29,e-commerce
-124619,13197,big data analytics
-124619,1470,predictive analytics
-124619,242,social media monitoring
-124619,52,analytics
-124892,263,restaurants
-124892,73,sports
-124939,631,transportation
-124939,604,ticketing
-124939,443,mobile coupons
-124939,224,loyalty programs
-125045,686,brand marketing
-125045,339,advertising platforms
-125045,205,mobile advertising
-125045,34,advertising
-125280,419,bridging online and offline
-125280,162,marketplaces
-125280,29,e-commerce
-125344,83587,Portals
-125344,8604,indians
-125344,430,email newsletters
-125344,42,B2B
-125348,1913,interest graph
-125348,1076,social travel
-125348,6,social media
-125348,3,mobile
-126175,556,events
-126175,92,machine learning
-126175,67,search
-126175,6,social media
-126464,1470,predictive analytics
-126464,710,customer service
-126464,83,CRM
-126464,29,e-commerce
-126514,246,crowdsourcing
-126514,162,marketplaces
-126514,43,education
-126514,29,e-commerce
-126579,6,social media
-127378,1445,specialty foods
-127378,230,social commerce
-127378,162,marketplaces
-127378,29,e-commerce
-127406,198,big data
-127406,92,machine learning
-127406,50,lead generation
-127406,42,B2B
-127575,424,deals
-127575,174,coupons
-127575,50,lead generation
-127575,29,e-commerce
-127726,553,women
-127726,435,beauty
-127726,230,social commerce
-127726,93,fashion
-127729,2484,price comparison
-127729,692,shopping
-127729,80,comparison shopping
-127821,473,mobile payments
-127821,94,mobile commerce
-127821,71,payments
-127821,3,mobile
-127824,697,social television
-127824,52,analytics
-127824,6,social media
-127905,2540,quantified self
-127905,198,big data
-127905,69,automotive
-127905,3,mobile
-129175,410,reviews and recommendations
-129175,269,social media platforms
-129175,230,social commerce
-129175,29,e-commerce
-129930,83,CRM
-129930,51,sales and marketing
-129930,10,SaaS
-129930,3,mobile
-129941,841,software
-129941,246,crowdsourcing
-129941,13,health care
-130174,14791,cloud security
-130174,712,privacy
-130174,460,personal data
-130174,3,mobile
-130304,2462,internet of things
-130304,379,retail technology
-130304,198,big data
-130304,149,real time
-130560,205,mobile advertising
-130560,94,mobile commerce
-130560,3,mobile
-130937,9826,healthcare services
-130937,989,hospitals
-130937,175,health care information technology
-130937,162,marketplaces
-131028,707,enterprise search
-131028,311,collaboration
-131028,12,enterprise software
-131153,376,productivity software
-131153,89,enterprise resource planning
-131153,12,enterprise software
-131153,10,SaaS
-131299,2548,web tools
-131299,1132,developer tools
-131299,302,developer apis
-131299,12,enterprise software
-131716,456,groceries
-131716,228,local
-131716,29,e-commerce
-131716,3,mobile
-132065,376,productivity software
-132065,311,collaboration
-132065,43,education
-132065,3,mobile
-132224,2395,film production
-132224,1429,digital entertainment
-132224,256,television
-132224,34,advertising
-132880,374,personal finance
-132880,321,finance
-132880,162,marketplaces
-132880,4,digital media
-133918,10494,cloud infrastructure
-133961,3010,crowdfunding
-133961,286,consumer electronics
-133961,29,e-commerce
-134201,2776,mobile analytics
-134201,836,apps
-134201,490,mobile games
-134201,3,mobile
-134409,1258,mobile health
-134409,198,big data
-134409,175,health care information technology
-135064,1469,k 12 education
-135064,162,marketplaces
-135064,4,digital media
-135869,198,big data
-135869,52,analytics
-135869,42,B2B
-135869,10,SaaS
-136219,841,software
-136219,609,video conferencing
-136219,200,artificial intelligence
-136219,91,robotics
-136404,2909,elder care
-136404,2462,internet of things
-136404,175,health care information technology
-136404,30,medical devices
-136933,11048,web hosting
-136933,1132,developer tools
-136933,306,cloud management
-136933,10,SaaS
-137045,12991,collaborative consumption
-137045,367,supply chain management
-137045,93,fashion
-137045,29,e-commerce
-137602,10494,cloud infrastructure
-137602,252,databases
-137602,198,big data
-137602,38,cloud computing
-137994,1132,developer tools
-137994,386,design
-137994,10,SaaS
-137994,3,mobile
-138363,3010,crowdfunding
-138363,93,fashion
-138507,11939,iaas
-138507,2947,finance technology
-138507,38,cloud computing
-138507,17,financial services
-138735,3041,mobile devices
-138735,1295,gamification
-138735,358,user testing
-138735,10,SaaS
-139057,339,advertising platforms
-139057,234,deep information technology
-139057,162,marketplaces
-139057,4,digital media
-139092,449,application platforms
-139092,198,big data
-139092,69,automotive
-139092,3,mobile
-140117,11317,document management
-140117,2429,enterprise 2.0
-140117,376,productivity software
-140117,311,collaboration
-142230,12991,collaborative consumption
-142230,134,peer-to-peer
-142230,16,real estate
-142882,2776,mobile analytics
-142882,416,android
-142882,408,ios
-142882,10,SaaS
-142940,1221,psychology
-142940,1181,professional networking
-142940,468,recruiting
-142940,52,analytics
-144006,355,hotels
-144006,78,online travel
-145187,376,productivity software
-145187,94,mobile commerce
-145187,34,advertising
-145187,3,mobile
-146025,12991,collaborative consumption
-146025,3149,boating industry
-146025,162,marketplaces
-149282,16089,event management
-149282,556,events
-149282,12,enterprise software
-149282,10,SaaS
-149361,2503,contact centers
-149361,277,iphone
-149361,103,telephony
-149361,49,telecommunications
-149486,3092,lifestyle
-149486,1720,home owners
-149486,32,retail
-149486,29,e-commerce
-149576,10167,real estate investors
-149576,9708,commercial real estate
-149576,16,real estate
-149576,12,enterprise software
-149591,772,outdoors
-149591,90,energy efficiency
-149591,27,clean energy
-149591,22,energy
-150268,8604,indians
-150268,162,marketplaces
-150305,631,transportation
-150305,69,automotive
-150305,13,health care
-150305,7,hardware
-150765,856,venture capital
-150765,342,market research
-150765,321,finance
-150765,198,big data
-150892,1000,private social networking
-150892,198,big data
-150892,157,messaging
-150892,3,mobile
-152115,269,social media platforms
-152115,72,food and beverages
-152115,29,e-commerce
-152635,1258,mobile health
-152635,198,big data
-152635,175,health care information technology
-152635,13,health care
-153114,2947,finance technology
-153114,234,deep information technology
-153114,198,big data
-153114,12,enterprise software
-153921,585,accounting
-153921,340,small and medium businesses
-153921,17,financial services
-155311,841,software
-155311,52,analytics
-155782,1470,predictive analytics
-155782,368,product design
-155782,92,machine learning
-155782,29,e-commerce
-156064,450,social media marketing
-156064,419,bridging online and offline
-156064,320,parenting
-156064,230,social commerce
-156924,8962,content delivery
-156924,2572,personal branding
-156924,686,brand marketing
-156924,340,small and medium businesses
-156924,51,sales and marketing
-156924,10,SaaS
-157106,205,mobile advertising
-157106,138,search marketing
-157106,76,SEO
-157106,10,SaaS
-157687,162,marketplaces
-157687,3,mobile
-158596,632,email
-158596,376,productivity software
-158596,370,mobile enterprise
-158596,83,CRM
-158725,692,shopping
-158725,419,bridging online and offline
-158725,3,mobile
-159247,376,productivity software
-159247,12,enterprise software
-159454,93,fashion
-159454,48,manufacturing
-159454,32,retail
-159454,29,e-commerce
-159561,9912,educational games
-159561,490,mobile games
-159561,409,development platforms
-159561,3,mobile
-160382,12088,cooking
-160382,1103,health and wellness
-160382,72,food and beverages
-160382,43,education
-160521,13197,big data analytics
-160521,51,sales and marketing
-160521,12,enterprise software
-160521,10,SaaS
-160775,2498,innovation engineering
-160775,581,outsourcing
-160775,67,search
-160775,22,energy
-161453,1258,mobile health
-161453,418,personal health
-161453,175,health care information technology
-161453,13,health care
-163009,376,productivity software
-163009,311,collaboration
-163009,43,education
-163519,9708,commercial real estate
-163519,3010,crowdfunding
-163519,17,financial services
-163519,16,real estate
-164277,760,chat
-164277,376,productivity software
-164277,311,collaboration
-164277,12,enterprise software
-165758,1567,online scheduling
-165758,673,local advertising
-165758,228,local
-165758,29,e-commerce
-165778,490,mobile games
-165778,41,social games
-165778,3,mobile
-166756,1262,creative industries
-166756,230,social commerce
-166756,94,mobile commerce
-166756,29,e-commerce
-167051,10494,cloud infrastructure
-167051,302,developer apis
-167051,12,enterprise software
-167051,10,SaaS
-167795,686,brand marketing
-167795,73,sports
-167795,6,social media
-167795,3,mobile
-168431,8604,indians
-168431,1469,k 12 education
-168431,320,parenting
-168431,52,analytics
-168693,13197,big data analytics
-168693,2992,geospatial
-168693,51,sales and marketing
-168693,10,SaaS
-168993,9826,healthcare services
-168993,1221,psychology
-169368,1258,mobile health
-169368,320,parenting
-169368,157,messaging
-169368,13,health care
-169996,1122,wholesale
-169996,29,e-commerce
-170659,16414,active lifestyle
-170659,10483,gift card
-170659,1458,leisure
-170885,1258,mobile health
-170885,130,photography
-170885,33,video
-170885,13,health care
-172453,383,insurance
-172453,69,automotive
-172453,42,B2B
-172453,3,mobile
-172493,13197,big data analytics
-172493,2776,mobile analytics
-172493,52,analytics
-172493,3,mobile
-172821,419,bridging online and offline
-172821,198,big data
-172821,162,marketplaces
-172821,12,enterprise software
-174290,1325,online video advertising
-174290,673,local advertising
-174290,205,mobile advertising
-174290,138,search marketing
-174323,374,personal finance
-174323,17,financial services
-175020,290,video streaming
-175020,70,storage
-175020,38,cloud computing
-175020,4,digital media
-175062,1258,mobile health
-175062,286,consumer electronics
-175062,96,audio
-175062,47,music
-175330,2891,flowers
-175330,162,marketplaces
-175330,29,e-commerce
-175330,3,mobile
-175447,376,productivity software
-175447,3,mobile
-175496,1564,shipping
-175496,1545,logistics
-175496,29,e-commerce
-176085,175,health care information technology
-176085,13,health care
-176530,11774,personalization
-176530,2009,cloud data services
-176530,198,big data
-176530,92,machine learning
-177001,10341,local businesses
-177001,10,SaaS
-177001,3,mobile
-177433,2554,mobile security
-177433,628,data security
-177433,246,crowdsourcing
-177433,10,SaaS
-178766,1145,legal
-181117,710,customer service
-181117,379,retail technology
-181117,224,loyalty programs
-181525,69,automotive
-181525,29,e-commerce
-182252,1103,health and wellness
-182252,418,personal health
-182252,30,medical devices
-182277,342,market research
-182290,1325,online video advertising
-182290,686,brand marketing
-182290,269,social media platforms
-182290,6,social media
-184205,9407,general public worldwide
-184205,410,reviews and recommendations
-184205,198,big data
-184205,42,B2B
-184377,1893,distribution
-184377,386,design
-184377,48,manufacturing
-184903,657,email marketing
-184903,430,email newsletters
-184903,12,enterprise software
-184903,3,mobile
-185024,10494,cloud infrastructure
-185024,449,application platforms
-185024,12,enterprise software
-185024,10,SaaS
-185256,675,pets
-185256,175,health care information technology
-185256,7,hardware
-185256,3,mobile
-185339,1258,mobile health
-185339,175,health care information technology
-186314,340,small and medium businesses
-186314,38,cloud computing
-186314,13,health care
-186314,10,SaaS
-186432,10483,gift card
-186432,443,mobile coupons
-186432,224,loyalty programs
-186432,32,retail
-187017,12,enterprise software
-187172,1258,mobile health
-187172,175,health care information technology
-187172,13,health care
-189481,10494,cloud infrastructure
-189481,2389,3d printing
-189481,162,marketplaces
-189481,48,manufacturing
-189559,1258,mobile health
-189559,391,communications infrastructure
-189559,175,health care information technology
-189559,13,health care
-190642,2636,organic
-190642,1891,subscription businesses
-190642,1492,coffee
-190642,29,e-commerce
-190752,1564,shipping
-190752,1545,logistics
-190752,54,infrastructure
-190752,29,e-commerce
-191559,348,e commerce platforms
-191559,94,mobile commerce
-191559,29,e-commerce
-191861,391,communications infrastructure
-191861,311,collaboration
-191861,12,enterprise software
-191861,3,mobile
-192205,162,marketplaces
-192205,93,fashion
-192205,29,e-commerce
-192241,686,brand marketing
-192241,473,mobile payments
-192241,13,health care
-192241,3,mobile
-192826,1258,mobile health
-192826,1237,sensors
-192826,1056,technology
-192826,3,mobile
-193505,194,hospitality
-193505,32,retail
-194524,671,mass customization
-194524,31,consumer goods
-194524,29,e-commerce
-194524,3,mobile
-195195,340,small and medium businesses
-195195,83,CRM
-195195,50,lead generation
-195195,10,SaaS
-195722,2947,finance technology
-195722,585,accounting
-195722,383,insurance
-195722,321,finance
-195754,3,mobile
-196042,82752,shoes
-196042,230,social commerce
-196042,93,fashion
-196042,29,e-commerce
-196051,3041,mobile devices
-196051,277,iphone
-196051,10,SaaS
-196051,3,mobile
-196627,1161,travel
-196627,1075,vacation rentals
-198768,2009,cloud data services
-198768,1132,developer tools
-198768,302,developer apis
-198768,10,SaaS
-198837,1103,health and wellness
-198837,1056,technology
-198837,418,personal health
-198837,107,fitness
-198969,418,personal health
-198969,175,health care information technology
-198969,23,pharmaceuticals
-198969,13,health care
-198978,9708,commercial real estate
-198978,16,real estate
-198978,10,SaaS
-199193,798,identity
-199193,561,biometrics
-199193,473,mobile payments
-199193,71,payments
-200284,93,fashion
-200284,29,e-commerce
-200444,81663,handmade
-200444,3065,toys
-200444,2735,licensing
-200444,671,mass customization
-200720,1492,coffee
-200720,286,consumer electronics
-200720,72,food and beverages
-201133,9708,commercial real estate
-201133,1470,predictive analytics
-201133,198,big data
-201133,33,video
-203104,205,mobile advertising
-203104,94,mobile commerce
-203104,57,location based services
-203104,3,mobile
-204827,1606,unifed communications
-204827,370,mobile enterprise
-204827,49,telecommunications
-204827,10,SaaS
-204855,102551,drones
-204855,11940,paas
-204855,162,marketplaces
-204855,10,SaaS
-207748,894,video chat
-207748,157,messaging
-207971,9912,educational games
-207971,3065,toys
-207971,481,kids
-207971,31,consumer goods
-207988,34,advertising
-207988,4,digital media
-209376,1056,technology
-209376,418,personal health
-209376,107,fitness
-209376,73,sports
-210519,29,e-commerce
-211872,339,advertising platforms
-211872,229,facebook applications
-211872,34,advertising
-211872,6,social media
-212713,198,big data
-212713,52,analytics
-212713,47,music
-212713,6,social media
-213107,2540,quantified self
-213107,1103,health and wellness
-219524,9912,educational games
-219524,1469,k 12 education
-219524,942,embedded hardware and software
-219524,286,consumer electronics
-221975,1470,predictive analytics
-221975,956,content
-221975,450,social media marketing
-221975,34,advertising
-223875,473,mobile payments
-223875,379,retail technology
-223875,29,e-commerce
-223912,1103,health and wellness
-223912,675,pets
-223912,31,consumer goods
-223912,29,e-commerce
-224452,515,college recruiting
-224452,51,sales and marketing
-224452,43,education
-224452,34,advertising
-225535,1893,distribution
-225535,1122,wholesale
-225535,48,manufacturing
-225535,3,mobile
-230842,2462,internet of things
-230842,473,mobile payments
-230842,205,mobile advertising
-230842,3,mobile
-232108,11940,paas
-232108,11939,iaas
-232108,302,developer apis
-232108,10,SaaS
-236486,2947,finance technology
-236486,473,mobile payments
-236486,71,payments
-236486,17,financial services
-241523,2909,elder care
-241523,570,fraud detection
-241523,17,financial services
-242543,10783,health and insurance
-242543,9116,brokers
-242543,383,insurance
-242543,340,small and medium businesses
-244099,1492,coffee
-244099,263,restaurants
-244099,132,wine and spirits
-245489,2800,business analytics
-245489,489,rfid
-245489,379,retail technology
-245814,2776,mobile analytics
-245814,198,big data
-245814,52,analytics
-245814,3,mobile
-248798,1145,legal
-248798,383,insurance
-248798,42,B2B
-248798,10,SaaS
-249500,2776,mobile analytics
-249500,1132,developer tools
-249500,408,ios
-249500,358,user testing
-250086,1067,online dating
-250677,468,recruiting
-252764,2722,banking tech
-252764,302,developer apis
-252764,17,financial services
-253962,1056,technology
-253962,43,education
-254795,680,construction
-254795,556,events
-254795,12,enterprise software
-254795,3,mobile
-257250,97,business intelligence
-257250,52,analytics
-257250,51,sales and marketing
-257250,10,SaaS
-257975,721,edutainment
-257975,481,kids
-257975,91,robotics
-257975,43,education
-258348,1145,legal
-258348,246,crowdsourcing
-258816,91,robotics
-258816,30,medical devices
-261880,57277,cad
-261880,2389,3d printing
-261880,1129,3d
-261880,14,games
-262984,43,education
-267654,11317,document management
-267654,1469,k 12 education
-267654,43,education
+startup_id,market_id,market_name145766,671,mass customization145766,553,women-focused145766,93,fashion145766,29,e-commerce165934,419,bridging online and offline165934,228,local165934,162,marketplaces165934,93,fashion247020,81663,handmade247020,15202,jewelry247020,10969,home decor343335,93839,bitcoin343335,798,identity343335,570,fraud detection343335,6,social media343328,93839,bitcoin343328,712,privacy343328,157,messaging343328,3,mobile282322,152312,world282322,16423,china internet282322,78,online travel278665,93839,bitcoin278665,10483,gift card278665,2947,finance technology278665,473,mobile payments317073,407,art169688,553,women-focused169688,481,kids169688,320,parenting169688,3,mobile1796,1469,k 12 education1796,360,ipad1796,10,SaaS1796,3,mobile227769,93839,bitcoin227769,448,startups227769,71,payments227769,29,e-commerce23338,8549,mobile software tools23338,449,application platforms23338,409,development platforms23338,3,mobile172582,639,browser extensions172582,229,facebook applications172582,111,language learning172582,43,education230830,230,social commerce230830,162,marketplaces230830,94,mobile commerce230830,93,fashion182792,1103,health and wellness182792,418,personal health182792,162,marketplaces31114,10362,sns31114,205,mobile advertising31114,94,mobile commerce300404,1448,smart grid300404,841,software300404,773,energy management300404,90,energy efficiency300404,27,clean energy300404,26,clean technology383006,152934,Online Friendship383006,152933,Seniors383006,1235,baby boomers383006,1067,online dating87883,2462,internet of things87883,1183,computer vision87883,162,marketplaces87883,92,machine learning245205,11774,personalization245205,92,machine learning245205,29,e-commerce28109,340,small and medium businesses28109,42,B2B28109,12,enterprise software28109,10,SaaS252025,15202,jewelry252025,93,fashion252025,29,e-commerce256220,16,real estate160651,342,market research160651,198,big data160651,162,marketplaces160651,10,SaaS291357,9912,educational games291357,41,social games291357,6,social media291357,3,mobile388535,152176,Cryptocurrency388535,93839,bitcoin388535,17,financial services260573,1492,coffee260573,841,software260573,263,restaurants260573,3,mobile352773,355,hotels352773,340,small and medium businesses352773,263,restaurants352773,32,retail340012,286,consumer electronics340012,249,services340012,198,big data340012,10,SaaS200500,1103,health and wellness200500,348,e commerce platforms200500,340,small and medium businesses200500,107,fitness327599,2947,finance technology327599,2795,consumer lending327599,374,personal finance327599,134,peer-to-peer371838,158232,Residential371838,340,small and medium businesses371838,324,nonprofits371838,251,governments223712,450,social media marketing223712,242,social media monitoring223712,52,analytics223712,6,social media371326,2474,recycling371326,1122,wholesale371326,93,fashion371326,29,e-commerce358009,12088,cooking358009,72,food and beverages188679,3127,web development188679,2898,farming188679,29,e-commerce188679,3,mobile235920,3010,crowdfunding235920,1295,gamification235920,427,social fundraising235920,10,SaaS353919,13197,big data analytics353919,2462,internet of things353919,379,retail technology353919,97,business intelligence266298,246,crowdsourcing266298,162,marketplaces266499,84551,ecm266499,11317,document management266499,38,cloud computing266499,10,SaaS331159,379,retail technology331159,89,enterprise resource planning331159,48,manufacturing331159,29,e-commerce344329,340,small and medium businesses344329,263,restaurants344329,42,B2B344329,29,e-commerce257581,158240,500-startups-batch-9257581,1183,computer vision257581,464,photo editing257581,372,photo sharing257581,130,photography291998,641,human resources291998,370,mobile enterprise291998,198,big data291998,10,SaaS122077,72,food and beverages122077,52,analytics122077,10,SaaS122077,3,mobile200785,370,mobile enterprise200785,340,small and medium businesses200785,6,social media30833,114371,application performance monitoring30833,127,data center automation30833,12,enterprise software202020,1478,hip hop202020,1429,digital entertainment202020,1056,technology202020,41,social games166232,1056,technology166232,841,software157229,1132,developer tools157229,67,search157229,10,SaaS71252,1891,subscription businesses71252,675,pets71252,29,e-commerce49910,386,design69676,435,beauty69676,230,social commerce69676,33,video69676,29,e-commerce229052,13764,hardware + software229052,3065,toys229052,481,kids229052,14,games265283,1325,online video advertising265283,450,social media marketing265283,162,marketplaces255756,761,sms255756,416,android255756,277,iphone255756,3,mobile68135,1132,developer tools68135,198,big data68135,92,machine learning68135,59,open source107749,10167,real estate investors107749,9708,commercial real estate107749,1946,coworking107749,16,real estate250019,9166,musicians250019,162,marketplaces250019,96,audio250019,47,music108524,11126,sponsorship108524,686,brand marketing108524,448,startups108524,339,advertising platforms125108,1891,subscription businesses125108,320,parenting125108,230,social commerce125108,29,e-commerce292705,47,music292705,43,education292705,33,video292705,29,e-commerce80126,230,social commerce80126,50,lead generation80126,12,enterprise software80126,1,consumer internet77926,10969,home decor77926,32,retail77926,29,e-commerce316860,473,mobile payments316860,456,groceries316860,29,e-commerce3296,419,bridging online and offline3296,246,crowdsourcing3296,43,education132067,1470,predictive analytics132067,427,social fundraising132067,324,nonprofits132067,10,SaaS290581,686,brand marketing290581,450,social media marketing290581,198,big data290581,4,digital media152860,673,local advertising152860,228,local152860,10,SaaS152860,6,social media229070,634,emerging markets229070,631,transportation229070,198,big data229070,12,enterprise software345059,10974,nutrition345059,418,personal health345059,72,food and beverages345059,29,e-commerce133174,2812,entertainment industry133174,2760,online auctions133174,1458,leisure133174,78,online travel369426,4,digital media26632,1145,legal26632,641,human resources26632,384,professional services26632,162,marketplaces21778,529,local services21778,419,bridging online and offline21778,230,social commerce21778,162,marketplaces65382,13764,hardware + software65382,2389,3d printing65382,95,synthetic biology65382,2,biotechnology276077,15540,3d technology276077,2389,3d printing276077,162,marketplaces230395,419,bridging online and offline230395,367,supply chain management230395,93,fashion230395,48,manufacturing249163,448,startups249163,42,B2B249163,6,social media295640,93839,bitcoin295640,13197,big data analytics295640,198,big data295640,52,analytics222048,2947,finance technology222048,321,finance222048,52,analytics222048,17,financial services342668,208,ventures for good342668,96,audio342668,76,SEO342668,4,digital media167677,1235,baby boomers167677,1234,senior citizens167677,314,families167677,6,social media375986,93839,bitcoin375986,59,open source293171,9145,self development293171,43,education293171,33,video293171,6,social media214025,2947,finance technology214025,2795,consumer lending214025,1720,home owners214025,16,real estate219772,1181,professional networking219772,680,construction219772,162,marketplaces219772,10,SaaS301102,82752,shoes301102,198,big data301102,29,e-commerce301102,3,mobile262513,498,e books262513,269,social media platforms262513,87,publishing202960,399,electric vehicles202960,57,location based services202960,34,advertising202960,26,clean technology93300,1295,gamification93300,101,game mechanics93300,10,SaaS311655,99,performance marketing311655,34,advertising311655,29,e-commerce169745,230,social commerce169745,162,marketplaces169745,134,peer-to-peer169745,94,mobile commerce139918,339,advertising platforms139918,226,optimization139918,6,social media83180,1259,content discovery83180,1033,public relations83180,710,customer service83180,686,brand marketing233411,1564,shipping233411,1545,logistics233411,29,e-commerce233411,3,mobile127822,585,accounting127822,17,financial services127822,10,SaaS859,24624,integrated marketing859,1313,data integration859,686,brand marketing195210,228,local195210,94,mobile commerce195210,72,food and beverages323649,162,marketplaces323649,34,advertising323649,29,e-commerce323649,10,SaaS324129,435,beauty324129,32,retail324129,29,e-commerce324129,13,health care123381,269,social media platforms123381,229,facebook applications123381,41,social games123381,6,social media90241,198,big data90241,34,advertising90241,6,social media27216,2009,cloud data services27216,198,big data27216,38,cloud computing27216,12,enterprise software172747,34,advertising172747,10,SaaS172747,6,social media143866,9530,tv production143866,2395,film production143866,293,video editing143866,33,video1716,246,crowdsourcing1716,162,marketplaces1716,34,advertising134149,419,bridging online and offline134149,230,social commerce134149,93,fashion134149,29,e-commerce237002,1564,shipping237002,1545,logistics237002,1431,b2b express delivery237002,302,developer apis279864,8962,content delivery279864,78,online travel279864,4,digital media279864,3,mobile186307,556,events186307,419,bridging online and offline186307,162,marketplaces186307,42,B2B194233,1280,home renovation194233,419,bridging online and offline194233,162,marketplaces194233,3,mobile110746,16423,china internet110746,1968,south east asia110746,370,mobile enterprise294921,419,bridging online and offline294921,340,small and medium businesses294921,72,food and beverages165297,675,pets165297,162,marketplaces145222,9848,employment145222,468,recruiting145222,10,SaaS254773,2806,corporate training254773,2805,technical continuing education254773,43,education187933,230,social commerce187933,29,e-commerce282300,1469,k 12 education282300,427,social fundraising282300,305,custom retail282300,29,e-commerce196617,1262,creative industries196617,686,brand marketing196617,641,human resources196617,246,crowdsourcing146538,1307,tracking146538,198,big data146538,34,advertising146538,3,mobile229307,122995,marketing automation229307,309,sales automation229307,50,lead generation229307,12,enterprise software190707,114349,home automation190707,13764,hardware + software190707,2462,internet of things190707,200,artificial intelligence109312,198,big data109312,67,search109312,6,social media118667,17,financial services262524,435,beauty262524,340,small and medium businesses262524,162,marketplaces262524,29,e-commerce80556,16089,event management80556,198,big data80556,83,CRM80556,10,SaaS87227,641,human resources87227,430,email newsletters87227,309,sales automation87227,87,publishing247836,456,groceries247836,418,personal health247836,72,food and beverages247836,29,e-commerce23198,302,developer apis23198,71,payments23198,29,e-commerce4081,3127,web development4081,1132,developer tools4081,332,web design4081,10,SaaS123876,8962,content delivery123876,1259,content discovery123876,246,crowdsourcing123876,73,sports28937,710,customer service28937,157,messaging28937,10,SaaS28937,3,mobile125912,43,education125912,3,mobile175531,2540,quantified self175531,198,big data175531,92,machine learning175531,13,health care106081,11774,personalization106081,198,big data106081,78,online travel237831,93839,bitcoin237831,2947,finance technology237831,134,peer-to-peer237831,17,financial services23849,1893,distribution23849,87,publishing23849,43,education23849,29,e-commerce184308,2947,finance technology184308,162,marketplaces184308,42,B2B184308,17,financial services157178,122995,marketing automation157178,1132,developer tools157178,818,direct advertising157178,419,bridging online and offline210210,198,big data210210,94,mobile commerce210210,92,machine learning210210,29,e-commerce62150,601,virtual workforces62150,340,small and medium businesses62150,208,ventures for good62150,12,enterprise software69820,1567,online scheduling69820,175,health care information technology69820,162,marketplaces69820,10,SaaS118663,1556,social news118663,201,news118663,43,education118663,33,video26090,585,accounting26090,340,small and medium businesses26090,321,finance26090,10,SaaS764,205,mobile advertising764,34,advertising764,3,mobile96856,1325,online video advertising96856,686,brand marketing96856,450,social media marketing96856,34,advertising223242,383,insurance223242,374,personal finance223242,16,real estate262062,1172,utilities173253,2395,film production173253,1325,online video advertising173253,1262,creative industries173253,33,video267676,155930,Infrastructure Monitoring267676,114371,application performance monitoring267676,11939,iaas267676,306,cloud management263612,2472,craft beer229152,2969,estimation and quoting229152,529,local services229152,384,professional services229152,162,marketplaces251252,641,human resources251252,468,recruiting261326,3065,toys261326,286,consumer electronics261326,93,fashion261326,14,games260885,435,beauty260885,32,retail260885,29,e-commerce264547,2800,business analytics264547,2009,cloud data services264547,51,sales and marketing264547,10,SaaS294091,2947,finance technology294091,374,personal finance294091,198,big data294091,17,financial services260650,9166,musicians260650,1479,music services266221,16090,billing266221,585,accounting266221,29,e-commerce266221,12,enterprise software268058,2800,business analytics268058,1470,predictive analytics268058,57,location based services268058,10,SaaS247562,1479,music services247562,473,mobile payments247562,449,application platforms266565,12991,collaborative consumption266565,2613,university students266565,841,software266565,3,mobile290306,1056,technology290306,702,agriculture290306,43,education290306,13,health care96933,873,green consumer goods96933,399,electric vehicles96933,286,consumer electronics96933,31,consumer goods139092,449,application platforms139092,198,big data139092,69,automotive139092,3,mobile211872,339,advertising platforms211872,229,facebook applications211872,34,advertising211872,6,social media6702,15805,angel investing6702,856,venture capital6702,468,recruiting6702,448,startups190642,2636,organic190642,1891,subscription businesses190642,1492,coffee190642,29,e-commerce23877,13197,big data analytics23877,52,analytics23877,51,sales and marketing23877,42,B2B223912,1103,health and wellness223912,675,pets223912,31,consumer goods223912,29,e-commerce31917,481,kids31917,43,education31917,4,digital media31917,3,mobile116218,556,events116218,51,sales and marketing116218,29,e-commerce116218,10,SaaS2506,1132,developer tools2506,348,e commerce platforms2506,162,marketplaces2506,59,open source1682,332,web design1682,246,crowdsourcing1682,8,internet79849,410,reviews and recommendations79849,162,marketplaces79849,50,lead generation79849,42,B2B163901,1432,online shopping163901,230,social commerce163901,94,mobile commerce163901,29,e-commerce30459,269,social media platforms30459,52,analytics30459,47,music30459,10,SaaS85372,246,crowdsourcing85372,96,audio26179,615,tablets26179,12,enterprise software26179,10,SaaS26179,3,mobile13195,631,transportation13195,228,local13195,6,social media13195,3,mobile23418,1076,social travel23418,836,apps23418,78,online travel23418,3,mobile74754,94,mobile commerce74754,71,payments74754,29,e-commerce20331,427,social fundraising20331,324,nonprofits20331,208,ventures for good20331,10,SaaS107217,837,babies107217,553,women-focused107217,314,families107217,29,e-commerce1266,1295,gamification1266,450,social media marketing1266,181,communities1266,99,performance marketing104489,2812,entertainment industry104489,424,deals104489,85,film104489,29,e-commerce25717,1893,distribution25717,85,film25717,53,entertainment25717,33,video25353,13332,corporate it25353,11048,web hosting25353,415,domains25353,302,developer apis70379,435,beauty70379,230,social commerce70379,94,mobile commerce70379,29,e-commerce165778,490,mobile games165778,41,social games165778,3,mobile45441,94,mobile commerce45441,72,food and beverages45441,42,B2B45441,29,e-commerce82357,450,social media marketing82357,414,q&a82357,269,social media platforms82357,241,visualization137058,12991,collaborative consumption137058,671,mass customization137058,93,fashion137058,29,e-commerce26160,43,education26160,33,video26160,12,enterprise software26160,10,SaaS112523,634,emerging markets112523,162,marketplaces112523,149,real time112523,17,financial services125348,1913,interest graph125348,1076,social travel125348,6,social media125348,3,mobile193666,93,fashion193666,6,social media200284,93,fashion200284,29,e-commerce191559,348,e commerce platforms191559,94,mobile commerce191559,29,e-commerce88346,1469,k 12 education88346,481,kids88346,314,families88346,43,education132065,376,productivity software132065,311,collaboration132065,43,education132065,3,mobile139929,3127,web development139929,667,it and cybersecurity139929,246,crowdsourcing139929,3,mobile4312,162,marketplaces4312,34,advertising185256,675,pets185256,175,health care information technology185256,7,hardware185256,3,mobile201133,9708,commercial real estate201133,1470,predictive analytics201133,198,big data201133,33,video95009,13332,corporate it95009,376,productivity software95009,12,enterprise software95009,3,mobile23238,1567,online scheduling23238,556,events23238,419,bridging online and offline23238,162,marketplaces207748,894,video chat207748,157,messaging207988,157345,Native Advertising207988,34,advertising207988,4,digital media196042,82752,shoes196042,230,social commerce196042,93,fashion196042,29,e-commerce149361,2503,contact centers149361,277,iphone149361,103,telephony149361,49,telecommunications175447,376,productivity software175447,3,mobile209886,17,financial services67109,450,social media marketing67109,162,marketplaces67109,34,advertising67109,10,SaaS131153,376,productivity software131153,89,enterprise resource planning131153,12,enterprise software131153,10,SaaS83791,604,ticketing83791,29,e-commerce83791,12,enterprise software83791,10,SaaS169996,1122,wholesale169996,29,e-commerce170659,16414,active lifestyle170659,10483,gift card170659,1458,leisure210519,1545,logistics210519,32,retail210519,29,e-commerce181117,710,customer service181117,379,retail technology181117,224,loyalty programs97716,2009,cloud data services97716,12,enterprise software97716,10,SaaS81853,956,content81853,51,sales and marketing81853,12,enterprise software81853,10,SaaS144006,355,hotels144006,78,online travel200444,81663,handmade200444,3065,toys200444,2735,licensing200444,671,mass customization124892,263,restaurants124892,73,sports121593,348,e commerce platforms121593,305,custom retail121593,162,marketplaces121593,29,e-commerce86218,10974,nutrition86218,1103,health and wellness86218,418,personal health86218,72,food and beverages27572,443,mobile coupons27572,224,loyalty programs27572,205,mobile advertising27572,3,mobile19154,16,real estate2032,386,design2032,181,communities2032,162,marketplaces2032,29,e-commerce19146,52,analytics19146,3,mobile2276,414,q&a2276,57,location based services2276,6,social media2276,3,mobile22776,450,social media marketing22776,51,sales and marketing22776,34,advertising22776,10,SaaS1249,332,web design1249,181,communities1249,6,social media17609,1331,customer support tools17609,657,email marketing17609,83,CRM17609,12,enterprise software630,646,musical instruments630,408,ios630,43,education630,3,mobile787,246,crowdsourcing787,162,marketplaces787,34,advertising22458,481,kids22458,314,families22458,29,e-commerce22458,14,games13090,419,bridging online and offline13090,57,location based services13090,3,mobile13090,1,consumer internet19384,373,politics19384,269,social media platforms26523,376,productivity software26523,87,publishing26523,34,advertising26523,6,social media4876,230,social commerce4876,10,SaaS22038,2613,university students22038,269,social media platforms22038,230,social commerce22038,16,real estate26102,348,e commerce platforms26102,230,social commerce26102,93,fashion26102,29,e-commerce349,1161,travel349,78,online travel1748,663,contact management1748,302,developer apis1748,6,social media32572,2947,finance technology32572,1468,banking32572,374,personal finance32572,321,finance32665,205,mobile advertising36765,632,email36765,376,productivity software54146,663,contact management55100,85404,visual storytelling55100,685,data visualization73215,340,small and medium businesses73215,138,search marketing73215,34,advertising73215,29,e-commerce10855,339,advertising platforms10855,205,mobile advertising10855,34,advertising10855,3,mobile25513,632,email25513,113,business productivity25513,83,CRM25513,51,sales and marketing25497,556,events25497,246,crowdsourcing25497,52,analytics25497,33,video26118,419,bridging online and offline26118,342,market research26118,208,ventures for good26118,29,e-commerce79796,230,social commerce79796,174,coupons79796,92,machine learning79796,4,digital media31676,13,health care31676,6,social media31676,1,consumer internet31846,9002,home & garden31846,1720,home owners31846,16,real estate20332,490,mobile games20332,339,advertising platforms20332,205,mobile advertising104469,12991,collaborative consumption104469,162,marketplaces104469,134,peer-to-peer104469,29,e-commerce66253,1556,social news66253,1033,public relations165758,1567,online scheduling165758,673,local advertising165758,228,local165758,29,e-commerce83689,760,chat83689,157,messaging83689,3,mobile125280,419,bridging online and offline125280,162,marketplaces125280,29,e-commerce26348,836,apps26348,94,mobile commerce26348,3,mobile172453,383,insurance172453,69,automotive172453,42,B2B172453,3,mobile29008,11940,paas29008,1132,developer tools29008,38,cloud computing29008,10,SaaS150268,8604,indians150268,162,marketplaces91665,12088,cooking91665,1445,specialty foods91665,286,consumer electronics91665,72,food and beverages21214,1352,translation21214,246,crowdsourcing21214,162,marketplaces21214,149,real time175020,471,file sharing175020,70,storage175020,38,cloud computing175020,4,digital media18863,376,productivity software18863,309,sales automation18863,83,CRM18863,10,SaaS116874,93,fashion116874,29,e-commerce20524,553,women-focused20524,286,consumer electronics20524,107,fitness20524,93,fashion150765,856,venture capital150765,342,market research150765,321,finance150765,198,big data25544,468,recruiting25544,431,social recruiting25544,10,SaaS66827,12991,collaborative consumption66827,230,social commerce66827,93,fashion66827,29,e-commerce169368,1258,mobile health169368,320,parenting169368,157,messaging169368,13,health care75887,13197,big data analytics75887,198,big data75887,16,real estate75887,10,SaaS126514,162,marketplaces126514,134,peer-to-peer126514,43,education126514,29,e-commerce116369,9708,commercial real estate116369,16,real estate150305,631,transportation150305,69,automotive150305,13,health care150305,7,hardware168693,13197,big data analytics168693,2992,geospatial168693,51,sales and marketing168693,10,SaaS72168,450,social media marketing72168,52,analytics72168,3,mobile137994,1132,developer tools137994,386,design137994,10,SaaS137994,3,mobile112849,263,restaurants112849,162,marketplaces112849,72,food and beverages112849,3,mobile160382,12088,cooking160382,1103,health and wellness160382,72,food and beverages160382,43,education130174,14791,cloud security130174,712,privacy130174,460,personal data130174,198,big data88078,1884,ebooks88078,1469,k 12 education88078,481,kids88078,3,mobile106355,9708,commercial real estate106355,162,marketplaces106355,32,retail168431,8604,indians168431,1469,k 12 education168431,320,parenting168431,52,analytics1484,2806,corporate training1484,42,B2B1484,10,SaaS1484,3,mobile116466,1352,translation116466,1056,technology116466,340,small and medium businesses116466,10,SaaS195195,340,small and medium businesses195195,83,CRM195195,50,lead generation195195,10,SaaS127729,2484,price comparison127729,692,shopping127729,80,comparison shopping127729,29,e-commerce175496,1564,shipping175496,1545,logistics175496,29,e-commerce18275,416,android18275,408,ios18275,314,families18275,3,mobile127726,553,women-focused127726,435,beauty127726,230,social commerce127726,93,fashion30557,419,bridging online and offline30557,162,marketplaces30557,72,food and beverages30557,29,e-commerce127821,473,mobile payments127821,94,mobile commerce127821,71,payments127821,3,mobile127824,697,social television127824,52,analytics127824,6,social media32654,11317,document management32654,302,developer apis32654,12,enterprise software26411,1891,subscription businesses26411,132,wine and spirits26411,31,consumer goods26411,29,e-commerce122512,553,women-focused122512,481,kids122512,419,bridging online and offline122512,320,parenting122184,498,e books122184,410,reviews and recommendations122184,29,e-commerce82190,16089,event management82190,556,events82190,42,B2B82190,10,SaaS122262,1325,online video advertising122262,34,advertising122262,33,video122262,4,digital media122643,585,accounting122643,340,small and medium businesses122643,89,enterprise resource planning122643,10,SaaS2269,450,social media marketing2269,342,market research2269,198,big data2269,37,ad targeting2484,230,social commerce2484,94,mobile commerce2484,29,e-commerce2484,3,mobile122276,1556,social news122276,269,social media platforms122276,181,communities122276,6,social media30767,2484,price comparison30767,529,local services30767,410,reviews and recommendations30767,50,lead generation123324,314,families123324,33,video123324,6,social media123324,3,mobile28225,3010,crowdfunding28225,208,ventures for good28225,162,marketplaces135064,1469,k 12 education135064,162,marketplaces135064,4,digital media122672,556,events122672,555,weddings122672,246,crowdsourcing122672,3,mobile97116,12088,cooking97116,814,recipes97116,6,social media6328,419,bridging online and offline6328,340,small and medium businesses6328,228,local6328,10,SaaS85483,11774,personalization85483,632,email85483,198,big data85483,3,mobile31833,230,social commerce31833,29,e-commerce64699,340,small and medium businesses64699,42,B2B64699,10,SaaS71679,1000,private social networking71679,269,social media platforms71679,157,messaging71679,3,mobile130,9708,commercial real estate130,194,hospitality130,162,marketplaces130,29,e-commerce44559,641,human resources44559,468,recruiting44559,311,collaboration44559,12,enterprise software80042,379,retail technology80042,132,wine and spirits80042,94,mobile commerce80042,24,consumers24153,379,retail technology24153,52,analytics24153,12,enterprise software24153,3,mobile146025,12991,collaborative consumption146025,3149,boating industry146025,162,marketplaces81354,2947,finance technology81354,42,B2B81354,10,SaaS62234,8604,indians62234,1968,south east asia62234,634,emerging markets115616,1469,k 12 education115616,43,education813,246,crowdsourcing813,200,artificial intelligence813,42,B2B813,38,cloud computing157106,205,mobile advertising157106,138,search marketing157106,76,SEO157106,10,SaaS132880,374,personal finance132880,321,finance132880,162,marketplaces132880,4,digital media51645,410,reviews and recommendations51645,246,crowdsourcing51645,228,local51645,3,mobile815,1181,professional networking815,87,publishing815,43,education815,4,digital media13300,162,marketplaces13300,111,language learning13300,43,education13300,33,video23140,33,video23140,3,mobile1693,16414,active lifestyle1693,419,bridging online and offline1693,230,social commerce1693,6,social media19928,9708,commercial real estate19928,162,marketplaces19928,16,real estate19928,1,consumer internet105441,430,email newsletters105441,290,video streaming105441,17,financial services105441,4,digital media31465,386,design31465,162,marketplaces31465,67,search31465,3,mobile68638,531,flash sales68638,348,e commerce platforms68638,230,social commerce68638,29,e-commerce106120,1968,south east asia457,311,collaboration457,38,cloud computing457,10,SaaS2365,948,printing2365,83,CRM2365,29,e-commerce2365,10,SaaS23196,1742,social search23196,1067,online dating23196,1,consumer internet25092,342,market research25092,198,big data25092,97,business intelligence93099,386,design93099,311,collaboration93099,129,graphics93099,87,publishing20777,1313,data integration20777,340,small and medium businesses20777,10,SaaS20777,3,mobile85839,680,construction85839,12,enterprise software85839,3,mobile11888,2009,cloud data services11888,306,cloud management11888,38,cloud computing11888,10,SaaS94949,1556,social news94949,269,social media platforms94949,201,news94949,6,social media67354,2813,p2p money transfer67354,71,payments67354,43,education23205,2947,finance technology23205,841,software23205,340,small and medium businesses23205,10,SaaS105732,1469,k 12 education105732,449,application platforms105732,111,language learning105732,43,education99018,103,telephony99018,49,telecommunications99018,3,mobile21301,340,small and medium businesses21301,228,local21301,205,mobile advertising21301,3,mobile103572,93839,bitcoin103572,83982,tea103572,162,marketplaces103572,72,food and beverages117016,13197,big data analytics117016,205,mobile advertising117016,52,analytics117016,34,advertising117016,10,SaaS76047,95,synthetic biology76047,25,information technology76047,2,biotechnology88990,1898,mobile video88990,1259,content discovery88990,33,video88990,4,digital media2787,419,bridging online and offline2787,263,restaurants2787,32,retail2787,10,SaaS81494,1470,predictive analytics81494,1221,psychology81494,1181,professional networking81494,198,big data36705,686,brand marketing36705,205,mobile advertising36705,10,SaaS36705,3,mobile65563,2800,business analytics65563,686,brand marketing65563,52,analytics65563,6,social media19194,12991,collaborative consumption19194,386,design19194,181,communities19194,43,education209,1925,risk management209,367,supply chain management209,198,big data209,10,SaaS124939,631,transportation124939,604,ticketing124939,443,mobile coupons124939,224,loyalty programs64430,9912,educational games64430,1469,k 12 education64430,43,education64430,3,mobile125344,83587,Portals125344,430,email newsletters125344,42,B2B125344,6,social media87273,11940,paas87273,43,education87273,38,cloud computing87273,12,enterprise software23761,1352,translation23761,1161,travel23761,1054,augmented reality23761,3,mobile76252,3065,toys76252,490,mobile games76252,481,kids76252,14,games102051,836,apps102051,205,mobile advertising102051,51,sales and marketing102051,34,advertising127575,424,deals127575,174,coupons127575,50,lead generation127575,29,e-commerce23577,9708,commercial real estate23577,198,big data23577,162,marketplaces23577,12,enterprise software70849,663,contact management70849,277,iphone70849,103,telephony70849,3,mobile3473,1258,mobile health3473,360,ipad3473,277,iphone3473,19,medical23914,1161,travel23914,162,marketplaces81396,2484,price comparison81396,383,insurance81396,198,big data81396,80,comparison shopping29398,553,women-focused29398,419,bridging online and offline29398,230,social commerce29398,29,e-commerce88378,339,advertising platforms88378,138,search marketing88378,34,advertising88378,4,digital media20637,1884,ebooks20637,956,content20637,360,ipad20637,43,education1248,73,sports1248,6,social media1248,3,mobile29741,494,internet service providers29741,49,telecommunications29741,3,mobile25528,450,social media marketing25528,269,social media platforms25528,10,SaaS25528,6,social media71558,12703,child care71558,529,local services71558,320,parenting71558,162,marketplaces21042,340,small and medium businesses112,14224,content creators112,87,publishing112,53,entertainment112,4,digital media33100,16089,event management33100,11390,group email33100,430,email newsletters19563,1262,creative industries19563,956,content19563,6,social media83136,856,venture capital83136,198,big data83136,92,machine learning83136,10,SaaS3336,1445,specialty foods3336,31,consumer goods3336,29,e-commerce14700,407,art14700,340,small and medium businesses14700,29,e-commerce14700,1,consumer internet15077,230,social commerce15077,229,facebook applications15077,34,advertising15077,29,e-commerce24738,1891,subscription businesses24738,93,fashion24738,32,retail24738,29,e-commerce2556,309,sales automation2556,51,sales and marketing2556,42,B2B2556,12,enterprise software21312,1103,health and wellness21312,418,personal health21312,13,health care29381,149,real time29381,52,analytics29381,42,B2B29381,10,SaaS23157,230,social commerce23157,94,mobile commerce23157,29,e-commerce32409,10494,cloud infrastructure32409,10,SaaS43664,16423,china internet43664,9100,travel & tourism43664,1000,private social networking43664,29,e-commerce153921,585,accounting153921,340,small and medium businesses153921,17,financial services32170,1980,social crm32170,657,email marketing32170,450,social media marketing32170,83,CRM28625,32,retail28625,29,e-commerce28625,6,social media28625,3,mobile66690,407,art66690,230,social commerce66690,181,communities7601,13197,big data analytics7601,198,big data7601,123,internet infrastructure7601,54,infrastructure5980,450,social media marketing5980,52,analytics5980,10,SaaS5980,6,social media28118,590,casual games28118,490,mobile games28118,100,video games28118,41,social games70816,1033,public relations70816,52,analytics3147,162,marketplaces3147,17,financial services20336,1103,health and wellness20336,419,bridging online and offline20336,72,food and beverages20336,29,e-commerce25025,1331,customer support tools25025,710,customer service25025,340,small and medium businesses25025,10,SaaS25065,13197,big data analytics25065,673,local advertising25065,32,retail25065,12,enterprise software64339,340,small and medium businesses64339,29,e-commerce64339,10,SaaS25976,87,publishing25976,43,education25976,4,digital media12882,340,small and medium businesses12882,309,sales automation12882,198,big data12882,50,lead generation19184,1181,professional networking19184,1000,private social networking19184,376,productivity software19184,3,mobile80305,81663,handmade80305,230,social commerce80305,29,e-commerce80321,419,bridging online and offline80321,230,social commerce80321,93,fashion80321,29,e-commerce79828,2909,elder care79828,162,marketplaces79828,134,peer-to-peer79828,13,health care58611,1469,k 12 education58611,490,mobile games58611,481,kids58611,43,education817,1076,social travel817,416,android817,130,photography21031,9600,high school students21031,1469,k 12 education21031,449,application platforms29428,101078,shared economy29428,13104,mens specific29428,13081,online rental29428,93,fashion29428,32,retail29428,29,e-commerce11654,956,content11654,430,email newsletters11654,228,local11654,1,consumer internet3204,2947,finance technology3204,374,personal finance3204,17,financial services3204,3,mobile80977,3165,performing arts80977,607,concerts80977,604,ticketing80977,556,events65640,340,small and medium businesses65640,103,telephony65640,49,telecommunications65640,10,SaaS81433,360,ipad81433,277,iphone81433,93,fashion81433,29,e-commerce19119,340,small and medium businesses19119,320,parenting19119,162,marketplaces19119,10,SaaS9434,641,human resources9434,12,enterprise software9434,10,SaaS4776,1262,creative industries4776,1000,private social networking4776,386,design4776,372,photo sharing80314,93,fashion80314,29,e-commerce80314,1,consumer internet71006,3010,crowdfunding71006,1076,social travel71006,555,weddings71006,230,social commerce80986,229,facebook applications80986,41,social games80986,29,e-commerce80986,6,social media23102,1132,developer tools23102,302,developer apis23102,52,analytics23102,38,cloud computing19168,162,marketplaces19168,43,education19168,4,digital media18937,2540,quantified self18937,1295,gamification18937,1103,health and wellness18937,3,mobile19150,632,email16828,2898,farming16828,702,agriculture16828,10,SaaS24412,1432,online shopping24412,1259,content discovery24412,587,data mining24412,553,women-focused10310,686,brand marketing10310,12,enterprise software10310,10,SaaS10310,3,mobile19899,11774,personalization19899,555,weddings19899,553,women-focused19899,386,design21770,340,small and medium businesses21770,73,sports21770,6,social media21770,3,mobile20249,340,small and medium businesses20249,309,sales automation20249,51,sales and marketing20249,12,enterprise software25189,926,reputation25189,712,privacy25189,629,identity management25189,460,personal data22940,1331,customer support tools22940,52,analytics22940,51,sales and marketing22940,10,SaaS21048,230,social commerce21048,29,e-commerce21048,12,enterprise software312,435,beauty312,308,online reservations312,162,marketplaces312,50,lead generation23479,1582,cause marketing23479,1103,health and wellness23479,269,social media platforms23479,208,ventures for good4374,2812,entertainment industry4374,2572,personal branding4374,1414,creative4374,468,recruiting695,71,payments695,32,retail695,29,e-commerce695,10,SaaS23064,948,printing23064,372,photo sharing23064,33,video23064,3,mobile26108,43,education22799,918,group buying22799,230,social commerce22799,71,payments22799,29,e-commerce21821,9912,educational games21821,481,kids21821,87,publishing21821,3,mobile24469,57,location based services24469,6,social media24469,3,mobile26190,309,sales automation26190,198,big data26190,34,advertising26190,12,enterprise software2489,1980,social crm2489,632,email1074,772,outdoors1074,230,social commerce1074,94,mobile commerce1074,3,mobile23427,263,restaurants23427,224,loyalty programs23427,83,CRM23427,3,mobile9580,639,browser extensions9580,31,consumer goods9580,29,e-commerce19755,553,women-focused19755,334,green19755,93,fashion19755,29,e-commerce25989,3117,sports stadiums25989,339,advertising platforms25989,162,marketplaces25989,34,advertising32509,302,developer apis32509,103,telephony160,468,recruiting160,42,B2B160,12,enterprise software160,10,SaaS15762,3068,theatre15762,2812,entertainment industry15762,47,music19612,1103,health and wellness19612,418,personal health19612,41,social games19612,3,mobile2917,51,sales and marketing2917,10,SaaS2917,6,social media2917,1,consumer internet2197,230,social commerce2197,162,marketplaces2197,78,online travel2197,29,e-commerce15481,673,local advertising15481,389,local coupons15481,339,advertising platforms15481,228,local12271,13197,big data analytics12271,309,sales automation12271,10,SaaS12271,3,mobile13076,340,small and medium businesses13076,162,marketplaces13076,10,SaaS13152,241,visualization13152,198,big data13152,162,marketplaces13152,51,sales and marketing13097,450,social media marketing13097,340,small and medium businesses13097,10,SaaS13097,6,social media18918,379,retail technology18918,263,restaurants18918,3,mobile18918,1,consumer internet1023,9912,educational games1023,269,social media platforms1023,43,education1023,41,social games1023,3,mobile20520,12991,collaborative consumption20520,12088,cooking20520,1891,subscription businesses20520,4,digital media5599,49,telecommunications5599,12,enterprise software5599,10,SaaS5599,3,mobile915,340,small and medium businesses915,71,payments915,29,e-commerce720,340,small and medium businesses720,246,crowdsourcing720,3,mobile19153,263,restaurants19153,228,local19153,57,location based services19153,6,social media19159,16090,billing19159,71,payments20944,123,internet infrastructure20944,62,security20944,10,SaaS19435,836,apps19435,277,iphone19435,198,big data19435,3,mobile3033,419,bridging online and offline3033,47,music3033,43,education3033,3,mobile20715,3127,web development20715,1132,developer tools20715,409,development platforms20715,38,cloud computing4064,372,photo sharing4064,360,ipad4064,277,iphone4064,130,photography21891,2743,app discovery21891,277,iphone21891,3,mobile21834,205,mobile advertising21834,36,advertising networks2854,93,fashion2854,32,retail2854,31,consumer goods2854,29,e-commerce1639,340,small and medium businesses1639,113,business productivity1639,107,fitness1639,45,business services2752,309,sales automation2752,83,CRM2752,10,SaaS2752,3,mobile21877,12043,gift exchange21877,10483,gift card21877,230,social commerce21877,29,e-commerce6468,16089,event management6468,556,events6468,42,B2B6468,10,SaaS20898,228,local20898,57,location based services20898,52,analytics20898,3,mobile119,1893,distribution119,1146,app stores119,10,SaaS119,3,mobile22663,1183,computer vision22663,400,usability22663,342,market research22663,34,advertising19037,490,mobile games19037,238,religion19037,14,games19037,4,digital media22246,372,photo sharing22246,130,photography22246,3,mobile79259,340,small and medium businesses79259,57,location based services79259,29,e-commerce79259,3,mobile104931,11048,web hosting104931,10494,cloud infrastructure104931,123,internet infrastructure104931,10,SaaS290436,162,marketplaces290436,33,video84663,1132,developer tools84663,409,development platforms166232,1056,technology166232,841,software236388,641,human resources236388,468,recruiting236388,321,finance236388,73,sports306942,92,machine learning306942,59,open source306942,43,education306942,19,medical305852,11048,web hosting305852,1891,subscription businesses305852,348,e commerce platforms305852,29,e-commerce324111,286,consumer electronics324111,162,marketplaces324111,130,photography324111,29,e-commerce35849,2016,synchronization35849,471,file sharing35849,70,storage35849,12,enterprise software243861,1470,predictive analytics243861,587,data mining243861,92,machine learning243861,10,SaaS288362,208,ventures for good288362,13,health care288362,2,biotechnology337241,2389,3d printing337241,93,fashion323649,162,marketplaces323649,34,advertising323649,29,e-commerce323649,10,SaaS239661,628,data security239661,13,health care239661,12,enterprise software239661,10,SaaS354949,1722,property management354949,78,online travel361073,134,peer-to-peer361073,93,fashion354211,604,ticketing354211,556,events354211,419,bridging online and offline354211,3,mobile210171,1145,legal210171,1031,aerospace210171,631,transportation210171,3,mobile310812,386,design310812,246,crowdsourcing261302,29,e-commerce251156,1545,logistics251156,228,local251156,94,mobile commerce251156,72,food and beverages253829,9708,commercial real estate253829,1470,predictive analytics253829,379,retail technology253829,57,location based services126085,10974,nutrition126085,1258,mobile health126085,419,bridging online and offline126085,72,food and beverages250103,1067,online dating250103,1000,private social networking250103,419,bridging online and offline250103,3,mobile261243,1352,translation261243,340,small and medium businesses261243,134,peer-to-peer368616,989,hospitals368616,324,nonprofits368616,175,health care information technology368616,13,health care145246,632,email145246,226,optimization145246,52,analytics145246,10,SaaS370187,942,embedded hardware and software370187,399,electric vehicles370187,155,energy storage370187,27,clean energy370648,9407,general public worldwide370648,2861,east africa370648,2860,west africa370648,1968,south east asia264908,632,email337172,2565,mothers337172,324,nonprofits337172,3,mobile125553,1259,content discovery125553,47,music125553,6,social media125553,3,mobile206540,153351,Y Combinator Winter 2014206540,710,customer service206540,42,B2B206540,10,SaaS134272,1142,electronics134272,403,human computer interaction134272,286,consumer electronics134272,7,hardware393739,1000,private social networking393739,663,contact management229243,78,online travel229243,29,e-commerce229243,12,enterprise software229243,10,SaaS164278,94,mobile commerce164278,34,advertising164278,4,digital media164278,3,mobile78720,641,human resources78720,340,small and medium businesses78720,12,enterprise software78720,10,SaaS85771,9531,unmanned air systems85771,1031,aerospace85771,409,development platforms85771,12,enterprise software212713,156066,Y Combinator Winter 2013212713,198,big data212713,52,analytics212713,47,music66827,12991,collaborative consumption66827,230,social commerce66827,93,fashion66827,29,e-commerce129941,841,software129941,246,crowdsourcing129941,13,health care131299,2548,web tools131299,1132,developer tools131299,302,developer apis131299,12,enterprise software138363,3010,crowdfunding138363,93,fashion192205,162,marketplaces192205,93,fashion192205,29,e-commerce51938,157,messaging51938,57,location based services51938,3,mobile157687,162,marketplaces157687,3,mobile232108,11940,paas232108,11939,iaas232108,302,developer apis232108,10,SaaS39027,1132,developer tools39027,490,mobile games39027,416,android39027,409,development platforms167051,10494,cloud infrastructure167051,302,developer apis167051,12,enterprise software167051,10,SaaS241523,2909,elder care241523,570,fraud detection241523,17,financial services145187,376,productivity software145187,94,mobile commerce145187,34,advertising145187,3,mobile242543,10783,health and insurance242543,9116,brokers242543,383,insurance242543,340,small and medium businesses25092,342,market research25092,198,big data25092,97,business intelligence163519,9708,commercial real estate163519,3010,crowdfunding163519,17,financial services163519,16,real estate136404,2909,elder care136404,2462,internet of things136404,175,health care information technology136404,30,medical devices168993,9826,healthcare services168993,1221,psychology72414,634,emerging markets72414,473,mobile payments72414,208,ventures for good244099,263,restaurants244099,132,wine and spirits245814,2776,mobile analytics245814,198,big data245814,52,analytics245814,3,mobile21757,673,local advertising21757,410,reviews and recommendations21757,269,social media platforms18869,673,local advertising18869,450,social media marketing18869,340,small and medium businesses18869,10,SaaS175330,2891,flowers175330,162,marketplaces175330,29,e-commerce175330,3,mobile140117,11317,document management140117,2429,enterprise 2.0140117,376,productivity software140117,311,collaboration172493,13197,big data analytics172493,2776,mobile analytics172493,52,analytics172493,3,mobile175062,1258,mobile health175062,286,consumer electronics175062,96,audio175062,47,music250677,468,recruiting155782,1470,predictive analytics155782,368,product design155782,92,machine learning155782,29,e-commerce122444,9540,web cms122444,3127,web development122444,332,web design122444,10,SaaS194524,671,mass customization194524,31,consumer goods194524,29,e-commerce194524,3,mobile253962,1056,technology253962,43,education119844,1237,sensors119844,379,retail technology119844,198,big data119844,57,location based services155311,841,software155311,52,analytics248798,1145,legal248798,383,insurance248798,42,B2B248798,10,SaaS257975,721,edutainment257975,481,kids257975,91,robotics257975,43,education249500,2776,mobile analytics249500,1132,developer tools249500,408,ios249500,358,user testing172821,419,bridging online and offline172821,198,big data172821,162,marketplaces172821,12,enterprise software252764,1468,banking252764,302,developer apis252764,17,financial services258348,1145,legal258348,246,crowdsourcing256673,989,hospitals256673,841,software256673,13,health care256673,10,SaaS43503,1556,social news52745,1237,sensors52745,416,android52745,376,productivity software52745,3,mobile53145,372,photo sharing53145,130,photography19928,9708,commercial real estate19928,162,marketplaces19928,16,real estate19928,1,consumer internet22287,3010,crowdfunding22287,427,social fundraising22287,230,social commerce69763,587,data mining69763,230,social commerce69763,198,big data69763,1,consumer internet77762,675,pets77762,29,e-commerce79624,94,mobile commerce79624,87,publishing79624,29,e-commerce79624,3,mobile13949,490,mobile games13949,408,ios40574,252,databases40574,12,enterprise software6028,948,printing6028,130,photography6028,94,mobile commerce6028,3,mobile76269,9734,early stage it76269,1132,developer tools76269,632,email76269,302,developer apis85839,680,construction85839,12,enterprise software85839,3,mobile114426,1469,k 12 education114426,449,application platforms114426,43,education115146,2743,app discovery115146,1325,online video advertising115146,490,mobile games115146,33,video58059,376,productivity software58059,337,social bookmarking58059,311,collaboration58059,302,developer apis78563,10494,cloud infrastructure78563,1313,data integration78563,302,developer apis78563,10,SaaS78224,1000,private social networking78224,663,contact management78224,372,photo sharing78224,314,families91049,1075,vacation rentals91049,584,shared services91049,78,online travel91049,50,lead generation54312,570,fraud detection54312,198,big data54312,92,machine learning54312,10,SaaS196627,1161,travel196627,1075,vacation rentals127378,1445,specialty foods127378,230,social commerce127378,162,marketplaces127378,29,e-commerce199193,798,identity199193,561,biometrics199193,473,mobile payments199193,71,payments30468,339,advertising platforms30468,205,mobile advertising30468,35,advertising exchanges30468,34,advertising198768,2009,cloud data services198768,1132,developer tools198768,302,developer apis198768,10,SaaS108348,10494,cloud infrastructure108348,449,application platforms108348,38,cloud computing14239,2776,mobile analytics14239,198,big data14239,52,analytics14239,3,mobile1347,366,auctions1347,162,marketplaces1347,29,e-commerce16385,760,chat16385,502,forums16385,181,communities16385,3,mobile1003,198,big data1003,52,analytics1003,6,social media1003,4,digital media28208,2012,tutoring28208,162,marketplaces28208,43,education31762,157,messaging31762,149,real time31762,12,enterprise software25359,1161,travel25359,78,online travel32771,11557,credit cards32771,71,payments3473,1258,mobile health3473,360,ipad3473,277,iphone3473,19,medical32364,761,sms32364,333,presentations32364,149,real time32364,3,mobile32452,47,music32452,29,e-commerce32452,3,mobile32566,10483,gift card32654,11317,document management32654,302,developer apis32654,12,enterprise software32667,471,file sharing32677,162,marketplaces32677,78,online travel33952,2548,web tools153921,585,accounting153921,340,small and medium businesses153921,17,financial services35670,304,investment management35670,17,financial services130560,205,mobile advertising130560,94,mobile commerce130560,3,mobile131716,456,groceries131716,228,local131716,29,e-commerce131716,3,mobile64214,78,online travel117187,2999,disruptive models117187,1161,travel117187,584,shared services117187,134,peer-to-peer147002,339,advertising platforms147002,51,sales and marketing147002,34,advertising147002,4,digital media112846,9540,web cms112846,332,web design112846,136,web presence management112846,3,mobile79622,13197,big data analytics79622,2947,finance technology79622,2795,consumer lending106017,286,consumer electronics106017,91,robotics106017,33,video106017,7,hardware133961,3010,crowdfunding133961,286,consumer electronics133961,29,e-commerce158725,692,shopping158725,419,bridging online and offline158725,94,mobile commerce158725,3,mobile149576,10167,real estate investors149576,9708,commercial real estate149576,16,real estate149576,12,enterprise software37323,340,small and medium businesses37323,263,restaurants37323,51,sales and marketing37323,12,enterprise software28225,3010,crowdfunding28225,208,ventures for good28225,162,marketplaces175020,471,file sharing175020,70,storage175020,38,cloud computing175020,4,digital media45978,340,small and medium businesses45978,224,loyalty programs17068,490,mobile games17068,205,mobile advertising17068,3,mobile178766,1145,legal182277,342,market research122888,14224,content creators122888,43,education122888,10,SaaS99336,1181,professional networking99336,1145,legal99336,162,marketplaces99336,103,telephony67548,1720,home owners67548,1280,home renovation67548,228,local67548,162,marketplaces124490,302,developer apis124490,198,big data124490,52,analytics124490,29,e-commerce106374,340,small and medium businesses80503,10494,cloud infrastructure80503,449,application platforms80503,198,big data80503,12,enterprise software191861,391,communications infrastructure191861,311,collaboration191861,12,enterprise software191861,3,mobile190752,1564,shipping190752,1545,logistics190752,54,infrastructure190752,29,e-commerce120862,9848,employment120862,468,recruiting120862,43,education3295,269,social media platforms3295,181,communities3295,6,social media3295,4,digital media19149,130,photography3678,224,loyalty programs3678,29,e-commerce3678,12,enterprise software3678,10,SaaS19146,52,analytics19146,3,mobile19671,97,business intelligence19671,42,B2B19671,12,enterprise software19671,10,SaaS1410,76,SEO1410,51,sales and marketing1410,34,advertising1410,10,SaaS22663,1183,computer vision22663,400,usability22663,342,market research22663,34,advertising108003,205,mobile advertising108003,87,publishing108003,52,analytics108003,34,advertising85122,460,personal data85122,374,personal finance85122,17,financial services108524,11126,sponsorship108524,686,brand marketing108524,448,startups108524,339,advertising platforms101592,1325,online video advertising101592,339,advertising platforms101592,205,mobile advertising101592,34,advertising108312,374,personal finance108312,363,financial exchanges108312,162,marketplaces108312,17,financial services20331,427,social fundraising20331,324,nonprofits20331,208,ventures for good20331,10,SaaS109557,93839,bitcoin109557,2777,virtual currency109557,473,mobile payments109557,71,payments110951,702,agriculture110951,198,big data110951,10,SaaS110951,3,mobile27869,10494,cloud infrastructure27869,901,voip27869,302,developer apis27869,49,telecommunications111423,894,video chat111423,311,collaboration111423,291,meeting software32748,3127,web development32748,252,databases32748,198,big data32748,38,cloud computing31465,386,design31465,162,marketplaces31465,67,search31465,3,mobile2197,230,social commerce2197,162,marketplaces2197,78,online travel2197,29,e-commerce1241,671,mass customization1241,305,custom retail1241,93,fashion1241,29,e-commerce113221,901,voip113221,157,messaging113221,6,social media113386,10969,home decor113386,472,interior design113386,162,marketplaces113386,29,e-commerce23967,12991,collaborative consumption23967,1218,bicycles23967,419,bridging online and offline23967,134,peer-to-peer114142,290,video streaming114142,100,video games114442,641,human resources114442,42,B2B114442,12,enterprise software114442,10,SaaS114450,3010,crowdfunding114450,348,e commerce platforms114450,29,e-commerce114450,3,mobile67672,3127,web development67672,332,web design31319,1132,developer tools31319,449,application platforms31319,302,developer apis31319,175,health care information technology69943,416,android69943,277,iphone69943,78,online travel69943,3,mobile19563,1262,creative industries19563,956,content19563,6,social media68919,13081,online rental68919,10167,real estate investors68919,1506,rental housing68919,16,real estate117469,286,consumer electronics117469,262,communications hardware117469,91,robotics117469,7,hardware25293,2596,online identity25293,798,identity25293,62,security25293,3,mobile118873,340,small and medium businesses118873,51,sales and marketing118873,43,education118873,29,e-commerce114180,2800,business analytics114180,2009,cloud data services114180,1470,predictive analytics114180,52,analytics20026,11146,celebrity20026,1325,online video advertising20026,339,advertising platforms20026,11,media120382,11317,document management120382,376,productivity software120382,149,real time120382,113,business productivity28390,1545,logistics28390,379,retail technology28390,29,e-commerce122277,1132,developer tools122277,841,software122277,409,development platforms70538,1545,logistics70538,29,e-commerce126579,6,social media65781,399,electric vehicles65781,287,sporting goods65781,286,consumer electronics79961,311,collaboration79961,12,enterprise software79961,10,SaaS80054,449,application platforms80054,50,lead generation80054,42,B2B80054,12,enterprise software13274,11940,paas13274,1132,developer tools13274,149,real time13274,123,internet infrastructure31626,47,music52721,97110,science-as-a-service52721,162,marketplaces52721,9,life sciences52721,2,biotechnology79981,628,data security79981,471,file sharing27175,1543,career management27175,468,recruiting27175,410,reviews and recommendations27175,4,digital media52538,175,health care information technology81396,2484,price comparison81396,383,insurance81396,198,big data81396,80,comparison shopping81471,490,mobile games81471,100,video games81471,14,games81471,3,mobile81705,761,sms81705,432,speech recognition81705,416,android81705,3,mobile52073,228,local52073,162,marketplaces52073,3,mobile83129,473,mobile payments83129,419,bridging online and offline83129,94,mobile commerce83129,71,payments78671,406,product search78671,301,visual search78671,69,automotive10275,8962,content delivery10275,3127,web development10275,123,internet infrastructure19612,1103,health and wellness19612,418,personal health19612,41,social games19612,3,mobile88077,1331,customer support tools88077,632,email88077,309,sales automation88077,83,CRM83136,856,venture capital83136,198,big data83136,92,machine learning83136,10,SaaS82552,311,collaboration82552,87,publishing82552,12,enterprise software82552,4,digital media95146,631,transportation95146,529,local services95146,323,postal and courier services95146,72,food and beverages76083,246,crowdsourcing76083,230,social commerce76083,162,marketplaces76083,78,online travel91973,11826,user experience design91973,2776,mobile analytics91973,400,usability91973,358,user testing100100,3010,crowdfunding100100,302,developer apis100100,162,marketplaces100100,71,payments32606,11700,it management32606,12,enterprise software32606,10,SaaS103032,309,sales automation103032,83,CRM103032,51,sales and marketing103032,10,SaaS103843,3127,web development103843,416,android103843,408,ios103843,302,developer apis62150,601,virtual workforces62150,340,small and medium businesses62150,208,ventures for good62150,12,enterprise software14263,234,deep information technology14263,198,big data14263,38,cloud computing14263,10,SaaS2489,1980,social crm2489,632,email27830,11826,user experience design27830,198,big data27830,69,automotive27830,3,mobile28064,1468,banking28064,321,finance28064,320,parenting28064,17,financial services24541,52,analytics24541,51,sales and marketing24541,10,SaaS24541,6,social media19982,668,mobile search19982,269,social media platforms19982,67,search19982,6,social media29047,686,brand marketing29047,339,advertising platforms29047,205,mobile advertising29047,87,publishing29049,760,chat29049,311,collaboration29049,149,real time29049,59,open source16683,162,marketplaces16683,69,automotive16683,29,e-commerce2032,386,design2032,181,communities2032,162,marketplaces2032,29,e-commerce49456,449,application platforms49456,54,infrastructure49456,3,mobile65735,490,mobile games65735,41,social games65735,3,mobile57028,43,education15481,673,local advertising15481,389,local coupons15481,339,advertising platforms15481,228,local21042,340,small and medium businesses73437,3117,sports stadiums73437,73,sports73437,53,entertainment73437,6,social media6592,2678,green building6592,198,big data6592,90,energy efficiency6592,52,analytics74990,2429,enterprise 2.074990,657,email marketing74990,198,big data74990,10,SaaS4041,448,startups4041,88,mobile infrastructure4041,42,B2B4041,3,mobile76997,11557,credit cards76997,473,mobile payments76997,340,small and medium businesses76997,263,restaurants684,13197,big data analytics684,2800,business analytics684,97,business intelligence77589,1258,mobile health77589,408,ios77589,338,group sms77589,175,health care information technology21896,632,email21896,376,productivity software21896,157,messaging24598,311,collaboration24598,246,crowdsourcing24598,162,marketplaces77770,761,sms77770,277,iphone77770,6,social media77770,3,mobile76533,14095,employer benefits programs76533,1891,subscription businesses76533,441,discounts76533,224,loyalty programs78782,9848,employment78782,468,recruiting78782,43,education22320,490,mobile games22320,41,social games79275,1132,developer tools79275,83,CRM79275,10,SaaS79275,3,mobile25954,15540,3d technology25954,1183,computer vision25954,595,maps79556,12991,collaborative consumption79556,162,marketplaces79556,94,mobile commerce79556,93,fashion224564,2806,corporate training224564,43,education224564,29,e-commerce224564,10,SaaS281568,12,enterprise software281568,3,mobile281779,226,optimization281779,52,analytics281779,29,e-commerce281779,6,social media281859,157,messaging281859,3,mobile189443,2504,tech field support189443,311,collaboration189443,48,manufacturing189443,12,enterprise software221703,1132,developer tools221703,431,social recruiting221703,162,marketplaces221703,43,education281185,33,video281804,491,image recognition281804,93,fashion281804,29,e-commerce281804,3,mobile162112,11940,paas162112,1132,developer tools162112,38,cloud computing162112,10,SaaS21594,282,semantic search21594,230,social commerce21594,198,big data21594,29,e-commerce79393,2462,internet of things79393,252,databases79393,198,big data79393,52,analytics138249,14791,cloud security138249,171,enterprise security138249,62,security95818,11317,document management95818,628,data security95818,12,enterprise software95818,10,SaaS143866,9530,tv production143866,2395,film production143866,293,video editing143866,33,video107277,372,photo sharing107277,130,photography83184,702,agriculture83184,97,business intelligence83184,42,B2B83184,26,clean technology146143,13197,big data analytics146143,773,energy management146143,92,machine learning146143,90,energy efficiency132224,9530,tv production132224,2395,film production132224,42,B2B132224,10,SaaS156064,450,social media marketing156064,419,bridging online and offline156064,320,parenting156064,230,social commerce89224,2947,finance technology89224,1406,trading89224,6,social media89224,4,digital media207859,9847,freelancers207859,302,developer apis207859,10,SaaS66850,1132,developer tools66850,332,web design66850,3,mobile24069,585,accounting24069,340,small and medium businesses24069,17,financial services24069,10,SaaS261438,13764,hardware + software261438,702,agriculture261438,31,consumer goods261438,10,SaaS341542,912,teenagers341542,286,consumer electronics341542,93,fashion341542,7,hardware260030,1103,health and wellness260030,930,baby safety260030,320,parenting260030,30,medical devices361956,1218,bicycles361956,631,transportation361956,595,maps361956,73,sports137735,246,crowdsourcing137735,181,communities137735,43,education137735,41,social games368511,1259,content discovery368511,956,content368511,87,publishing368511,34,advertising176702,114349,home automation176702,873,green consumer goods176702,90,energy efficiency176702,27,clean energy204451,2596,online identity204451,629,identity management204451,570,fraud detection176262,2531,social network media176262,162,marketplaces176262,93,fashion28475,1258,mobile health28475,418,personal health28475,198,big data28475,6,social media238395,223,doctors238395,175,health care information technology238395,52,analytics238395,3,mobile387127,152265,connected devices387127,151589,smart city387127,151153,Wearables387127,11022,smart building387127,2462,internet of things387127,942,embedded hardware and software115999,1295,gamification115999,83,CRM115999,12,enterprise software115999,10,SaaS316417,873,green consumer goods316417,379,retail technology316417,72,food and beverages316417,31,consumer goods93002,87433,navigation93002,10770,gps93002,277,iphone93002,57,location based services179022,1258,mobile health179022,376,productivity software241853,2813,p2p money transfer241853,1468,banking241853,473,mobile payments241853,374,personal finance176940,9708,commercial real estate176940,340,small and medium businesses176940,194,hospitality176940,32,retail28929,13197,big data analytics28929,9848,employment28929,641,human resources28929,468,recruiting109204,3127,web development109204,409,development platforms109204,269,social media platforms109204,38,cloud computing3558,11774,personalization3558,657,email marketing3558,198,big data3558,29,e-commerce96366,668,mobile search96366,376,productivity software96366,12,enterprise software96366,10,SaaS121839,230,social commerce121839,162,marketplaces121839,94,mobile commerce121839,29,e-commerce23227,36,advertising networks23227,34,advertising23227,4,digital media245649,320,parenting245649,62,security245649,10,SaaS119359,13764,hardware + software119359,2540,quantified self119359,1103,health and wellness119359,269,social media platforms186432,10483,gift card186432,443,mobile coupons186432,224,loyalty programs186432,32,retail186314,340,small and medium businesses186314,38,cloud computing186314,13,health care186314,10,SaaS138735,3041,mobile devices138735,1132,developer tools138735,162,marketplaces138735,10,SaaS126464,1470,predictive analytics126464,710,customer service126464,83,CRM126464,29,e-commerce27573,1295,gamification27573,481,kids27573,277,iphone27573,107,fitness189481,581,outsourcing189481,162,marketplaces189481,7,hardware81853,956,content81853,51,sales and marketing81853,12,enterprise software81853,10,SaaS94672,114349,home automation94672,2462,internet of things94672,286,consumer electronics94672,3,mobile3494,1295,gamification3494,1258,mobile health3494,418,personal health3494,3,mobile250086,1067,online dating224452,515,college recruiting224452,51,sales and marketing224452,43,education224452,34,advertising30626,1056,technology30626,895,colleges30626,43,education209376,1056,technology209376,418,personal health209376,107,fitness209376,73,sports166756,1262,creative industries166756,230,social commerce166756,94,mobile commerce166756,29,e-commerce104422,2433,career planning104422,515,college recruiting104422,43,education262984,43,education76705,675,pets76705,269,social media platforms76705,6,social media76705,3,mobile98097,1545,logistics98097,740,service providers98097,468,recruiting98097,162,marketplaces268248,449,application platforms268248,103,telephony268248,33,video30443,1474,entrepreneur30443,1181,professional networking30443,1000,private social networking30443,6,social media24507,114380,testing24507,11939,iaas24507,1132,developer tools24507,10,SaaS150966,386,design150966,368,product design150966,43,education124756,2962,veterinary124756,306,cloud management124756,13,health care124756,10,SaaS139808,114454,labor optimization139808,431,social recruiting139808,162,marketplaces101493,228,local101493,181,communities101493,73,sports101493,6,social media195754,3,mobile182290,1325,online video advertising182290,686,brand marketing182290,269,social media platforms182290,6,social media26432,419,bridging online and offline26432,162,marketplaces26432,47,music26432,4,digital media24491,773,energy management24491,48,manufacturing24491,27,clean energy24491,12,enterprise software30069,1132,developer tools30069,490,mobile games30069,7,hardware30069,3,mobile164277,760,chat164277,376,productivity software164277,311,collaboration164277,12,enterprise software156924,340,small and medium businesses156924,51,sales and marketing156924,10,SaaS156924,4,digital media170885,1258,mobile health170885,130,photography170885,33,video170885,13,health care174323,374,personal finance174323,17,financial services125045,686,brand marketing125045,339,advertising platforms125045,205,mobile advertising125045,34,advertising177433,2554,mobile security177433,628,data security177433,246,crowdsourcing177433,10,SaaS198978,15214,government innovation198978,9708,commercial real estate198978,16,real estate198978,10,SaaS122313,657,email marketing122313,29,e-commerce122313,10,SaaS213107,2540,quantified self213107,1103,health and wellness213107,107,fitness198837,1103,health and wellness198837,1056,technology198837,418,personal health198837,107,fitness44849,16,real estate167795,686,brand marketing167795,73,sports167795,6,social media167795,3,mobile25024,473,mobile payments25024,427,social fundraising25024,324,nonprofits25024,238,religion195722,2947,finance technology195722,585,accounting195722,383,insurance195722,10,SaaS223875,473,mobile payments223875,379,retail technology223875,29,e-commerce130304,2462,internet of things130304,379,retail technology130304,198,big data130304,149,real time78493,57277,cad78493,15540,3d technology78493,1183,computer vision78493,1129,3d176530,11774,personalization176530,2009,cloud data services176530,198,big data176530,92,machine learning152115,269,social media platforms152115,72,food and beverages152115,29,e-commerce225535,1893,distribution225535,1122,wholesale225535,48,manufacturing225535,3,mobile127905,2540,quantified self127905,198,big data127905,69,automotive127905,3,mobile185024,10494,cloud infrastructure185024,449,application platforms185024,12,enterprise software185024,10,SaaS149486,3092,lifestyle149486,1720,home owners149486,32,retail149486,29,e-commerce221975,1470,predictive analytics221975,34,advertising221975,12,enterprise software221975,4,digital media91940,339,advertising platforms91940,205,mobile advertising91940,12,enterprise software91940,3,mobile127278,16089,event management127278,556,events127278,419,bridging online and offline127278,162,marketplaces1566,1414,creative1566,181,communities1566,10,SaaS120160,409,development platforms120160,100,video games120160,41,social games120160,4,digital media19374,246,crowdsourcing19374,208,ventures for good19374,43,education19374,4,digital media112248,13081,online rental112248,12991,collaborative consumption112248,162,marketplaces112248,134,peer-to-peer184377,1893,distribution184377,386,design184377,48,manufacturing157542,1545,logistics157542,1431,b2b express delivery157542,340,small and medium businesses157542,29,e-commerce185339,1258,mobile health185339,175,health care information technology63724,130,photography63724,6,social media63724,4,digital media63724,3,mobile49455,4,digital media49455,3,mobile42274,10494,cloud infrastructure42274,1132,developer tools42274,10,SaaS42274,3,mobile32318,198,big data32318,52,analytics32318,47,music79741,11390,group email79741,311,collaboration79741,12,enterprise software79741,10,SaaS2831,1172,utilities2831,198,big data2831,90,energy efficiency2831,10,SaaS77492,1896,mobile social77492,269,social media platforms77492,6,social media77492,3,mobile31417,2800,business analytics31417,460,personal data31417,339,advertising platforms31417,198,big data20011,450,social media marketing20011,87,publishing20011,6,social media20011,4,digital media2276,414,q&a2276,57,location based services2276,6,social media2276,3,mobile21584,2540,quantified self21584,208,ventures for good21584,175,health care information technology21584,1,consumer internet21199,1103,health and wellness21199,419,bridging online and offline21199,162,marketplaces21199,107,fitness85108,43,education23792,1226,universities23792,43,education23792,10,SaaS23792,3,mobile20788,269,social media platforms20788,12,enterprise software20788,10,SaaS20788,6,social media19401,641,human resources19401,587,data mining19401,42,B2B19401,10,SaaS979,175,health care information technology979,13,health care21618,657,email marketing21618,587,data mining21618,198,big data21618,82,direct marketing77692,10167,real estate investors77692,1506,rental housing77692,16,real estate77692,1,consumer internet24963,1107,high tech24963,309,sales automation24963,42,B2B24963,10,SaaS101246,1352,translation1541,43,education79995,889,water79995,105,nanotechnology79995,26,clean technology31196,632,email31196,175,health care information technology31196,62,security31196,17,financial services117515,1181,professional networking117515,632,email117515,52,analytics136219,841,software136219,609,video conferencing136219,200,artificial intelligence136219,91,robotics198969,418,personal health198969,175,health care information technology198969,23,pharmaceuticals198969,13,health care106308,13197,big data analytics106308,2776,mobile analytics106308,1470,predictive analytics106308,226,optimization142940,1221,psychology142940,1181,professional networking142940,468,recruiting142940,52,analytics82817,460,personal data82817,342,market research82817,198,big data82817,41,social games138507,11939,iaas138507,2947,finance technology138507,38,cloud computing138507,17,financial services163247,12,enterprise software163247,10,SaaS144353,10781,simulation144353,685,data visualization144353,198,big data144353,10,SaaS182467,13197,big data analytics182467,1470,predictive analytics182467,162,marketplaces182467,97,business intelligence29925,601,virtual workforces29925,581,outsourcing29925,45,business services29925,25,information technology94935,10277,office space94935,826,digital signage94935,403,human computer interaction94935,43,education125519,1564,shipping125519,1132,developer tools125519,29,e-commerce125519,10,SaaS18966,982,task management18966,376,productivity software18966,311,collaboration18966,3,mobile76742,10494,cloud infrastructure76742,2009,cloud data services76742,1267,virtualization76742,38,cloud computing188857,408,ios188857,202,internet tv188857,33,video75455,1103,health and wellness75455,308,online reservations75455,162,marketplaces75455,107,fitness111636,1479,music services111636,607,concerts111636,277,iphone111636,47,music79332,836,apps79332,73,sports79332,52,analytics79332,3,mobile112,14224,content creators112,87,publishing112,53,entertainment112,4,digital media27048,1891,subscription businesses27048,72,food and beverages27048,29,e-commerce27048,1,consumer internet21304,2462,internet of things21304,1183,computer vision21304,198,big data21304,52,analytics22588,490,mobile games22588,57,location based services22588,41,social games537,8604,indians537,1067,online dating19979,9912,educational games19979,1153,young adults19979,111,language learning44,632,email44,376,productivity software20917,686,brand marketing20917,450,social media marketing20917,379,retail technology20917,81,content syndication21517,13197,big data analytics21517,1258,mobile health21517,418,personal health21517,175,health care information technology19185,11557,credit cards19185,355,hotels19185,224,loyalty programs19185,78,online travel21969,13197,big data analytics21969,2050,social business21969,521,knowledge management21969,283,natural language processing26942,263,restaurants26942,72,food and beverages26942,51,sales and marketing26942,10,SaaS31409,269,social media platforms31409,181,communities31409,6,social media19136,450,social media marketing19136,246,crowdsourcing19136,6,social media19136,3,mobile12106,450,social media marketing12106,230,social commerce12106,99,performance marketing12106,29,e-commerce23102,1132,developer tools23102,302,developer apis23102,52,analytics23102,38,cloud computing1748,663,contact management1748,302,developer apis1748,6,social media22937,370,mobile enterprise22937,311,collaboration22937,12,enterprise software22937,10,SaaS31850,657,email marketing31850,430,email newsletters31850,16,real estate32588,2507,outdoor advertising32588,34,advertising32717,124087,curated web32717,8962,content delivery32717,1259,content discovery32717,956,content36817,615,tablets36817,205,mobile advertising36817,87,publishing36817,3,mobile99359,1262,creative industries99359,956,content99359,269,social media platforms99359,3,mobile6398,2999,disruptive models6398,419,bridging online and offline6398,162,marketplaces6398,69,automotive76252,3065,toys76252,490,mobile games76252,481,kids76252,14,games24856,1258,mobile health24856,1103,health and wellness24856,107,fitness24856,3,mobile89862,11939,iaas89862,10494,cloud infrastructure89862,38,cloud computing31113,228,local31113,198,big data31113,57,location based services31113,3,mobile96232,230,social commerce96232,162,marketplaces96232,69,automotive96232,29,e-commerce98861,309,sales automation98861,97,business intelligence98861,12,enterprise software98861,10,SaaS72109,122995,marketing automation72109,2581,social media advertising72109,657,email marketing32409,10494,cloud infrastructure32409,10,SaaS25306,409,development platforms25306,348,e commerce platforms25306,78,online travel25306,10,SaaS25294,162,marketplaces25294,73,sports25294,43,education33930,57277,cad33930,311,collaboration33930,181,communities21073,836,apps21073,449,application platforms21073,10,SaaS21073,3,mobile61263,1103,health and wellness61263,73,sports61263,4,digital media61263,3,mobile27096,198,big data27096,97,business intelligence27096,52,analytics27096,3,mobile130937,9826,healthcare services130937,989,hospitals130937,175,health care information technology130937,162,marketplaces72266,982,task management72266,376,productivity software72266,10,SaaS134201,2776,mobile analytics134201,836,apps134201,490,mobile games134201,3,mobile134409,1258,mobile health134409,198,big data134409,175,health care information technology18138,836,apps18138,138,search marketing18138,3,mobile77179,1468,banking77179,374,personal finance77179,321,finance77179,17,financial services137045,12991,collaborative consumption137045,367,supply chain management137045,93,fashion137045,29,e-commerce117448,2484,price comparison117448,1474,entrepreneur117448,1432,online shopping117448,3,mobile77419,1107,high tech77419,91,robotics77419,48,manufacturing77419,7,hardware142230,12991,collaborative consumption142230,134,peer-to-peer142230,16,real estate120248,641,human resources120248,468,recruiting120248,431,social recruiting120248,10,SaaS23290,409,development platforms23290,198,big data23290,38,cloud computing23290,12,enterprise software27212,856,venture capital27212,52,analytics27212,17,financial services27212,10,SaaS76155,13197,big data analytics76155,1470,predictive analytics76155,587,data mining76155,302,developer apis77235,11940,paas77235,2414,nfc77235,942,embedded hardware and software77235,409,development platforms78690,1161,travel78690,1075,vacation rentals78690,78,online travel78690,16,real estate79123,10494,cloud infrastructure79123,449,application platforms79123,302,developer apis78959,11940,paas78959,409,development platforms78959,59,open source78959,10,SaaS24416,311,collaboration24416,293,video editing24416,33,video13309,449,application platforms13309,302,developer apis13309,198,big data13309,52,analytics32090,157,messaging32090,149,real time32090,52,analytics32090,4,digital media78781,1313,data integration11888,2009,cloud data services11888,306,cloud management11888,38,cloud computing11888,10,SaaS24067,14791,cloud security24067,8962,content delivery24067,628,data security24067,38,cloud computing1856,1218,bicycles1856,631,transportation1856,26,clean technology86331,30,medical devices86331,13,health care42511,11390,group email42511,1331,customer support tools42511,710,customer service42511,83,CRM26883,450,social media marketing26883,269,social media platforms26883,198,big data26883,52,analytics29741,494,internet service providers29741,49,telecommunications29741,3,mobile90464,1567,online scheduling90464,376,productivity software90464,311,collaboration90464,3,mobile91255,12991,collaborative consumption91255,10341,local businesses91255,3010,crowdfunding91255,321,finance31948,360,ipad31948,94,mobile commerce31948,29,e-commerce31948,4,digital media30767,2484,price comparison30767,529,local services30767,410,reviews and recommendations30767,50,lead generation29096,13197,big data analytics29096,424,deals29096,355,hotels29096,78,online travel26775,12991,collaborative consumption26775,1000,private social networking26775,230,social commerce26775,94,mobile commerce24432,8962,content delivery24432,230,social commerce24432,87,publishing24432,4,digital media6657,372,photo sharing6657,6,social media6657,3,mobile26394,33,video
