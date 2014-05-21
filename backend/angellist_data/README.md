@@ -13,6 +13,7 @@ Using the AngelList API we retrieved all startups belonging to the following acc
 * https://angel.co/500startups
 * https://angel.co/y-combinator
 * https://angel.co/techstars
+* https://angel.co/startx
 
 With duplicates removed we then retrieved all users following these startups. This dataset then provided the users, items (i.e., startups) and interactions (i.e., follows) to build an Item Similarity model in PredictionIO.
 
